@@ -22,17 +22,17 @@ def chat():
 
     if not booking:
         if msg.lower() == 'enquiry':
-            response['chat'] = "You selected enquiry. How can we assist you?"
+            response['chat'] = "Welcome to our inquiry service. How may we assist you today?"
             response['options'] = ['Go Back']
         elif msg.lower() == 'book appointment':
             booking = True
-            response['chat'] = "You selected to book an appointment. Please choose a department."
-            response['options'] = ['Department A', 'Department B', 'Department C', 'Go Back']
+            response['chat'] = "Great! You've chosen to book an appointment. Please select a department."
+            response['options'] = ['Cardiology', 'Orthopedics', 'Dermatology', 'Go Back']
         elif msg.lower() == 'about':
-            response['chat'] = "You selected about. Here is some information about our system:\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et nisi vel ex malesuada congue. Vestibulum nec eros nec eros scelerisque consequat. Duis vel sem vel mauris consequat interdum vel a urna. Proin consectetur dui id posuere commodo."
+            response['chat'] = "Sure, here's some information about our system:\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et nisi vel ex malesuada congue. Vestibulum nec eros nec eros scelerisque consequat. Duis vel sem vel mauris consequat interdum vel a urna. Proin consectetur dui id posuere commodo."
             response['options'] = ['Go Back']
         else:
-            response['chat'] = "Hey, how can I help you?"
+            response['chat'] = "Hello! How can I assist you today?"
             response['options'] = ['Enquiry', 'Book Appointment', 'About']
     else:
         if not department:
@@ -40,55 +40,55 @@ def chat():
                 booking = False
                 response['chat'] = "You've returned to the main menu. How can I assist you?"
                 response['options'] = ['Enquiry', 'Book Appointment', 'About']
-            elif msg.startswith('Department'):
+            elif msg.lower() in ['cardiology', 'orthopedics', 'dermatology']:
                 department = msg
-                response['chat'] = f"You selected {department}. Now, choose a date."
-                response['options'] = ['Date 1', 'Date 2', 'Date 3', 'Go Back']
+                response['chat'] = f"Great choice! You've selected the {department} department. Now, choose a date."
+                response['options'] = ['Today', 'Tomorrow', 'Next Week', 'Go Back']
             else:
                 response['chat'] = "Please choose a valid department."
-                response['options'] = ['Department A', 'Department B', 'Department C', 'Go Back']
+                response['options'] = ['Cardiology', 'Orthopedics', 'Dermatology', 'Go Back']
         elif not date:
             if msg.lower() == 'go back':
                 response['chat'] = "You've returned to the department selection. Please choose a department."
-                response['options'] = ['Department A', 'Department B', 'Department C', 'Go Back']
+                response['options'] = ['Cardiology', 'Orthopedics', 'Dermatology', 'Go Back']
                 # Reset variables for the current booking
                 department = ''
                 doctor = ''
                 time = ''
-            elif msg.startswith('Date'):
+            elif msg.lower() in ['today', 'tomorrow', 'next week']:
                 date = msg
-                response['chat'] = f"You selected {date}. Now, choose a doctor."
-                response['options'] = ['Doctor A', 'Doctor B', 'Doctor C', 'Go Back']
+                response['chat'] = f"Perfect! You've selected {date}. Now, choose a doctor."
+                response['options'] = ['Dr. Smith', 'Dr. Johnson', 'Dr. Williams', 'Go Back']
             else:
                 response['chat'] = "Please choose a valid date."
-                response['options'] = ['Date 1', 'Date 2', 'Date 3', 'Go Back']
+                response['options'] = ['Today', 'Tomorrow', 'Next Week', 'Go Back']
         elif not doctor:
             if msg.lower() == 'go back':
                 response['chat'] = "You've returned to the date selection. Please choose a date."
-                response['options'] = ['Date 1', 'Date 2', 'Date 3', 'Go Back']
+                response['options'] = ['Today', 'Tomorrow', 'Next Week', 'Go Back']
                 # Reset variables for the current booking
                 doctor = ''
                 time = ''
-            elif msg.startswith('Doctor'):
+            elif msg.lower() in ['dr. smith', 'dr. johnson', 'dr. williams']:
                 doctor = msg
-                response['chat'] = f"You selected {doctor}. Now, choose a time."
-                response['options'] = ['Time 1', 'Time 2', 'Time 3', 'Go Back']
+                response['chat'] = f"Excellent choice! You've selected {doctor}. Now, choose a time."
+                response['options'] = ['Morning', 'Afternoon', 'Evening', 'Go Back']
             else:
                 response['chat'] = "Please choose a valid doctor."
-                response['options'] = ['Doctor A', 'Doctor B', 'Doctor C', 'Go Back']
+                response['options'] = ['Dr. Smith', 'Dr. Johnson', 'Dr. Williams', 'Go Back']
         elif not time:
             if msg.lower() == 'go back':
                 response['chat'] = "You've returned to the doctor selection. Please choose a doctor."
-                response['options'] = ['Doctor A', 'Doctor B', 'Doctor C', 'Go Back']
+                response['options'] = ['Dr. Smith', 'Dr. Johnson', 'Dr. Williams', 'Go Back']
                 # Reset variables for the current booking
                 time = ''
-            elif msg.startswith('Time'):
+            elif msg.lower() in ['morning', 'afternoon', 'evening']:
                 time = msg
-                response['chat'] = f"You selected {time}. Please confirm your appointment: \n\nDepartment: {department}\nDate: {date}\nDoctor: {doctor}\nTime: {time}\n\n"
+                response['chat'] = f"Fantastic! You've selected {time}. Please confirm your appointment:\n\nDepartment: {department}\nDate: {date}\nDoctor: {doctor}\nTime: {time}\n\n"
                 response['options'] = ['Confirm', 'Reset', 'Go Back']
             else:
                 response['chat'] = "Please choose a valid time."
-                response['options'] = ['Time 1', 'Time 2', 'Time 3', 'Go Back']
+                response['options'] = ['Morning', 'Afternoon', 'Evening', 'Go Back']
         elif msg.lower() == 'confirm':
             response['chat'] = f"Appointment confirmed!\n\nDepartment: {department}\nDate: {date}\nDoctor: {doctor}\nTime: {time}\n\nThank you!"
             # Reset variables for the next booking
@@ -98,7 +98,8 @@ def chat():
             time = ''
             booking = False
         elif msg.lower() == 'reset':
-            response['chat'] = "Appointment selection reset. Please choose a department."
+            response['chat'] = "Appointment selection reset. Please choose an department."
+            response['options'] = ['Cardiology', 'Orthopedics', 'Dermatology', 'Go Back']
             # Reset variables for the current booking
             department = ''
             date = ''
@@ -115,7 +116,6 @@ def chat():
             response['chat'] = "You've already completed the selection. If you want to start over, please refresh the page."
 
     return jsonify(response)
-
 
 if __name__ == '__main__':
     app.run()
