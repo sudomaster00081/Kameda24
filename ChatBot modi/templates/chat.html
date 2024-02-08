@@ -13,7 +13,7 @@
 	</head>
 	
 	
-	<body bgcolor>
+	<body >
 		<div class="container-fluid h-100">
 			<div class="row justify-content-center h-100">		
 				<div class="col-md-8 col-xl-6 chat">
@@ -48,25 +48,30 @@
 		</div>
 		
 <script>
+
     $(document).ready(function() {
+        var selectedOption = null;
+    
         $("#messageArea").on("submit", function(event) {
+            event.preventDefault(); // Prevent default form submission
+    
             const date = new Date();
             const hour = date.getHours();
             const minute = date.getMinutes();
             const str_time = hour + ":" + minute;
             var rawText = $("#text").val();
-			if (rawText.trim() === '') {
-				// Handle the case where input is empty
-				alert("Please enter a non-empty message.");
-				event.preventDefault(); // Prevent the default form submission
-				return; // Stop further processing
-			}
-
+    
+            // Check if a button was clicked
+            if (selectedOption) {
+                rawText = selectedOption;
+                selectedOption = null; // Reset selected option
+            }
+    
             var userHtml = '<div class="d-flex justify-content-end mb-4"><div class="msg_cotainer_send">' + rawText + '<span class="msg_time_send">' + str_time + '</span></div><div class="img_cont_msg"><img src="https://i.ibb.co/d5b84Xw/Untitled-design.png" class="rounded-circle user_img_msg"></div></div>';
-
+    
             $("#text").val("");
             $("#messageFormeight").append(userHtml);
-
+    
             $.ajax({
                 data: {
                     msg: rawText,
@@ -77,34 +82,32 @@
                 // Append chat response
                 var botHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT7PV3UEbndBGF51LKYjfPTgD33fkNLtgHzs5DJrrVCg&s" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' + data.chat + '<span class="msg_time">' + str_time + '</span></div></div>';
                 $("#messageFormeight").append($.parseHTML(botHtml));
-
+    
                 // Append buttons
                 if (data.options && data.options.length > 0) {
                     var buttonsHtml = '<div class="d-flex justify-content-start mb-4">';
                     for (var i = 0; i < data.options.length; i++) {
                         // Add click event to each button
-                        buttonsHtml += '<button class="btn btn-primary mr-2 chat-option">' + data.options[i] + '</button>';
+                        buttonsHtml += '<button class="btn btn-primary mr-2 chat-option" data-option="' + data.options[i] + '">' + data.options[i] + '</button>';
                     }
                     buttonsHtml += '</div>';
                     $("#messageFormeight").append($.parseHTML(buttonsHtml));
-
-                    // Add click event for chat-option buttons
-                    $(".chat-option").on("click", function() {
-                        var buttonText = $(this).text();
-                        var userHtml = '<div class="d-flex justify-content-end mb-4"><div class="msg_cotainer_send">' + buttonText + '<span class="msg_time_send">' + str_time + '</span></div><div class="img_cont_msg"><img src="https://i.ibb.co/d5b84Xw/Untitled-design.png" class="rounded-circle user_img_msg"></div></div>';
-                        $("#messageFormeight").append($.parseHTML(userHtml));
-
-                        // Disable the button and submit the form
-                        $(this).prop('disabled', true);
-                        $("#messageArea").submit();
-                    });
                 }
             });
-            event.preventDefault();
+        });
+    
+        // Add click event for chat-option buttons
+        $(document).on("click", ".chat-option", function() {
+            selectedOption = $(this).data('option');
+            // Disable the button and submit the form
+            $(this).prop('disabled', true);
+            $("#messageArea").submit();
         });
     });
+    
 
-	
+    
+    
 </script>
 
     </body>

@@ -16,14 +16,13 @@ def index():
 @app.route("/get", methods=["GET", "POST"])
 def chat():
     msg = request.form["msg"]
-    if msg != '':
+    if True:
         input = msg
         return get_Chat_response(input)
 
 
 # Updated get_Chat_response function
 def get_Chat_response(text):
-    print(text)
     # Sample response with chat and options
     response = {
         'chat': 'Hey, how can I help you?',
