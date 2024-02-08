@@ -131,3 +131,15 @@ def chat():
 
 if __name__ == '__main__':
     app.run()
+
+
+
+# from transformers import AutoModelForCausalLM, AutoTokenizer
+# import torch
+
+
+# tokenizer = AutoTokenizer.from_pretrained("model path")
+# model = AutoModelForCausalLM.from_pretrained("model path")
+
+
+
