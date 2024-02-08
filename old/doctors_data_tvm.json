@@ -1,0 +1,1616 @@
+[
+    {
+        "Doctor Name": "Dr Harikumar  G",
+        "Specialty": "Consultant Anesthesia",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Hashir A",
+        "Specialty": "Consultant",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sherly  John",
+        "Specialty": "Consultant",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Madhusudanan E S",
+        "Specialty": "Associate Consultant",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ashwin  Haridas",
+        "Specialty": "Associate Consultant",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Anil Radhakrishnan Pillai",
+        "Specialty": "Consultant",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jayaprakash  Madhavan",
+        "Specialty": "Senior Consultant Radiation Oncologist",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Bharath  V M",
+        "Specialty": "Consultant–Oncosurgeon",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Amrita B Rao",
+        "Specialty": "Associate Consultant, Plastic Micro …",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. P G Jayaprakash",
+        "Specialty": "Hon. Sr. Consultant– Radiation …",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shali S Nair",
+        "Specialty": "Registrar",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. P P Abdul Shahid",
+        "Specialty": "Consultant-Medical Oncology",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. E Grace Shirley",
+        "Specialty": "Consultant Radiation Oncologist",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Dhanasekaran V K",
+        "Specialty": "Consultant – Radiation Oncology",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Bijulal  S",
+        "Specialty": "Senior Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Padmaja N P",
+        "Specialty": "Senior Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Hashir  Kareem",
+        "Specialty": "Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Prof. Dr. G Vijayaraghavan",
+        "Specialty": "Vice-Chairman & Director-Medical Services, …",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ramesh Natarajan",
+        "Specialty": "Senior Consultant & Coordinator",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Meera  R",
+        "Specialty": "Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Praveen S V",
+        "Specialty": "Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ramakrishna Pillai V",
+        "Specialty": "Director - Interventional Cardiology, …",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Bhavana  Mohandas",
+        "Specialty": "Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Dhinesh David",
+        "Specialty": "Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ajit Kumar VK",
+        "Specialty": "Senior Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vipin Balakrishnan Nair",
+        "Specialty": "Associate Consultant",
+        "Department": "Cardiothoracic Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Swapna Sasidharan",
+        "Specialty": "Consultant Anesthesia",
+        "Department": "Cardiothoracic Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. S  Subash",
+        "Specialty": "Consultant Anesthesia",
+        "Department": "Anesthesiology,\n                                \n                                     Cardiothoracic Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shaji  Palangadan",
+        "Specialty": "Senior Consultant and Co …",
+        "Department": "Cardiothoracic Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jacob John Theophilius",
+        "Specialty": "Senior Consultant and Chief …",
+        "Department": "Anesthesiology,\n                                \n                                     Cardiothoracic Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Zaynah  Zainuddin",
+        "Specialty": "Associate Consultant",
+        "Department": "Cardiothoracic Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dt. Jayasree  N S",
+        "Specialty": "Group Coordinator",
+        "Department": "Clinical Nutrition",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Leena  Saju",
+        "Specialty": "Group Manager",
+        "Department": "Clinical Nutrition",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dt. Vijilatha",
+        "Specialty": "Sr. Dietician",
+        "Department": "Clinical Nutrition",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rajesh  Sasikumaran",
+        "Specialty": "Consultant",
+        "Department": "Critical Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Deepa Das",
+        "Specialty": "Senior Consultant",
+        "Department": "Critical Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Deepak V",
+        "Specialty": "Clinical Director & Coordinator",
+        "Department": "Critical Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Suvy  Manuel",
+        "Specialty": "Oral & Maxillofacial Surgeon",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Fazeela  Beegum",
+        "Specialty": "Periodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Anirudhmaadhav P A",
+        "Specialty": "Pediatric Dentist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ajilal  SK",
+        "Specialty": "Microscopic Endodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Dixit  Raj",
+        "Specialty": "Laser Periodontist and Implantologist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Biju  Sebastian",
+        "Specialty": "Senior Orthodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Surej Kumar L K",
+        "Specialty": "Senior Maxillofacial Surgeon",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Arun  Sadasivan",
+        "Specialty": "Senior Periodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Augustine  Thomas",
+        "Specialty": "Prosthodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Abdul Shameer C K",
+        "Specialty": "Consultant Orthodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Roopa  Prasannan",
+        "Specialty": "Endodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jithu  Joseph",
+        "Specialty": "Endodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Cucoo",
+        "Specialty": "Oral Physician",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sivadas  Arun",
+        "Specialty": "Periodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Aswin  S",
+        "Specialty": "Pediatric Dentist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shabnam  U",
+        "Specialty": "Oral Pathologist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sreejith  K R",
+        "Specialty": "Senior Pediatric Dentist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vinayak  Padmakumar",
+        "Specialty": "Pediatric Dentist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Nair Parvathi Unnikrishnan",
+        "Specialty": "Aesthetic Dentist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Evana M Roy",
+        "Specialty": "General Dentist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Mathew P Varghese",
+        "Specialty": "Oral & Maxillofacial Surgeon",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sooraj  S",
+        "Specialty": "Senior Maxillofacial Surgeon",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Benoy  Stanly",
+        "Specialty": "Co-ordinator, Dental Services & …",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. DHANYA  KRISHNAN",
+        "Specialty": "Pediatric Dentist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Oommen Aju Jacob",
+        "Specialty": "Senior Maxillofacial Surgeon",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rajesh  Raveendranath",
+        "Specialty": "Neuro Muscular Dentist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shekhar S",
+        "Specialty": "Maxillofacial Surgeon",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jeomy Zachariah Oommen",
+        "Specialty": "Consultant",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ravi  Aravind",
+        "Specialty": "Prosthodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Saji  Firoz",
+        "Specialty": "Consultant",
+        "Department": "Dermatology & Cosmetology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Mini P N",
+        "Specialty": "Consultant",
+        "Department": "Dermatology & Cosmetology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Asha Zacharia",
+        "Specialty": "Consultant",
+        "Department": "Dermatology & Cosmetology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rema Devi T J",
+        "Specialty": "Consultant",
+        "Department": "Dermatology & Cosmetology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Deepa  Binod",
+        "Specialty": "Consultant",
+        "Department": "Developmental Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Babu  George",
+        "Specialty": "Senior Consultant",
+        "Department": "Developmental Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. K  Shakthesh",
+        "Specialty": "Visiting Consultant",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Salil Kumar  K",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vinod  Felix",
+        "Specialty": "Consultant",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Mohammed Noushad",
+        "Specialty": "Senior Consultant",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Nithya  R",
+        "Specialty": "Pediatric ENT Specialist",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. M Suresh Kumar",
+        "Specialty": "Senior Consultant",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Anees Thajudeen",
+        "Specialty": "Senior Consultant - Cardiology …",
+        "Department": "Cardiology,\n                                \n                                     Electrophysiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shameem K U",
+        "Specialty": "Consultant & Group Clinical …",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. K Suresh  Kumar",
+        "Specialty": "Emergency Physician",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Riyas  R S",
+        "Specialty": "Associate Consultant",
+        "Department": "Endocrinology & Diabetes",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Raj Mohan L",
+        "Specialty": "Consultant",
+        "Department": "Endocrinology & Diabetes",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Thushanth  Thomas",
+        "Specialty": "Chief Coordinator & Consultant",
+        "Department": "Endocrinology & Diabetes",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Akhil  Krishna",
+        "Specialty": "Associate Consultant",
+        "Department": "Endocrinology & Diabetes",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Midhun  Mohan",
+        "Specialty": "Registrar",
+        "Department": "Family Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vishnu B S",
+        "Specialty": "Registrar and Academic coordinator",
+        "Department": "Family Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Lizy  Vincent",
+        "Specialty": "Consultant",
+        "Department": "Family Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Zuhara  P M",
+        "Specialty": "Director - Emergency Medicine, …",
+        "Department": "Family Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sneha Ann Abraham",
+        "Specialty": "Consultant",
+        "Department": "Fertility Clinic",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rabeeh  Valiyathodi",
+        "Specialty": "Consultant",
+        "Department": "Fertility Clinic",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Harish  Kareem",
+        "Specialty": "Senior Consultant",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ajith K Nair",
+        "Specialty": "Senior Consultant",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Arun  P",
+        "Specialty": "Associate Consultant",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Madhu  Sasidharan",
+        "Specialty": "Senior Consultant",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Subhalal  M S",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Gastrointestinal Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Anandakumar  M",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Gastrointestinal Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. REJI  J",
+        "Specialty": "Specialist",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Akash  Sasidharan",
+        "Specialty": "Specialist",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sanoop K Zachariah",
+        "Specialty": "Senior Consultant and Professor",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jithu  T G",
+        "Specialty": "Specialist",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Firoz Khan M H",
+        "Specialty": "Senior Consultant",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Nisha  Prasannan",
+        "Specialty": "Specialist",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shafy Ali Khan",
+        "Specialty": "Senior Consultant & Coordinator",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Maya Devi T J",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Najeeb A A",
+        "Specialty": "Consultant",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vijayan K N",
+        "Specialty": "Coordinator & Professor Emeritus",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ramesh Kumar G",
+        "Specialty": "Senior Consultant - Elderly …",
+        "Department": "Geriatrics and Healthy Living",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Athul Vyas V",
+        "Specialty": "Registrar",
+        "Department": "Geriatrics and Healthy Living",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Saifudeen  A",
+        "Specialty": "Senior Consultant",
+        "Department": "Hematology Clinic",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ashwin V Nair",
+        "Specialty": "Associate Consultant",
+        "Department": "Hematology Clinic,\n                                \n                                     Clinical Hematology and Bone Marrow Transplant",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Mathew  Thomas",
+        "Specialty": "Professor and Senior Consultant",
+        "Department": "Hematology Clinic",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shiraz Ahmad Rather",
+        "Specialty": "Consultant & Head of …",
+        "Department": "Hepatobiliary, Pancreatic & Liver Transplant Surgery,\n                                \n                                     Gastrointestinal Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shabeerali T U",
+        "Specialty": "Chief Coordinator & Senior …",
+        "Department": "Hepatobiliary, Pancreatic & Liver Transplant Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Varghese  Yeldho",
+        "Specialty": "Consultant",
+        "Department": "Hepatobiliary, Pancreatic & Liver Transplant Surgery,\n                                \n                                     Gastrointestinal Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Brinda  Sabu",
+        "Specialty": "Consultant",
+        "Department": "High Risk Pregnancy & Fetal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Asima  Khan",
+        "Specialty": "Consultant",
+        "Department": "High Risk Pregnancy & Fetal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vidyalekshmy  R",
+        "Specialty": "Senior Consultant & Coordinator",
+        "Department": "High Risk Pregnancy & Fetal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Praseetha G S",
+        "Specialty": "Psychologist / Remedial Educator",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Angel  SR",
+        "Specialty": "Occupational Therapist",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Sheeja Kaithayil Bahuleyan",
+        "Specialty": "Sensory Integration Therapist",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Aleena J B",
+        "Specialty": "Speech Therapist",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Devi Priya G",
+        "Specialty": "Speech Language Pathologist",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Anju  Carmel",
+        "Specialty": "Counsellor / Remedial Educator",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Praylyn  Rubysha",
+        "Specialty": "Occupational Therapist",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Devika  Jain",
+        "Specialty": "Occupational Therapist",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Supriya G R",
+        "Specialty": "Remedial Educator",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Amritha  V",
+        "Specialty": "Psychologist / Remedial Educator",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Sufina N Sulfi",
+        "Specialty": "Psychologist / Remedial Educator",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jamila K Warrier",
+        "Specialty": "Coordinator & Consultant Psychologist …",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Reshmi S R",
+        "Specialty": "Speech Language Pathologist",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Aswathy  Chandran",
+        "Specialty": "Counsellor/ Behaviour Therapist",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Sneha A Manuel",
+        "Specialty": "Psychologist/ Remedial Educator",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Pradeep  S",
+        "Specialty": "Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Madhavan  Unni",
+        "Specialty": "Senior Consultant & Chief …",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Deepasree  J",
+        "Specialty": "Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Harikrishnan  T",
+        "Specialty": "Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Binish  Paul",
+        "Specialty": "Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Zunimol  P K M",
+        "Specialty": "Senior Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Deepthi",
+        "Specialty": "Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Manoj  K S",
+        "Specialty": "Senior Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sherin  Nazeer",
+        "Specialty": "Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rajalakshmi  A",
+        "Specialty": "Senior Consultant",
+        "Department": "Infectious Diseases",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Muhammed  Niyas",
+        "Specialty": "Consultant",
+        "Department": "Infectious Diseases",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Wilson  A P",
+        "Specialty": "Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shaji Mohamed Haneefa",
+        "Specialty": "Senior Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Nahas  A",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Hari  T A",
+        "Specialty": "Senior Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vijayalekshmi  N",
+        "Specialty": "Prof. and Hon. Senior …",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Gopinatha  Menon",
+        "Specialty": "Co-ordinator & Senior Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. M I Sahadulla",
+        "Specialty": "Chairman and Managing Director",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Mohemed  Sanowfer",
+        "Specialty": "Consultant & Coordinator - …",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ajit  Thomas",
+        "Specialty": "Senior Consultant in Internal …",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. M  Safarulla",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Manoj Pazhampallil Mathews",
+        "Specialty": "Senior Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Ganesh  Viswanathan",
+        "Specialty": "Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Prasanna Kumar M",
+        "Specialty": "Senior Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jacob C Pilla",
+        "Specialty": "Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rachel  Abraham",
+        "Specialty": "Consultant & Dy Coordinator, …",
+        "Department": "Laboratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Neetu S Dathan",
+        "Specialty": "Consultant Laboratory medicine",
+        "Department": "Laboratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ragitha Binu Krishnan",
+        "Specialty": "Consultant",
+        "Department": "Laryngology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Anish Bava Salim",
+        "Specialty": "Consultant",
+        "Department": "ENT,\n                                \n                                     Laryngology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Roshan  Daniel",
+        "Specialty": "Associate Consultant",
+        "Department": "Medical Genetics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Azgar Abdul Rasheed",
+        "Specialty": "Associate Consultant",
+        "Department": "Medical Oncology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Arun  V",
+        "Specialty": "Associate Consultant",
+        "Department": "Medical Oncology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jyothi  Prabhakar",
+        "Specialty": "Consultant",
+        "Department": "Neonatology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ajai Kumar Prithvi",
+        "Specialty": "Associate Consultant",
+        "Department": "Neonatology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Naveen  Jain",
+        "Specialty": "Coordinator and Senior Consultant",
+        "Department": "Neonatology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Femitha  Pournami",
+        "Specialty": "Senior Consultant",
+        "Department": "Neonatology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Satish  Balan",
+        "Specialty": "Consultant",
+        "Department": "Nephrology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Prasad  Nair",
+        "Specialty": "Senior Consultant",
+        "Department": "Nephrology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vinayak  M",
+        "Specialty": "Consultant",
+        "Department": "Nephrology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Praveen  Murlidharan",
+        "Specialty": "Medical Superintendent & Senior …",
+        "Department": "Nephrology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Manish Kumar Yadav",
+        "Specialty": "Senior Consultant",
+        "Department": "Neuro Interventional Radiology,\n                                \n                                     Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. DINESH BABU K  B",
+        "Specialty": "ASSOCIATE CONSULTANT",
+        "Department": "Neuro Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Simi M Ismail",
+        "Specialty": "Consultant",
+        "Department": "Neuro Interventional Radiology,\n                                \n                                     Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Santhosh  Joseph",
+        "Specialty": "Senior Consultant & Clinical …",
+        "Department": "Neuro Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. K  Radhakrishnan",
+        "Specialty": "Senior Consultant & Head …",
+        "Department": "Neurology,\n                                \n                                     Advanced Comprehensive Epilepsy Centre",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Krishnasree  K S",
+        "Specialty": "Associate Consultant",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Syamlal  S",
+        "Specialty": "Group Coordinator & Senior …",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Suresh Chandran  C J",
+        "Specialty": "Coordinator & Senior Consultant",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ashok  V P",
+        "Specialty": "Consultant",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. JAYAKRISHNAN  C",
+        "Specialty": "Senior Consultant",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Ajith  R",
+        "Specialty": "Sr Consultant and Coordinator",
+        "Department": "Neurosurgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Shobha Sara Mathew",
+        "Specialty": "Hon. Consultant",
+        "Department": "Neurosurgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Arun  P S",
+        "Specialty": "Consultant",
+        "Department": "Neurosurgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Bobby  Iype",
+        "Specialty": "Hon. Consultant",
+        "Department": "Neurosurgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Navas  N S",
+        "Specialty": "Hon. Consultant",
+        "Department": "Neurosurgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Abu  Madan",
+        "Specialty": "Hon. Consultant",
+        "Department": "Neurosurgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Sushant  B",
+        "Specialty": "Hon.Consultant",
+        "Department": "Neurosurgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Arun Raj S T",
+        "Specialty": "Consultant",
+        "Department": "Cancer Care,\n                                \n                                     Nuclear Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Roshini  Ambat",
+        "Specialty": "Senior Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Cinu A Nair",
+        "Specialty": "",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Bindu  Purushothaman",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Geetha  P",
+        "Specialty": "Senior Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Valsamma  Chacko",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vinoo  Balakrishnan",
+        "Specialty": "Senior Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. J V Shyja",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Neeta  Ravindranathan",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rafeekha  P",
+        "Specialty": "Senior Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sajith Mohan R",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Syamala Devi  P K",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Lumiya  Malik",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Mary  Thomas",
+        "Specialty": "Senior Consultant",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Susheela B Nair",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ancy R S",
+        "Specialty": "Registrar",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sarath  Ravi",
+        "Specialty": "Consultant- Vitreo Retinal Surgeon",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Daisy  Karan",
+        "Specialty": "Consultant",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Asgar  Abbas",
+        "Specialty": "Senior Consultant",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Manoj  Haridas",
+        "Specialty": "Senior Consultant Hand & …",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Muhammed  Nazeer",
+        "Specialty": "Senior Consultant & Group …",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. B Madan Mohan",
+        "Specialty": "Consultant",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ranjith  Unnikrishnan",
+        "Specialty": "Consultant",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vinod Krishnan V",
+        "Specialty": "Paediatric Orthopaedics Consultant",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vineetha G Gopal",
+        "Specialty": "Consultant",
+        "Department": "Pain Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sheeja  Madhavan",
+        "Specialty": "Consultant",
+        "Department": "Pediatric & Adolescent Endocrinology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. M Zulfikar Ahamed",
+        "Specialty": "Senior Consultant",
+        "Department": "Cardiology,\n                                \n                                     Pediatric Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Aswathy  Ravikumar",
+        "Specialty": "Associate Consultant",
+        "Department": "Pediatric Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ram Mohan C V",
+        "Specialty": "Senior Consultant",
+        "Department": "Pediatric Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Asok Kumar G M",
+        "Specialty": "Senior Consultant",
+        "Department": "Pediatric Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Noorsathar  N S",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Pediatric Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Reju Joseph Thomas",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Pediatric Urology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sabarinathan  K",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Asok Kumar G",
+        "Specialty": "Professor Emeritus and Senior …",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Neetu  Gupta",
+        "Specialty": "Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. D Kalpana",
+        "Specialty": "Senior Consultant",
+        "Department": "Neurology,\n                                \n                                     Pediatrics,\n                                \n                                     Pediatric Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Prameela  Joji",
+        "Specialty": "Consultant Pediatric Critical Care …",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. P A Mohammed Kunju",
+        "Specialty": "Senior Consultant",
+        "Department": "Pediatrics,\n                                \n                                     Pediatric Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sanuja Titus Santosh",
+        "Specialty": "Senior Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Prijo Philip",
+        "Specialty": "Pediatric Nephrologist Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Saddiq M H",
+        "Specialty": "Paediatric Coordinator and Sr. …",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vijayakumar  B",
+        "Specialty": "Senior Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. P M C  Nair",
+        "Specialty": "Specialist",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Mani  Varghese",
+        "Specialty": "Senior Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Gisi  Shibu",
+        "Specialty": "Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Nitha  J",
+        "Specialty": "Consultant",
+        "Department": "Physical Medicine &  Rehabilitation",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Fathima Haneena P",
+        "Specialty": "Specialist",
+        "Department": "Physical Medicine &  Rehabilitation",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Heera Selsa",
+        "Specialty": "Senior Registrar",
+        "Department": "Physical Medicine &  Rehabilitation",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Hariharan  S",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Physical Medicine &  Rehabilitation",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vijayakumar",
+        "Specialty": "Visiting Consultant",
+        "Department": "Plastic, Reconstructive, Microvascular Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jacob  M M",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Plastic, Reconstructive, Microvascular Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Manesh  Senan",
+        "Specialty": "Senior Consultant",
+        "Department": "Plastic, Reconstructive, Microvascular Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Saffia  P M",
+        "Specialty": "Sr. Consultant & Vice …",
+        "Department": "Plastic, Reconstructive, Microvascular Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Migita M D'cruz",
+        "Specialty": "Associate Consultant",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Kumar  K A",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. JITHA  G",
+        "Specialty": "Specialist",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Muraleedharan K K",
+        "Specialty": "Hon. Consultant",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Susha  John",
+        "Specialty": "Consultant",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ashraf Ali A",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Aravind  Thampi",
+        "Specialty": "Coordinator & Sr. Consultant …",
+        "Department": "Psychology & Corporate Wellness",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Aswathy  Thazhakottuvalappil",
+        "Specialty": "Consultant",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rohith  S",
+        "Specialty": "Consultant - Quality and …",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vinod Kumar Kesavan",
+        "Specialty": "Senior Consultant",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sujith Varghese Abraham",
+        "Specialty": "Senior Registrar",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ameer  K A",
+        "Specialty": "Senior Consultant - Coordinator, …",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. M  Joshi",
+        "Specialty": "Prof Emeritus & Senior …",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ajay  Ravi",
+        "Specialty": "Consultant - Interventional Pulmonology",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. P  Arjun",
+        "Specialty": "Senior Consultant & Group …",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rajesh  S",
+        "Specialty": "Senior Consultant",
+        "Department": "Rheumatology & Clinical Immunology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Abitha  Aliyar",
+        "Specialty": "Associate Consultant",
+        "Department": "Rheumatology & Clinical Immunology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. M Bhuvanesh",
+        "Specialty": "Consultant",
+        "Department": "Rheumatology & Clinical Immunology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Narayanan  R",
+        "Specialty": "Associate Consultant",
+        "Department": "Surgical Oncology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr B Jayanand Sunil",
+        "Specialty": "Consultant & Coordinator, Surgical …",
+        "Department": "Surgical Oncology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sanooja  Pinki",
+        "Specialty": "Senior Registrar & Coordinator",
+        "Department": "Transfusion Medicine / Blood centre",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sudin  S R",
+        "Specialty": "Consultant",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Renu  Thomas",
+        "Specialty": "Senior Consultant and Coordinator",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Nithya  R",
+        "Specialty": "Consultant",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sasidharan  k",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Syam K Ramesh",
+        "Specialty": "Hon. Senior Consultant",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Trivandrum"
+    }
+]

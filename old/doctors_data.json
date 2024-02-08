@@ -1,0 +1,5336 @@
+[
+    {
+        "Doctor Name": "Dr. Amani  Yazbek",
+        "Specialty": "Consultant",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Aamed  Al Araimi",
+        "Specialty": "Consultant",
+        "Department": "General Surgery Colorectal General and Laparoscopic",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Aayat Kadhem Hasan Abdulla Husain",
+        "Specialty": "General Practitioner",
+        "Department": "Emergency Medicine",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Abbasali Hussein Dungersi",
+        "Specialty": "General Practitioner",
+        "Department": "Emergency",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Abdallah Badie Azeez Nazzal",
+        "Specialty": "Consultant",
+        "Department": "Anesthesiology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Abdul Basith V",
+        "Specialty": "Dermatologist",
+        "Department": "Dermatology & Cosmetology",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Abdul Shameer C K",
+        "Specialty": "Consultant Orthodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Abdulaziz Salim Hilal Al Azri",
+        "Specialty": "Consultant- ENT / Rhinol…",
+        "Department": "Ear, Nose and Throat",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr Abdulhakeem  Yusuf",
+        "Specialty": "Specialist",
+        "Department": "Aviation & Aerospace Medicine",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Dr. Abdulla  Khaleel",
+        "Specialty": "Consultant Orthopedic & …",
+        "Department": "Orthopaedics",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Abdulnabi  Al Saif",
+        "Specialty": "Consultant",
+        "Department": "Pediatrics",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Abdulrazak  Alfadli",
+        "Specialty": "Consultant",
+        "Department": "General Surgery",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Abitha  Aliyar",
+        "Specialty": "Associate Consultant",
+        "Department": "Rheumatology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Abitha  Aliyar",
+        "Specialty": "Associate Consultant",
+        "Department": "Rheumatology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Abouzar Ramezani Farkhani",
+        "Specialty": "General Practitioner",
+        "Department": "General Practitioner",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr Abu  Madan",
+        "Specialty": "Hon. Consultant",
+        "Department": "Neurosurgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Abubaker  Bendalla",
+        "Specialty": "Consultant",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Abubaker  Bendalla",
+        "Specialty": "Consultant",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Dr. Abuelgasim Fadlalla Araki Elimam",
+        "Specialty": "General Practitioner",
+        "Department": "General Practitioner",
+        "Location": "KIMSHEALTH Medical Complex Duqm"
+    },
+    {
+        "Doctor Name": "Dr. Adel  Al Jishi",
+        "Specialty": "Consultant",
+        "Department": "Neurology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Adhil  M",
+        "Specialty": "Paediatrician",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Adithya  Vishnu",
+        "Specialty": "Specialist",
+        "Department": "Anesthesiology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Ahammed Azhar N T",
+        "Specialty": "Consultant Physician",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Ahlam Abbas Ali",
+        "Specialty": "Specialist",
+        "Department": "Anesthesiology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Ahmed  Behery",
+        "Specialty": "Consultant",
+        "Department": "Pediatrics",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Ahmed  Mordi",
+        "Specialty": "Consultant",
+        "Department": "Interventional Radiologist",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Ahmed  Behery",
+        "Specialty": "Consultant",
+        "Department": "Pediatrics",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Ahmed  Al-Darmaki",
+        "Specialty": "Consultant",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Ahmed  Kamel",
+        "Specialty": "Consultant",
+        "Department": "Ears, Nose and Throat (ENT)",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Ahmed  Kamel",
+        "Specialty": "Consultant",
+        "Department": "Ears, Nose and Throat (ENT)",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Ahmed  Hamouda",
+        "Specialty": "Specilaist",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Ahsan Al Lawati",
+        "Specialty": "Consultant",
+        "Department": "Endocrinology & Diabetes",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr Airind Mathai",
+        "Specialty": "General Surgeon",
+        "Department": "General & Laparoscopic Surgery",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Ajai Kumar Prithvi",
+        "Specialty": "Associate Consultant",
+        "Department": "Neonatology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ajay  Kumar",
+        "Specialty": "Consultant Orthopaedic s…",
+        "Department": "Orthopaedics",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Ajay Kumar Kammath",
+        "Specialty": "Consultant",
+        "Department": "Plastic, Reconstructive, Microvascular Surgery",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Ajay  Ravi",
+        "Specialty": "Consultant - Interventio…",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ajeesh  Sankaran",
+        "Specialty": "Hand & Microvascular Sur…",
+        "Department": "Plastic, Reconstructive, Microvascular Surgery",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Ajilal  Sk",
+        "Specialty": "Microscopic Endodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ajit Kumar Vk",
+        "Specialty": "Senior Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ajit Kumar Vk",
+        "Specialty": "Senior Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ajith  Prathap",
+        "Specialty": "ER Physician",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr Ajith  R",
+        "Specialty": "Sr Consultant and Coordi…",
+        "Department": "Neurosurgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ajith K Nair",
+        "Specialty": "Senior Consultant",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ajith K Nair",
+        "Specialty": "Senior Consultant",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Akash  Sasidharan",
+        "Specialty": "Associate Consultant",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Akhil  Krishna",
+        "Specialty": "Associate Consultant",
+        "Department": "Endocrinology & Diabetes",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Akhil  Krishna",
+        "Specialty": "Associate Consultant",
+        "Department": "Endocrinology & Diabetes",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Akku Sonny Jacob",
+        "Specialty": "Consultant",
+        "Department": "Dermatology",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Dr. Akran  Zakria",
+        "Specialty": "Senior Specialist",
+        "Department": "Pediatric",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr Ala Mustafa Mohamed",
+        "Specialty": "Senior Specialist",
+        "Department": "Pediatric",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Aleena J B",
+        "Specialty": "Speech Therapist",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Alen  George",
+        "Specialty": "Specialist- Prosthodonti…",
+        "Department": "Prosthodontics",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr. Alex  Joy",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "AL RASHIDIYAH PVT POLYCLINIC"
+    },
+    {
+        "Doctor Name": "Dr. Alireza  Nouralishahi",
+        "Specialty": "Specialist Ophthalmology",
+        "Department": "Opthalmology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Alka Accamma Oommen",
+        "Specialty": "Medical Officer",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Alka  Alex",
+        "Specialty": "Ophthalmologist",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Almas  Aboobacker",
+        "Specialty": "Specialist",
+        "Department": "Physiotherapy",
+        "Location": "AL RASHIDIYAH PVT POLYCLINIC"
+    },
+    {
+        "Doctor Name": "Dr. Alok  Biyani",
+        "Specialty": "Consultant",
+        "Department": "Anesthesiology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Alpay  Yilmaz",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics and Gynecology Gynecological Oncology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Alphonsa  Thomas",
+        "Specialty": "Senior Resident",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Amal  Abraham",
+        "Specialty": "Specialist",
+        "Department": "Psychiatry",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Ambreen  Khan",
+        "Specialty": "General Practitioner",
+        "Department": "General Practice",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr. Ameena  Shameer",
+        "Specialty": "General Practitioner",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Ameer  K A",
+        "Specialty": "Senior Consultant - Coor…",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Amina  Noushad",
+        "Specialty": "Specialist",
+        "Department": "OBG/Gynecology",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Amrita B Rao",
+        "Specialty": "Associate Consultant, Pl…",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Amrita B Rao",
+        "Specialty": "Associate Consultant",
+        "Department": "Surgical Oncology",
+        "Location": "KIMSHEALTH Cancer Center"
+    },
+    {
+        "Doctor Name": "Dr. Amritha  V",
+        "Specialty": "Psychologist / Remedial …",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Amru Ahmed Redha",
+        "Specialty": "Consultant",
+        "Department": "General Surgery Endocrinology & Diabetes General and Laparoscopic",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Anandakumar  M",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Gastrointestinal Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ancy R S",
+        "Specialty": "Registrar",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Anees  Sheriff",
+        "Specialty": "Specialist",
+        "Department": "Pathology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Anees Thajudeen",
+        "Specialty": "Senior Consultant - Card…",
+        "Department": "Electrophysiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Aneesh  Bava",
+        "Specialty": "Specialist",
+        "Department": "Dermatology & Cosmetology",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Ms. Angel  Sr",
+        "Specialty": "Occupational Therapist",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Anil  Mathew",
+        "Specialty": "Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Anil Radhakrishnan Pillai",
+        "Specialty": "Consultant",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Anila  Punchiry",
+        "Specialty": "Registrar",
+        "Department": "Radiodiagnosis & Imaging service",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Anirudhmaadhav P A",
+        "Specialty": "Pediatric Dentist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Anish Kumar R P",
+        "Specialty": "Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Anish Bava Salim",
+        "Specialty": "Consultant",
+        "Department": "Laryngology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Anju  Carmel",
+        "Specialty": "Counsellor / Remedial Ed…",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Anjurani  Siddesh",
+        "Specialty": "Specialist",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "AL RASHIDIYAH PVT POLYCLINIC"
+    },
+    {
+        "Doctor Name": "Dr. Annamma Abraham",
+        "Specialty": "Sr. Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Anojan  Sivathasan",
+        "Specialty": "General Paracitioner",
+        "Department": "General Practitioner",
+        "Location": "KIMSHEALTH Medical Center Al Khuwair"
+    },
+    {
+        "Doctor Name": "Dr. Anumol  Binoy",
+        "Specialty": "Physiotherapist",
+        "Department": "Physiotherapy",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Anup  Abdulla",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Dr. Anup  Varghese",
+        "Specialty": "Specialist ( Orthodontic…",
+        "Department": "Dentistry",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Anup  Varghese",
+        "Specialty": "Specialist ( Orthodontic…",
+        "Department": "Orthodontics",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Anup  Varghese",
+        "Specialty": "Specialist ( Orthodontic…",
+        "Department": "Orthodontics",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Anup  Varghese",
+        "Specialty": "Specialist ( Orthodontic…",
+        "Department": "Endodontist and Conservative Dentistry",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Anwaar M Ahmed",
+        "Specialty": "Specialist",
+        "Department": "Orthopedics",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Anz  Ashly",
+        "Specialty": "Senior Registrar - Criti…",
+        "Department": "Critical Care",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Aparna R Pillai",
+        "Specialty": "Medical Officer",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Appu G Pillai",
+        "Specialty": "Specialist",
+        "Department": "Orthopedics",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Aravind  Thampi",
+        "Specialty": "Coordinator & Sr. Consul…",
+        "Department": "Psychology & Corporate Wellness",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Archana  Karnati",
+        "Specialty": "Specialist",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Arjun A Anadiyil",
+        "Specialty": "Anaesthesiologist",
+        "Department": "Anaesthesiology",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Arjun  Athmaram",
+        "Specialty": "Consultant",
+        "Department": "General & Laparoscopic Surgery",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Arthur M Lanticse",
+        "Specialty": "GP",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Barwa"
+    },
+    {
+        "Doctor Name": "Dr. Arun Babu Joseph",
+        "Specialty": "Neuro Surgeon",
+        "Department": "Neuro Surgery",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Arun  V",
+        "Specialty": "Associate Consultant",
+        "Department": "Medical Oncology",
+        "Location": "KIMSHEALTH Cancer Center"
+    },
+    {
+        "Doctor Name": "Dr Arun  P",
+        "Specialty": "Associate Consultant",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Arun  Sadasivan",
+        "Specialty": "Senior Periodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Arun Raj S T",
+        "Specialty": "Consultant",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Arun Raj St",
+        "Specialty": "Consultant",
+        "Department": "Nuclear Medicine",
+        "Location": "KIMSHEALTH Cancer Center"
+    },
+    {
+        "Doctor Name": "Dr. Arun R A",
+        "Specialty": "Anesthesiologist",
+        "Department": "Anaesthesiology",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr Arun  Sadsivan",
+        "Specialty": "Specialist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Arun  Pazhayampally",
+        "Specialty": "Medical Officer",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Arun  V",
+        "Specialty": "Associate Consultant",
+        "Department": "Medical Oncology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Arun P S",
+        "Specialty": "Consultant",
+        "Department": "Neurosurgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Arunbabu  Panackal",
+        "Specialty": "Specialist",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Asfiya  Ansari",
+        "Specialty": "Physiotherapist",
+        "Department": "Physiotherapy",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Asgar",
+        "Specialty": "Senior Consultant",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Asha Zacharia",
+        "Specialty": "Consultant",
+        "Department": "Dermatology & Cosmetology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ashish Pramod Sanghavi",
+        "Specialty": "Specialist",
+        "Department": "Orthopedic",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Ashish  Kalra",
+        "Specialty": "Consultant",
+        "Department": "General Surgery",
+        "Location": "KIMSHEALTH Medical Center Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Ashok  V P",
+        "Specialty": "Consultant",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ashok  Thomas",
+        "Specialty": "Specialist",
+        "Department": "Dermatology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Ashraf  Atrash",
+        "Specialty": "Consultant",
+        "Department": "Anesthesiology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Ashraf Ali A",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ashwin V Nair",
+        "Specialty": "Associate Consultant",
+        "Department": "Clinical Hematology and Bone Marrow Transplant",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ashwin  Haridas",
+        "Specialty": "Associate Consultant",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Asifa  Nazar",
+        "Specialty": "Geriatrician",
+        "Department": "Geriatrics",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Asima  Khan",
+        "Specialty": "Consultant",
+        "Department": "High Risk Pregnancy & Fetal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Asok Kumar G M",
+        "Specialty": "Senior Consultant",
+        "Department": "Pediatric Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Aswathy  Ravikumar",
+        "Specialty": "Associate Consultant",
+        "Department": "Pediatric Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Aswathy  Thazhakottuvalappil",
+        "Specialty": "Consultant",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Aswathy  Chandran",
+        "Specialty": "Behavioral Therapist / R…",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Athira  S",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr Athul  Bhaskar",
+        "Specialty": "Consultant - Pediatric O…",
+        "Department": "Pediatric Orthopedic",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Athul Vyas V",
+        "Specialty": "Registrar",
+        "Department": "Geriatrics and Healthy Living",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Athulya T",
+        "Specialty": "Dentist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Augustine  Thomas",
+        "Specialty": "Prosthodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ayesha  Arjumand",
+        "Specialty": "General Scope Physician",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr. Aysha Waleed Ebrahim",
+        "Specialty": "Specialist",
+        "Department": "Family Medicine",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Azgar Abdul Rasheed",
+        "Specialty": "Associate Consultant",
+        "Department": "Medical Oncology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Azgar Abdul Rasheed",
+        "Specialty": "Associate Consultant",
+        "Department": "Medical Oncology",
+        "Location": "KIMSHEALTH Cancer Center"
+    },
+    {
+        "Doctor Name": "Dr. Azharul Haque K.T",
+        "Specialty": "Pulomonologist",
+        "Department": "Pulmonary Medicine",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. B Jayanand Sunil",
+        "Specialty": "Consultant & Coordinator…",
+        "Department": "Surgical Oncology",
+        "Location": "KIMSHEALTH Cancer Center"
+    },
+    {
+        "Doctor Name": "Dr B Jayanand Sunil",
+        "Specialty": "Consultant & Coordinator…",
+        "Department": "Surgical Oncology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. B Madan Mohan",
+        "Specialty": "Consultant",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Babu  George",
+        "Specialty": "Senior Consultant",
+        "Department": "Developmental Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Basma Atef Younes",
+        "Specialty": "Specialist",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Dr. Bassam  Emara",
+        "Specialty": "Senior specialist",
+        "Department": "Nephrology",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Bassem",
+        "Specialty": "Consultant",
+        "Department": "Pediatrics Neonatology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Beena N B",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Benoy  Stanly",
+        "Specialty": "Co-ordinator, Dental Ser…",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Benoy Kurain George",
+        "Specialty": "Consultant Paediatrician",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Bharath  V M",
+        "Specialty": "Consultant",
+        "Department": "Surgical Oncology",
+        "Location": "KIMSHEALTH Cancer Center"
+    },
+    {
+        "Doctor Name": "Dr. Bharath  V M",
+        "Specialty": "Consultant–Oncosurgeon",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Bhavna  Mohandas",
+        "Specialty": "Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Bhuvanesh  M",
+        "Specialty": "Consultant",
+        "Department": "Rheumatology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr Bijoy Kesavan Babu",
+        "Specialty": "Emergency Physician",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Biju  Sebastian",
+        "Specialty": "Senior Orthodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Bijulal  S",
+        "Specialty": "Senior Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Bindu  Purushothaman",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Binish  Paul",
+        "Specialty": "Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Biswajit Dutta Baruah",
+        "Specialty": "Consultant",
+        "Department": "Orthopedic",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr Blessy  John",
+        "Specialty": "Specialist",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Dr. Blessy  Thomas",
+        "Specialty": "HOD, Physiotherapy",
+        "Department": "Physiotherapy",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Bob  Djavan",
+        "Specialty": "Consultant",
+        "Department": "Urology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Bobby  Iype",
+        "Specialty": "Hon. Consultant",
+        "Department": "Neurosurgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Brinda  Sabu",
+        "Specialty": "Consultant",
+        "Department": "High Risk Pregnancy & Fetal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Brinda",
+        "Specialty": "Consultant",
+        "Department": "Perinatology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Chandrashekar",
+        "Specialty": "Registrar -Orthopaedics",
+        "Department": "Orthopaedics",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Chandrashekhar  Choudhari",
+        "Specialty": "Specialist",
+        "Department": "Pulmonology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Chinmayi  Anoop",
+        "Specialty": "Medical Officer",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Christina  Samuel",
+        "Specialty": "Specialist",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Medical Center Dubai"
+    },
+    {
+        "Doctor Name": "Dr. Cinu A Nair",
+        "Specialty": "",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Cuckoo",
+        "Specialty": "Oral Physician",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. D Kalpana",
+        "Specialty": "Senior Consultant",
+        "Department": "Pediatric Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. D Kalpana",
+        "Specialty": "Senior Consultant",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Dhanya  Krishnan",
+        "Specialty": "Pediatric Dentist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Dinesh Babu K  B",
+        "Specialty": "ASSOCIATE CONSULTANT",
+        "Department": "Neuro Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Daisy  Karan",
+        "Specialty": "Consultant",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Dalya  Al Hamdan",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics and Gynecology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Daniel Benoj Baby",
+        "Specialty": "Internal Medicine",
+        "Department": "Internal Medicine",
+        "Location": "AL RASHIDIYAH PVT POLYCLINIC"
+    },
+    {
+        "Doctor Name": "Dr. Daspin",
+        "Specialty": "Specialist",
+        "Department": "Radiology",
+        "Location": "KIMSHEALTH Medical Complex Duqm"
+    },
+    {
+        "Doctor Name": "Dr. Dean  Gomes",
+        "Specialty": "Consultant",
+        "Department": "Plastic Surgery",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Dean  Gomes",
+        "Specialty": "Consultant",
+        "Department": "Plastic Surgery",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Deekshith Raj Rasemale",
+        "Specialty": "General Practitioner",
+        "Department": "Emergency",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Deena  Shakeeb",
+        "Specialty": "Consultant",
+        "Department": "Pediatrics",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Deepa  Binod",
+        "Specialty": "Consultant",
+        "Department": "Developmental Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Deepa Das",
+        "Specialty": "Senior Consultant",
+        "Department": "Critical Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Deepa  Unnikrish",
+        "Specialty": "Specialist",
+        "Department": "General Surgery",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr Deepa  Gs",
+        "Specialty": "Endodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Deepak V",
+        "Specialty": "Coordinator & Consultant",
+        "Department": "Critical Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Deepasree  J",
+        "Specialty": "Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Deepthi",
+        "Specialty": "Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Deepti  Dua",
+        "Specialty": "Specialist ( Endodontist)",
+        "Department": "Endodontist and Conservative Dentistry",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Deepti  Dua",
+        "Specialty": "Specialist ( Endodontist)",
+        "Department": "Dentistry",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Deepti  Dua",
+        "Specialty": "Specialist ( Endodontist)",
+        "Department": "Endodontist and Conservative Dentistry",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr Devadarshan",
+        "Specialty": "Specialist",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Dubai"
+    },
+    {
+        "Doctor Name": "Ms. Devi Priya G",
+        "Specialty": "Speech Language Patholog…",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Devika  Jain",
+        "Specialty": "Occupational Therapist",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Dhanasekaran V K",
+        "Specialty": "Consultant – Radiation O…",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Cancer Center"
+    },
+    {
+        "Doctor Name": "Dr. Dhanasekaran V K",
+        "Specialty": "Consultant – Radiation O…",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Dhinesh David",
+        "Specialty": "Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Dixit  Raj",
+        "Specialty": "Laser Periodontist and I…",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. E Grace Shirley",
+        "Specialty": "Consultant Radiation Onc…",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. E. Grace  Shirley",
+        "Specialty": "Consultant",
+        "Department": "Radiation Oncology",
+        "Location": "KIMSHEALTH Cancer Center"
+    },
+    {
+        "Doctor Name": "Dr. Eg Mohan Kumar",
+        "Specialty": "Clinical Professor & HOD…",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr Elie Roger Zaghrini",
+        "Specialty": "Consultant – Head of Dep…",
+        "Department": "Emergency and Critical Care",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Elif Uygur Kucukseymen",
+        "Specialty": "Consultant",
+        "Department": "Neurology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr Eliyaz  Syed",
+        "Specialty": "Specialist Surgeon",
+        "Department": "General Surgery",
+        "Location": "KIMSHEALTH Medical Center Dubai"
+    },
+    {
+        "Doctor Name": "Dr. Elizabeth Preethi Thomas",
+        "Specialty": "Pediatric Neurologist",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Eman Naji Naser",
+        "Specialty": "General Dentist",
+        "Department": "Dentistry",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Erfai  Emtair",
+        "Specialty": "Consultant",
+        "Department": "Urology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Erfai  Emtair",
+        "Specialty": "Consultant",
+        "Department": "Urology",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Essakki Muthu P",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Evana M Roy",
+        "Specialty": "General Dentist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Fadhel  Mattar",
+        "Specialty": "Senior Specialist",
+        "Department": "Ears, Nose and Throat (ENT)",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr Fadia  Sharif",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Fahmi Thabassam K",
+        "Specialty": "Psychologist",
+        "Department": "Psychology",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Fahmi Thabassam K",
+        "Specialty": "Psychologist",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Fatema  Shams",
+        "Specialty": "General and Cosmetic Den…",
+        "Department": "Dentistry",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Fatema  Shams",
+        "Specialty": "General and Cosmetic Den…",
+        "Department": "Dentistry",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Fatema Ebrahim Almodhaweb",
+        "Specialty": "Consultant",
+        "Department": "Psychiatry",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Fatema  Shams",
+        "Specialty": "General and Cosmetic Den…",
+        "Department": "Dentistry",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr Fatema Mohamed Abbas Ebrahim Khalaf",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Fatemeh Heidari Foroushani",
+        "Specialty": "Specialist",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Fathallah  Yousef",
+        "Specialty": "Specialist",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Fathima  Sanaa",
+        "Specialty": "Anaesthesiologist",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Fathima R Konari",
+        "Specialty": "Nephrologist",
+        "Department": "Nephrology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Fathima Haneena P",
+        "Specialty": "Senior Registrar",
+        "Department": "Physical Medicine &  Rehabilitation",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Fatima Al Lawati",
+        "Specialty": "Specialist",
+        "Department": "General Surgery",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Favas Ali M",
+        "Specialty": "Specialist",
+        "Department": "Oncology",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "DR Fawas",
+        "Specialty": "",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Fazeela  Beegum",
+        "Specialty": "Periodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Fazil M T",
+        "Specialty": "HOD & Emergency Physician",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Fazil  Hamzath",
+        "Specialty": "Registrar Critical Care …",
+        "Department": "Critical Care",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Femitha  P",
+        "Specialty": "Senior Consultant",
+        "Department": "Neonatology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Femitha  Tp",
+        "Specialty": "Registrar - Critical Care",
+        "Department": "Critical Care",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Femy  Mathew",
+        "Specialty": "Medical Officer",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr Feras  Al-Hamdani",
+        "Specialty": "General Practitioner",
+        "Department": "General Practitioner",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Firoz Khan M H",
+        "Specialty": "Consultant",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Fouziya",
+        "Specialty": "Specialist",
+        "Department": "Orthodontist",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Prof. Dr. G Vijayaraghavan",
+        "Specialty": "Vice-Chairman & Director…",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Gamini  Rathnayake",
+        "Specialty": "General Practitioner",
+        "Department": "Emergency",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Ganapati Prasad Mishra",
+        "Specialty": "Sr. Consultant Neurosurg…",
+        "Department": "Neurosurgeon",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Ganesan V M",
+        "Specialty": "Consultant Nephrologist …",
+        "Department": "Nephrology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr Ganesh  Viswanathan",
+        "Specialty": "Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Gangadharan  Pillai",
+        "Specialty": "Sr. Consultant Internal …",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Gardenia  Alsaffar",
+        "Specialty": "Consultant",
+        "Department": "Psychiatry",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Gardenia  Alsaffar",
+        "Specialty": "Consultant",
+        "Department": "Psychiatrist",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Geetha  P",
+        "Specialty": "Senior Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr George  Mezher",
+        "Specialty": "Consultant",
+        "Department": "Anesthesiology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. George  Chacko",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr. Gisi  Shibu",
+        "Specialty": "Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Gissy Elizabeth Boben",
+        "Specialty": "Specialist",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Medical Center Barwa"
+    },
+    {
+        "Doctor Name": "Dr. Gita  Tadepalli",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr Githin Benoy George",
+        "Specialty": "Consultant",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Gopalakrishnan  M",
+        "Specialty": "Senior Registrar",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Gopinatha  Menon",
+        "Specialty": "Co-ordinator & Senior Co…",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Govind  Swaminathan",
+        "Specialty": "Specialist",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Dr. Gowrishankar  S",
+        "Specialty": "Senior Resident-  Orthop…",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Guruprasad  K",
+        "Specialty": "Consultant",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Hajira  Begum",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Medical Center Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Hadiya  Naureen",
+        "Specialty": "Specialist",
+        "Department": "Pathology",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Hafis  Pn",
+        "Specialty": "Registrar in Emergency D…",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Hafiz  Ansari",
+        "Specialty": "Consultant",
+        "Department": "General Surgery",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr Hajera Yahiya Amoodi",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Dr. Hani  Humaidan",
+        "Specialty": "Consultant",
+        "Department": "Neurology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Hani  Mohammed",
+        "Specialty": "Consultant",
+        "Department": "Family Medicine",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Ms. Hanoof  Alrayes",
+        "Specialty": "Clinical Nutrition and D…",
+        "Department": "Diet and Nutrition Clinic",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Ms. Hanoof  Alrayes",
+        "Specialty": "Clinical Nutrition and D…",
+        "Department": "Diet and Nutrition Clinic",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Happy  G",
+        "Specialty": "Consultant- ENT, Head & …",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr Hareesh  Karim",
+        "Specialty": "Specialist",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Hari T A",
+        "Specialty": "Senior Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Hariharan  S",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Physical Medicine &  Rehabilitation",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Harikrishnan  T",
+        "Specialty": "Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Harikrishnan  H",
+        "Specialty": "Neurologist",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr Harikumar G",
+        "Specialty": "Consultant Anesthesia",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Harish  Kareem",
+        "Specialty": "Senior Consultant",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Harold  Esparcia",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Harrison  Otemba",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Hashir  Kareem",
+        "Specialty": "Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Hashir A",
+        "Specialty": "Consultant",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Hazeen  A",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Hazna  Mohammed",
+        "Specialty": "Genaral  Dentist",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Heera Selsa",
+        "Specialty": "Senior Registrar",
+        "Department": "Physical Medicine &  Rehabilitation",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Henry  Selestin",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Hiba  K K",
+        "Specialty": "Psychologist",
+        "Department": "Psychology",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Hisham Faizal K",
+        "Specialty": "Emergency Physician",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr Hussain  Elbarnawe",
+        "Specialty": "Senior Consultant",
+        "Department": "General Surgery",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Hussein  Elbernawi",
+        "Specialty": "Consultant",
+        "Department": "General Surgery",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Hussein  Elbernawi",
+        "Specialty": "Consultant",
+        "Department": "General Surgery",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Ilias Mataragkas",
+        "Specialty": "Consultant",
+        "Department": "Orthopedics",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Ilias Mataragkas",
+        "Specialty": "Consultant",
+        "Department": "Orthopedics",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Ishrat Hameed",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Islam  Mohamed",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Ismail  Jahromi",
+        "Specialty": "Consultant",
+        "Department": "Orthopedics",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Ismail  Jahromi",
+        "Specialty": "Consultant",
+        "Department": "Orthopedics",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Issa  Kawalit",
+        "Specialty": "Consultant",
+        "Department": "Nephrology",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Issa  Kawalit",
+        "Specialty": "Consultant",
+        "Department": "Nephrology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. J V Shyja",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jayakrishnan  C",
+        "Specialty": "Senior Consultant",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jitha  G",
+        "Specialty": "Senior Registrar",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jacob John Theophilius",
+        "Specialty": "Sr. Consultant and Chief…",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jacob C Pilla",
+        "Specialty": "Senior Registrar",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jacob  M.M",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Plastic, Reconstructive, Microvascular Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jacob John Theophilius",
+        "Specialty": "Senior Consultant and Ch…",
+        "Department": "Cardiothoracic Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jafer C P",
+        "Specialty": "Sr. Consultant & clinica…",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Jagadheesh  M",
+        "Specialty": "Specialist",
+        "Department": "Interventional Cardiologist",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Jagjeet Kaur",
+        "Specialty": "Specialist",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr. Jalal  Al Marzooq",
+        "Specialty": "Consultant",
+        "Department": "Ears, Nose and Throat (ENT)",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Jalal  Al Marzooq",
+        "Specialty": "Consultant",
+        "Department": "Ears, Nose and Throat (ENT)",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Jamila K Warrier",
+        "Specialty": "Coordinator & Consultant…",
+        "Department": "child-adolescent",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Jamsheer  V T",
+        "Specialty": "Onco Surgeon",
+        "Department": "Oncology",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Jasmine Abdulkhadar Hashir",
+        "Specialty": "",
+        "Department": "Pediatrics",
+        "Location": "None"
+    },
+    {
+        "Doctor Name": "Dr. Jasneer  Np",
+        "Specialty": "General Physician",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Jawaher  Murad",
+        "Specialty": "GP Dentist",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr. Jayanth R Seshan",
+        "Specialty": "Associate Consultant - N…",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jayaprakash  Madhavan",
+        "Specialty": "Sr. Consultant",
+        "Department": "Radiation Oncology Preventive Oncology Neuro Oncology",
+        "Location": "KIMSHEALTH Cancer Center"
+    },
+    {
+        "Doctor Name": "Dr. Jayaprakash  Madhavan",
+        "Specialty": "Sr. Consultant Radiation…",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jayaram Das S",
+        "Specialty": "Senior Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jayasree  A",
+        "Specialty": "Specialist",
+        "Department": "Homeopathy",
+        "Location": "KIMSHEALTH Medical Center Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dt. Jayasree  N S",
+        "Specialty": "Group Coordinator",
+        "Department": "Clinical Nutrition",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jefferson  George",
+        "Specialty": "Consultant Orthopaedicia…",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Jeomy Zachariah Oommen",
+        "Specialty": "Consultant",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jerry John Oommen",
+        "Specialty": "General Physician",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Jinane  Khaled",
+        "Specialty": "Consultant",
+        "Department": "Radiology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Jishnu  Narayana",
+        "Specialty": "Consultant - Psychiatrist",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Jishy  Seby",
+        "Specialty": "Specialist",
+        "Department": "Nutrition & Dietetics",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Jithin S Kumar",
+        "Specialty": "Visiting Nephrologist",
+        "Department": "Nephrology",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Jithu  T G",
+        "Specialty": "Associate Consultant",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Jithu  Joseph",
+        "Specialty": "Endodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Joe  Pradeef",
+        "Specialty": "Consultant - Pediatrics …",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Prof. Dr. John  Mathai",
+        "Specialty": "Sr. Consultant",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. John Sebastian Mg",
+        "Specialty": "Consultant",
+        "Department": "Radiation Oncology",
+        "Location": "KIMSHEALTH Cancer Center"
+    },
+    {
+        "Doctor Name": "Dr. Jose  Mathew",
+        "Specialty": "Visiting Consultant",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr Joselito Zubiri Dagonda",
+        "Specialty": "G P Pediatrics",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Dubai"
+    },
+    {
+        "Doctor Name": "Dr. Joydeep  Das",
+        "Specialty": "General Practitioner",
+        "Department": "General Practitioner",
+        "Location": "KIMSHEALTH Medical Complex Duqm"
+    },
+    {
+        "Doctor Name": "Dr Julian Jhony Thottian",
+        "Specialty": "Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Dr. Julian Jhony Thottian",
+        "Specialty": "Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Juveria Majeed",
+        "Specialty": "Specialist",
+        "Department": "Ears, Nose and Throat (ENT)",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Jyothi  Prabhakar",
+        "Specialty": "Consultant",
+        "Department": "Neonatology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. K Suresh Kumar",
+        "Specialty": "Emergency Physician",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. K  Radhakrishnan",
+        "Specialty": "Senior Consultant & Head…",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. K  Radhakrishnan",
+        "Specialty": "Senior Consultant & Head…",
+        "Department": "Advanced Comprehensive Epilepsy Centre",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. K  Shakthesh",
+        "Specialty": "Visiting Consultant",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. K U  Kunjumoideen",
+        "Specialty": "Specialist Obstetric & G…",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "AL RASHIDIYAH PVT POLYCLINIC"
+    },
+    {
+        "Doctor Name": "Dr Kannan Venugopal",
+        "Specialty": "Specialist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr Kabir  Bakshi",
+        "Specialty": "Specialist ENT",
+        "Department": "ENT",
+        "Location": "AL RASHIDIYAH PVT POLYCLINIC"
+    },
+    {
+        "Doctor Name": "Dr. Kalpana  D",
+        "Specialty": "Consultant",
+        "Department": "Pediatric Neurology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Kavya  P",
+        "Specialty": "Specialist",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Khalid  Mohamed",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Khalil Isaac Mathai",
+        "Specialty": "Specialist",
+        "Department": "Neuro Surgery",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Khurshid  Alam",
+        "Specialty": "Specialist",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr. Kiran Madhukar Hirey",
+        "Specialty": "Senior Registrar - cardi…",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Kiran  Kakandki",
+        "Specialty": "Specialist",
+        "Department": "Orthopedics",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Krishna Kumar",
+        "Specialty": "Specialist",
+        "Department": "General Medicine",
+        "Location": "AL RASHIDIYAH PVT POLYCLINIC"
+    },
+    {
+        "Doctor Name": "Dr. Krishnasree  K S",
+        "Specialty": "Associate Consultant",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Kristine C Villanueva",
+        "Specialty": "General Dentistry",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Dr. Kumar  K A",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. L  Mahadevan",
+        "Specialty": "Senior Consultant",
+        "Department": "Ayurveda",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Lakshmi  Raj",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Lal Krishnan Nair",
+        "Specialty": "Specialist",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Lalit B Rajpal",
+        "Specialty": "Consultant",
+        "Department": "Plastic Surgery",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Lalit B Rajpal",
+        "Specialty": "Consultant",
+        "Department": "Plastic Surgery",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Lalit B. Rajpal",
+        "Specialty": "Consultant",
+        "Department": "Plastic Surgery",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr Lamees Nabeel Bastawisy",
+        "Specialty": "General Dentist",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Dr Lamya  Chevidanchalil",
+        "Specialty": "Consultant",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Dubai"
+    },
+    {
+        "Doctor Name": "Dr. Latha  Molli",
+        "Specialty": "Specialist",
+        "Department": "Dermatology & Cosmetology",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr Leena  Saju",
+        "Specialty": "Group Manager",
+        "Department": "Clinical Nutrition",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Linette Wilma Saldanha",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Lisha  Mathew",
+        "Specialty": "Endodontist",
+        "Department": "Endodontist and Conservative Dentistry",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr Lisha  Mathew",
+        "Specialty": "Endodontist",
+        "Department": "Endodontist and Conservative Dentistry",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr Lisha  Mathew",
+        "Specialty": "Endodontist",
+        "Department": "Dentistry",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Lizy  Vincent",
+        "Specialty": "Consultant",
+        "Department": "Family Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Lubna  Ahmed",
+        "Specialty": "Specialist",
+        "Department": "Obstetrics and Gynecology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Lumiya  Malik",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. M Suresh Kumar",
+        "Specialty": "Senior Consultant",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. M Haneef",
+        "Specialty": "Sr. Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. M  Joshi",
+        "Specialty": "Prof Emeritus & Senior C…",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. M Bhuvanesh",
+        "Specialty": "Consultant",
+        "Department": "Rheumatology & Clinical Immunology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. M Safarulla",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. M I Sahadulla",
+        "Specialty": "Chairman and Managing Di…",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. M. Ismail Hanifi",
+        "Specialty": "Specialist",
+        "Department": "Nephrology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Madhav A Joshi",
+        "Specialty": "HOD & Clinical Professor…",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Madhavan  Unni",
+        "Specialty": "Senior Consultant & Chie…",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Madhu  Sasidharan",
+        "Specialty": "Senior Consultant",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Madhusudanan E S",
+        "Specialty": "Associate Consultant",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Madhusudhan",
+        "Specialty": "Consultant",
+        "Department": "Plastic Surgery",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Maha Haroun  Eid Alrabadi",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics and Gynecology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Mahmoud Desouki Hassan",
+        "Specialty": "Specialist Pediatric",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Mahsooma  N",
+        "Specialty": "Dermatologist",
+        "Department": "Dermatology & Cosmetology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Manesh  Senan",
+        "Specialty": "Senior Consultant",
+        "Department": "Plastic, Reconstructive, Microvascular Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Mani  Varugheese",
+        "Specialty": "Senior Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Manish Kumar Yadav",
+        "Specialty": "Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Manish Kumar Yadav",
+        "Specialty": "Consultant",
+        "Department": "Neuro Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Manoj Pazhampallil Mathews",
+        "Specialty": "Senior Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Manoj K S",
+        "Specialty": "Senior Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Manoj  Haridas",
+        "Specialty": "Senior Consultant Hand &…",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Manorama Devi K Rajan",
+        "Specialty": "Hon. Senior Consultant",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Maria  Catacutan",
+        "Specialty": "Specialist",
+        "Department": "Pulmonology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Maria Ana T Mustrales",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Mary  Thomas",
+        "Specialty": "Senior Consultant",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Mary  Thomas",
+        "Specialty": "Senior Consultant",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Maryam  Gharavi",
+        "Specialty": "Specialist",
+        "Department": "Rheumatology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Maryam Al Hashmi",
+        "Specialty": "Consultant",
+        "Department": "General Surgery",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr Maryam  Heroabadi",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Oman Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Masoud Nasser Al Abdali",
+        "Specialty": "Sr Consultant- Lap and G…",
+        "Department": "Orthopedic",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Mathew  Thomas",
+        "Specialty": "Professor and Senior Con…",
+        "Department": "Hematology Clinic",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Mathew  Thomas",
+        "Specialty": "Professor and Senior Con…",
+        "Department": "Hematology Clinic",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Mathew Varghese Chakkittayil",
+        "Specialty": "Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Mathew  George",
+        "Specialty": "Sr. Consultant General s…",
+        "Department": "General & Laparoscopic Surgery",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Mathew Chacko Ramacha",
+        "Specialty": "Sr. Consultant",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Mathew P Varghese",
+        "Specialty": "Oral & Maxillofacial Sur…",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr May",
+        "Specialty": "Specialist",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Medical Center Barwa"
+    },
+    {
+        "Doctor Name": "Dr. Maya Devi T J",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Mazin Hazim Kamil",
+        "Specialty": "Consultant",
+        "Department": "Gastroenterology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Meera  R",
+        "Specialty": "Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Midhun  Mohan",
+        "Specialty": "Registrar",
+        "Department": "Family Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Migita Michael D' Cruz",
+        "Specialty": "Associate Consultant",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr Migita M D'Cruz",
+        "Specialty": "Associate Consultant",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Milan Malik Malik Thaha",
+        "Specialty": "Pulmonologist",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Hospital Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Mini P N",
+        "Specialty": "Consultant",
+        "Department": "Dermatology & Cosmetology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Miriya Thomas P",
+        "Specialty": "Registrar",
+        "Department": "Pathology",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Mohamad  Ahmed",
+        "Specialty": "Consultant",
+        "Department": "Orthopedics",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Mohamad  Ahmed",
+        "Specialty": "Consultant",
+        "Department": "Orthopedics",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Mohamed  Koheji",
+        "Specialty": "Consultant and Upper Lim…",
+        "Department": "Orthopedics",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Mohamed Izudheen Irshad K",
+        "Specialty": "Consultant Pulmonologist…",
+        "Department": "Pulmonary Medicine",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Mohamed  Koheji",
+        "Specialty": "Consultant and  Upper Li…",
+        "Department": "Orthopedics",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Mohammed Ahmed Hamad Elsyed",
+        "Specialty": "General Practitioner",
+        "Department": "General Practitioner",
+        "Location": "KIMSHEALTH Medical Complex Duqm"
+    },
+    {
+        "Doctor Name": "Dr. Mohammed  Umer",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Mohammed  Bo Essa",
+        "Specialty": "Consultant",
+        "Department": "Anesthesiology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Mohammed  Afzaluddin",
+        "Specialty": "Physiotherapist",
+        "Department": "Physiotherapy",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Mohammed  Bo Essa",
+        "Specialty": "Consultant",
+        "Department": "Anesthesiology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Mohammed  Noushad",
+        "Specialty": "Senior Consultant",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Mohammed  Yahiya",
+        "Specialty": "Cons. Maxillofacial surg…",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Mohammed Shameem N",
+        "Specialty": "Anesthesiologist",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Mohammed Fahmi Mahmoud Hamdan",
+        "Specialty": "Urology",
+        "Department": "Urology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Mohemed  Sanowfer",
+        "Specialty": "Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Moideen Babu Perayil",
+        "Specialty": "Neonatologist",
+        "Department": "Neonatology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Mona  Issa",
+        "Specialty": "Consultant",
+        "Department": "Pediatrics",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Mona  Issa",
+        "Specialty": "Consultant",
+        "Department": "Pediatrics",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Monalisa G David",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Monil",
+        "Specialty": "",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr Mossaab  Hassoun",
+        "Specialty": "Consultant",
+        "Department": "Pediatrics",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr Mossaab  Hassoun",
+        "Specialty": "Consultant",
+        "Department": "Neonatology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Mritunjaya K Sharma",
+        "Specialty": "Specialist",
+        "Department": "Pediatric",
+        "Location": "KIMSHEALTH Medical Center Al Khuwair"
+    },
+    {
+        "Doctor Name": "Dr. Muhammad Hammad Muzaffar",
+        "Specialty": "Specialist",
+        "Department": "General Surgery",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Muhammad Saad Mostafa Awad El Boghdady",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Muhammad Usman Ulhaq",
+        "Specialty": "Specialist",
+        "Department": "Orthopedics",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Muhammed  Nazeer",
+        "Specialty": "Senior Consultant & Grou…",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Muhammed  Nooruddeen",
+        "Specialty": "Consultant Orthopaedic S…",
+        "Department": "Orthopaedics",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Muhammed  Niyas",
+        "Specialty": "Consultant",
+        "Department": "Infectious Disease",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Muhand Salemah Raji Eltwal",
+        "Specialty": "Consultant",
+        "Department": "Nephrology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Mujeeb V Rahman",
+        "Specialty": "Consultant",
+        "Department": "Gastroenterology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Mujeeb V Rahman",
+        "Specialty": "Consultant",
+        "Department": "Gastroenterology",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Muneebuddin Ahmed Syed",
+        "Specialty": "Consultant",
+        "Department": "Internal Medicine",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Munnu Zain Muneer",
+        "Specialty": "General Practitioner",
+        "Department": "General Practitioner",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Muraleedharan K K",
+        "Specialty": "Hon. Consultant",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Muraleedharan  K K",
+        "Specialty": "Hon.Consultant",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Murali",
+        "Specialty": "Sr.Consultant Urologist …",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Mustafa  Al Abdullah",
+        "Specialty": "Consultant",
+        "Department": "Gastroenterology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Mustafa  Al Abdullah",
+        "Specialty": "Consultant",
+        "Department": "Gastroenterology",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. N.S. Joseph",
+        "Specialty": "Hon. Senior Medicine",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Nidal  Hussein",
+        "Specialty": "﻿Consultant",
+        "Department": "Ophthalmology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Nabeel  Hameed",
+        "Specialty": "Consultant",
+        "Department": "Neuro Surgery",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Nabeel  Hameed",
+        "Specialty": "Consultant",
+        "Department": "Neuro Surgery",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Naeema  K",
+        "Specialty": "",
+        "Department": "Physical Medicine & Rehabilitation",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Naga Lakshmi V",
+        "Specialty": "Endodontist",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Nahas  A",
+        "Specialty": "Senior Registrar",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Nahid  Kamal",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics and Gynecology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Nailah  Nisar",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics and Gynecology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Nair Parvathi Unnikrishnan",
+        "Specialty": "Aesthetic Dentist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Najeeb",
+        "Specialty": "Consultant",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Najma  Nazeer",
+        "Specialty": "GP Dentist",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center Barwa"
+    },
+    {
+        "Doctor Name": "Dr. Narayan Ramachandran Swamy",
+        "Specialty": "Consultant",
+        "Department": "Orthopedic",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Narayan  Nair",
+        "Specialty": "General Dentist",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr. Narayanan  R",
+        "Specialty": "Associate Consultant",
+        "Department": "Surgical Oncology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Narendra  Kumar",
+        "Specialty": "Specialist",
+        "Department": "General Surgery",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Natasa  Nicolic",
+        "Specialty": "Specialist",
+        "Department": "Obstetrics and Gynecology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Nathalia Elizabath Chacko",
+        "Specialty": "Psychiatrist",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr Navas  N S",
+        "Specialty": "Hon. Consultant",
+        "Department": "Neurosurgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Naveen  Jain",
+        "Specialty": "Coordinator and Senior C…",
+        "Department": "Neonatology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Nazeer S Mohammed",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Neeta  Ravindranathan",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Neetha  Thomas",
+        "Specialty": "Specialist",
+        "Department": "Dermatology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Neetha  Ravi",
+        "Specialty": "Specialist",
+        "Department": "General Surgery",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Neetha  Mahadoon",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "AL RASHIDIYAH PVT POLYCLINIC"
+    },
+    {
+        "Doctor Name": "Dr. Neetha  Ravi",
+        "Specialty": "Specialist",
+        "Department": "General Surgery",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Neetha  Ravi",
+        "Specialty": "Specialist",
+        "Department": "General Surgery",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Neetu  Gupta",
+        "Specialty": "Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Neetu S Dathan",
+        "Specialty": "Consultant Laboratory me…",
+        "Department": "Laboratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Niharika",
+        "Specialty": "Specialist",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr. Nikhil  K V",
+        "Specialty": "Spine Surgeon",
+        "Department": "Spine Surgery Department",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Nimish  Daniel",
+        "Specialty": "Anaesthesiologist",
+        "Department": "Anaesthesiology",
+        "Location": "KIMSHEALTH Hospital Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Nimmu  George",
+        "Specialty": "General Dentist with End…",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr. Nisha  Prasannan",
+        "Specialty": "Specialist",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Nisha Nair N U",
+        "Specialty": "Associate Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Nisha  Mohammed",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Nisha A Navas",
+        "Specialty": "Dietician",
+        "Department": "Nutrition & Dietetics",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Nishad  K",
+        "Specialty": "Plastic Surgeon",
+        "Department": "Plastic, Reconstructive, Microvascular Surgery",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Nissy Susan Kuruvilla",
+        "Specialty": "Medical Officer",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr Nitha  J",
+        "Specialty": "Consultant",
+        "Department": "Physical Medicine &  Rehabilitation",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Nitha  Felix",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Dr. Nithya  R",
+        "Specialty": "Consultant",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Nithya  R",
+        "Specialty": "Pediatric ENT Specialist",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Nivedita  Nair",
+        "Specialty": "Specialist",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Nizar  Ali",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Dubai"
+    },
+    {
+        "Doctor Name": "Dr. Noor  Almozan",
+        "Specialty": "Specialist",
+        "Department": "Dermatology",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Noor  Almozan",
+        "Specialty": "Specialist",
+        "Department": "Dermatology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Noorsathar  N S",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Pediatric Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Nosheen J Ansari",
+        "Specialty": "Specialist",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Noushad Babu P K",
+        "Specialty": "Consultant Surgical Gast…",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Oommen  George",
+        "Specialty": "Specialist (Oral Surgery)",
+        "Department": "Dentistry",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Oommen Aju Jacob",
+        "Specialty": "Senior Maxillofacial Sur…",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Oommen  George",
+        "Specialty": "Specialist (Oral Surgery)",
+        "Department": "Dentistry",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. P  Arjun",
+        "Specialty": "Senior Consultant & Grou…",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. P M C Nair",
+        "Specialty": "Specialist",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. P A Mohammed Kunju",
+        "Specialty": "Senior Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. P A Mohammed Kunju",
+        "Specialty": "Senior Consultant",
+        "Department": "Pediatric Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. P.G. Jayaprakash",
+        "Specialty": "Hon. Senior Consultant– …",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Cancer Center"
+    },
+    {
+        "Doctor Name": "Dr. P.G. Jayaprakash",
+        "Specialty": "Hon. Sr. Consultant– Rad…",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. P.P Abdul Shahid",
+        "Specialty": "Consultant-Medical Oncol…",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. P.P.Abdul  Shahid",
+        "Specialty": "Consultant",
+        "Department": "Medical Oncology Hemato Oncology",
+        "Location": "KIMSHEALTH Cancer Center"
+    },
+    {
+        "Doctor Name": "Dr. Pamela  Asghar",
+        "Specialty": "Specialist",
+        "Department": "Obstetrics and Gynecology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Padmaja N P",
+        "Specialty": "Senior Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Padmanabhan  M K",
+        "Specialty": "Consultant Vascular Surg…",
+        "Department": "General & Laparoscopic Surgery",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Parisa  Pakdel",
+        "Specialty": "Specialist",
+        "Department": "Pediatric",
+        "Location": "KIMSHEALTH Oman Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Parisa  Pakdel",
+        "Specialty": "Specialist",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Parvathy  Jayesh",
+        "Specialty": "Consultant",
+        "Department": "General Medicine",
+        "Location": "AL RASHIDIYAH PVT POLYCLINIC"
+    },
+    {
+        "Doctor Name": "Dr Parvathy  G",
+        "Specialty": "Specialist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Parveen  Molly",
+        "Specialty": "Genaral Dentist",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Pavithra  Sarma",
+        "Specialty": "Psychiatrist",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Pradeep  Kumar",
+        "Specialty": "General Paracitioner",
+        "Department": "General Paracitioner",
+        "Location": "KIMSHEALTH Medical Center Al Khuwair"
+    },
+    {
+        "Doctor Name": "Dr. Pradeep  Maheshwari",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Pradeep M M",
+        "Specialty": "Anesthesiologist",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Pradeep  Divakaran",
+        "Specialty": "Specialist",
+        "Department": "Ears, Nose and Throat (ENT)",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Dr. Pradeep  S",
+        "Specialty": "Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Prameela  Joji",
+        "Specialty": "Consultant Pediatric Cri…",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Pramitha  Biju",
+        "Specialty": "Specialist",
+        "Department": "Physiotherapy",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Prasanna Kumar M",
+        "Specialty": "Senior Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Praseetha G S",
+        "Specialty": "Psychologist / Remedial …",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Praveen S V",
+        "Specialty": "Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Praveen  Kumar",
+        "Specialty": "Consultant",
+        "Department": "Cardiology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Praveen  Murlidharan",
+        "Specialty": "Medical Superintendent &…",
+        "Department": "Nephrology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Praveen  Kumar",
+        "Specialty": "Consultant",
+        "Department": "Cardiology",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Ms. Praylyn  Rubysha",
+        "Specialty": "Occupational Therapist",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Preethi  V",
+        "Specialty": "Registrar",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Prem Kumar P.S",
+        "Specialty": "Consultant- Intensivist",
+        "Department": "Critical Care",
+        "Location": "KIMSHEALTH Hospital Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Prethesh  Raaj",
+        "Specialty": "ED In Charge",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Prijo Philip",
+        "Specialty": "Pediatric Nephrologist C…",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Prijo  Philip",
+        "Specialty": "Senior Registrar",
+        "Department": "Nephrology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Prijo  Philip",
+        "Specialty": "Senior Registrar",
+        "Department": "Pediatric Nephrology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Puneeth  Kc",
+        "Specialty": "Registrar- Radiodiagnosis",
+        "Department": "Radiodiagnosis",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Reji  J",
+        "Specialty": "Senior Registrar",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Roy  Mali",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Rabeeh  Valiyathodi",
+        "Specialty": "Consultant",
+        "Department": "Fertility Clinic",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rachel  Abraham",
+        "Specialty": "Consultant & Dy Coordina…",
+        "Department": "Laboratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Radhamony  D",
+        "Specialty": "Senior Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Radhika Rani Suprakasan",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr. Rafeekha  P",
+        "Specialty": "Senior Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Raghu  Ramesh",
+        "Specialty": "Specialist",
+        "Department": "Orthopedics",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Raghu  Ramesh",
+        "Specialty": "Specialist",
+        "Department": "Orthopedics",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Dr. Ragitha Binu Krishnan",
+        "Specialty": "Consultant",
+        "Department": "Laryngology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rahat  Haseeb",
+        "Specialty": "Specialist",
+        "Department": "Physiotherapy",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Rahul  Popli",
+        "Specialty": "Specialist",
+        "Department": "Anesthesiology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Raichel  Geevarghese",
+        "Specialty": "Specialist-Pedodontics",
+        "Department": "Pediatric Dentistry",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr. Raj Mohan L",
+        "Specialty": "Consultant",
+        "Department": "Endocrinology & Diabetes",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Raja  Hejair",
+        "Specialty": "Psychologist",
+        "Department": "Psychology & Corporate Wellness",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Rajalakshmi  A",
+        "Specialty": "Senior Consultant",
+        "Department": "Infectious Disease",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rajeev  Nathan",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Rajendran  D",
+        "Specialty": "Sr. Anesthesiologist",
+        "Department": "Anaesthesiology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Rajendran  D",
+        "Specialty": "Sr. Anesthesiologist",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Rajesh  Raveendranath",
+        "Specialty": "Neuro Muscular Dentist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rajesh  Dharmarajan",
+        "Specialty": "Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Rajesh  S",
+        "Specialty": "Senior Consultant",
+        "Department": "Rheumatology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rajesh  Sasikumaran",
+        "Specialty": "Consultant Intensivist",
+        "Department": "Critical Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rajeswari  Vijayakumar",
+        "Specialty": "Specialist Pediatrician",
+        "Department": "Pediatrics",
+        "Location": "AL RASHIDIYAH PVT POLYCLINIC"
+    },
+    {
+        "Doctor Name": "Dr. Rajith Remanan Pillai",
+        "Specialty": "Consultant",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Raju A Gopal",
+        "Specialty": "Consultant Endocrinologi…",
+        "Department": "Endocrinology & Internal Medicine",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Rakesh  Varma",
+        "Specialty": "General surgeon",
+        "Department": "General & Laparoscopic Surgery",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Ram Mohan C V",
+        "Specialty": "Senior Consultant",
+        "Department": "Pediatric Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rama Devi G",
+        "Specialty": "Pathologist",
+        "Department": "Laboratory Medicine",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Ramakrishna Pillai V",
+        "Specialty": "Director - Interventiona…",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ramesh  Padubidri",
+        "Specialty": "Consultant",
+        "Department": "Plastic Surgery",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Ramesh  Padubidri",
+        "Specialty": "Consultant",
+        "Department": "Plastic Surgery",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Ramesh Natarajan",
+        "Specialty": "Senior Consultant & Coor…",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Ramesh Kumar G",
+        "Specialty": "Senior Consultant - Elde…",
+        "Department": "Geriatrics and Healthy Living",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rani  Krishna",
+        "Specialty": "Specialist - Prosthodont…",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr Rani  Krishnan",
+        "Specialty": "Specialist - Prosthodont…",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Ranjith  Unnikrishnan",
+        "Specialty": "Consultant",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Rasheeda  Nazeem",
+        "Specialty": "Specialist",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center Dubai"
+    },
+    {
+        "Doctor Name": "Dr. Rashid Mohammed Salim Al Zaidi",
+        "Specialty": "Consultant",
+        "Department": "Psychiatry",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Ravi  Aravind",
+        "Specialty": "Prosthodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Ravi  Srinivasan",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Raziya  Sabu",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Rebeka R Thaman",
+        "Specialty": "Specialist",
+        "Department": "General Surgery",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Dr. Reeba Ann Daniel",
+        "Specialty": "Senior Registrar",
+        "Department": "Developmental Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Reeti  Malhotra",
+        "Specialty": "Consultant",
+        "Department": "Dermatology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Reeti  Malhotra",
+        "Specialty": "Consultant ( Dermatology…",
+        "Department": "Dermatology",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Reju Joseph Thomas",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Pediatric Urology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Reju Joseph Thomas",
+        "Specialty": "Pediatric Surgeon",
+        "Department": "Pediatric Surgery",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Rekha  Vijayan",
+        "Specialty": "Dermatologist",
+        "Department": "Dermatology & Cosmetology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Rema Devi T J",
+        "Specialty": "Consultant",
+        "Department": "Dermatology & Cosmetology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Renjini  Radhakrishnan",
+        "Specialty": "Specialist",
+        "Department": "Nephrology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Renu  Thomas",
+        "Specialty": "Senior Consultant and Co…",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Ms. Reshmi S R",
+        "Specialty": "Speech Language Patholog…",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Reshmy R Pillai",
+        "Specialty": "Consultant",
+        "Department": "Neonatology",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Reshmy R Pillai",
+        "Specialty": "Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr Riaz  Ahammed",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Medical Center Dubai"
+    },
+    {
+        "Doctor Name": "Dr. Richard  Leandri",
+        "Specialty": "Sr. Consultant (Plastic,…",
+        "Department": "Plastic Surgery",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Riffat  Ara",
+        "Specialty": "Specilaist",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Rijo Jayaraju Mangalasseril",
+        "Specialty": "Specialist",
+        "Department": "Ears, Nose and Throat (ENT)",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Rineesha  Pulikkathodiyil",
+        "Specialty": "General Dentist",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr. Rini  Mathews",
+        "Specialty": "General Dentist",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Rinu Ruth George",
+        "Specialty": "Specialist",
+        "Department": "Dermatology & Cosmetology",
+        "Location": "AL RASHIDIYAH PVT POLYCLINIC"
+    },
+    {
+        "Doctor Name": "Dr. Riya Ann Mathew",
+        "Specialty": "Registrar ENT",
+        "Department": "Ears, Nose & Throat (ENT)",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr Riyas  R S",
+        "Specialty": "Associate Consultant",
+        "Department": "Endocrinology & Diabetes",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Riyas R S",
+        "Specialty": "Associate Consultant",
+        "Department": "Endocrinology & Diabetes",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Riza  Siddiqui",
+        "Specialty": "Senior Resident Plastic …",
+        "Department": "Plastic, Reconstructive, Microvascular Surgery",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Roben  Sebastian",
+        "Specialty": "Specialist",
+        "Department": "General & Laparoscopic Surgery",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Rohith  S",
+        "Specialty": "Consultant - Quality and…",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Roopa  Prasannan",
+        "Specialty": "Endodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Rosario  Frincillo",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Roshan  Daniel",
+        "Specialty": "Associate Consultant",
+        "Department": "Medical Genetics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Roshan  Daniel",
+        "Specialty": "Associate Consultant",
+        "Department": "Pediatric Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Roshan  Daniel",
+        "Specialty": "Associate Consultant",
+        "Department": "Medical Oncology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Roshini  Ambat",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Roshni  Rajan",
+        "Specialty": "General Dental Practitio…",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Dr. Roshni  Rajan",
+        "Specialty": "General Dental Practitio…",
+        "Department": "Dentistry",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Roubeel",
+        "Specialty": "Specialist",
+        "Department": "Orthopedics",
+        "Location": "KIMSHEALTH Medical Center Dubai"
+    },
+    {
+        "Doctor Name": "Dr. S  Subash",
+        "Specialty": "Consultant Anesthesia",
+        "Department": "Cardiothoracic Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. S Sreejith",
+        "Specialty": "Associate Consultant",
+        "Department": "Gastrointestinal Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. S Sreejith",
+        "Specialty": "Associate Consultant",
+        "Department": "Hepatobiliary, Pancreatic & Liver Transplant Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. S. Subash",
+        "Specialty": "Consultant Anesthesia",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sam  Thomas",
+        "Specialty": "Specialist",
+        "Department": "Orthodontist",
+        "Location": "KIMSHEALTH Medical Center Um Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Selcuk  Kucukseymen",
+        "Specialty": "Consultant",
+        "Department": "Cardiology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Sushruth S Srinivas",
+        "Specialty": "Specialist- Orthopedics",
+        "Department": "Orthopedics",
+        "Location": "KIMSHEALTH Medical Center Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Sushruth S Srinivas",
+        "Specialty": "Specialist- Orthopedics",
+        "Department": "Orthopedics",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Saadia  Haroon",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Saadia  Haroon",
+        "Specialty": "Obstetrics and Gynaecolo…",
+        "Department": "Obstetrics and Gynecology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Sabarinathan  K",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sabu  Muhammed",
+        "Specialty": "Genaral Dentist",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Sadakathulla A",
+        "Specialty": "Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Saddiq M H",
+        "Specialty": "Paediatric Coordinator a…",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Sadegh  Rahgoo",
+        "Specialty": "General Practitioner",
+        "Department": "General Practitioner",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Saeed Ahmed Khan",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Saeed  Al Hindi",
+        "Specialty": "Consultant",
+        "Department": "Pediatrics",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Safdar  Basheer",
+        "Specialty": "Registrar",
+        "Department": "Family Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Saffia  P M",
+        "Specialty": "Sr. Consultant & Vice De…",
+        "Department": "Plastic, Reconstructive, Microvascular Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Said Salim Abdullah Al Kaabi",
+        "Specialty": "Consultant",
+        "Department": "Psychiatry",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Saifudeen  A",
+        "Specialty": "Senior Consultant",
+        "Department": "Hematology Clinic",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Sailaja  Kaza",
+        "Specialty": "Specialist",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Medical Center Dubai"
+    },
+    {
+        "Doctor Name": "Dr. Sailaja  Kazza",
+        "Specialty": "Specialist",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "AL RASHIDIYAH PVT POLYCLINIC"
+    },
+    {
+        "Doctor Name": "Dr. Sainulabid  A",
+        "Specialty": "ENT Surgeon",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Sajan  Nair",
+        "Specialty": "Specialist Orthodontist",
+        "Department": "General Dentistry",
+        "Location": "AL RASHIDIYAH PVT POLYCLINIC"
+    },
+    {
+        "Doctor Name": "Dr. Sajan  K",
+        "Specialty": "Anesthesiologist",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Sajeev  B.K",
+        "Specialty": "Specialist",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Saji Paul K",
+        "Specialty": "E N T Specialist",
+        "Department": "Ears, Nose and Throat (ENT)",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Saji  Firoz",
+        "Specialty": "Consultant",
+        "Department": "Dermatology & Cosmetology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sajit  N",
+        "Specialty": "Hod & Sr. Consultant Ana…",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Sajith Mohan R",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sajith Kumar Indira",
+        "Specialty": "Specialist",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr. Sajith Babu S.M",
+        "Specialty": "Associate Consultant",
+        "Department": "Neurosurgery",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Saju  Xavier",
+        "Specialty": "Sr. Consultant & HOD Gas…",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Salil Kumar  K",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Samah  Malek",
+        "Specialty": "Specialist",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Sangeetha  Cherian",
+        "Specialty": "Sr. Consultant Neurologi…",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Sanjay  Naidu",
+        "Specialty": "Consultant",
+        "Department": "Endocrinology",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Sanjeev  Bhaskar",
+        "Specialty": "Senior Consultant",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Sanooja  Pinki",
+        "Specialty": "Senior Registrar & Coord…",
+        "Department": "Transfusion Medicine / Blood centre",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sanoop K Zachariah",
+        "Specialty": "Senior Consultant",
+        "Department": "Neuro Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sanoop K Zachariah",
+        "Specialty": "Senior Consultant and Pr…",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH  Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Santhi Mullan Antony",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Santhosh  Joseph",
+        "Specialty": "Senior Consultant & Clin…",
+        "Department": "Neuro Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Santhosh B P",
+        "Specialty": "Specialist",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Santhosh  Kumar",
+        "Specialty": "CONSULTANT RADIOLOGIST",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Santosh Kumar Balagopal",
+        "Specialty": "Sr. Consultant in Neurol…",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr Sanu  Tom",
+        "Specialty": "Specialist",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center Dubai"
+    },
+    {
+        "Doctor Name": "Dr. Sanuja Titus Santosh",
+        "Specialty": "Senior Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sara Ibrahim Mohamedtaha Mustafa",
+        "Specialty": "General Practitioner",
+        "Department": "Emergency",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Sarah Ali Shaker",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Sarah Ali Shaker",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics and Gynecology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Sarath Chandran C",
+        "Specialty": "Specialist",
+        "Department": "Radiodiagnosis & Imaging service",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Sarath  Ravi",
+        "Specialty": "Consultant- Vitreo Retin…",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Saravanan Thangam Shanmugasundram",
+        "Specialty": "Specialist",
+        "Department": "Radiology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Saravanan  R",
+        "Specialty": "Visiting Consultant - Ur…",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Sarita  Thomas",
+        "Specialty": "Specialist- Paediatrics",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Sasidharan  K",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Satish  B",
+        "Specialty": "Consultant",
+        "Department": "Nephrology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Saumya  Cs",
+        "Specialty": "ENT Surgeon",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Seham Ameen Alasbahi",
+        "Specialty": "General Dentist",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Shabeerali T U",
+        "Specialty": "Chief Coordinator & Seni…",
+        "Department": "Hepatobiliary, Pancreatic & Liver Transplant Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shabin K Sidhique",
+        "Specialty": "Specialist",
+        "Department": "Oncology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Shabin K Sidhique",
+        "Specialty": "Senior Registrar",
+        "Department": "Radiation Oncology",
+        "Location": "KIMSHEALTH Cancer Center"
+    },
+    {
+        "Doctor Name": "Dr. Shabir  Ali",
+        "Specialty": "Consultant Orthoapaedic …",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Shabnam  U",
+        "Specialty": "Oral Pathologist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Shabnam S Salam",
+        "Specialty": "Senior resident – Critic…",
+        "Department": "Critical Care",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Shafeeq  T",
+        "Specialty": "Dental Surgeon",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Shafy Ali Khan",
+        "Specialty": "ConsultantSenior Consult…",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shahida  Kuttipurath",
+        "Specialty": "Dental Surgeon",
+        "Department": "Dental",
+        "Location": "KIMSHEALTH Medical Complex Duqm"
+    },
+    {
+        "Doctor Name": "Dr. Shahina  P H",
+        "Specialty": "Pathologist",
+        "Department": "Pathology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr Shahira Gamal Zaki",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Shahul Hameed",
+        "Specialty": "HOD Emergency Medicine",
+        "Department": "Emergency Medicine",
+        "Location": "KIMSHEALTH Hospital Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Shaineer  Kenny",
+        "Specialty": "Specialist",
+        "Department": "Family Medicine",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Shaji  Palangadan",
+        "Specialty": "Senior Consultant and Co…",
+        "Department": "Cardiothoracic Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shaji K Thomas",
+        "Specialty": "Senior Consultant",
+        "Department": "Neonatology",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Shaji K Thomas",
+        "Specialty": "Sr. Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Shaji Mohamed Haneefa",
+        "Specialty": "Senior Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shajil  Enara",
+        "Specialty": "Specialist-Orthodontics",
+        "Department": "Orthodontist",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr Shalaka Prakash K",
+        "Specialty": "Specialist",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Shali S Nair",
+        "Specialty": "Registrar",
+        "Department": "Pain and Palliative medicine",
+        "Location": "KIMSHEALTH Cancer Center"
+    },
+    {
+        "Doctor Name": "Dr. Shali S Nair",
+        "Specialty": "Registrar",
+        "Department": "Cancer Care",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shameem K U",
+        "Specialty": "Consultant & Group Clini…",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shamna  Vk",
+        "Specialty": "Specialist",
+        "Department": "Psychology",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr Shamnad B L",
+        "Specialty": "Senior Physiotherapist",
+        "Department": "Physical Medicine & Rehabilitation",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Shamsheer  M A",
+        "Specialty": "HOD & Sr. Consultant ENT…",
+        "Department": "Ears, Nose & Throat (ENT)",
+        "Location": "KIMSHEALTH Hospital Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Shamsher  Singh",
+        "Specialty": "Specialist",
+        "Department": "Orthopedics",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr. Shankar Ram Hs",
+        "Specialty": "Specialist",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Sharif Abdulsalam Hamza Khashaba",
+        "Specialty": "Consultant",
+        "Department": "Vascular Surgery",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Sharon Victoria Mendez",
+        "Specialty": "Specialist",
+        "Department": "Neurosurgery",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Sharon Victoria Mendez",
+        "Specialty": "Specialist",
+        "Department": "Neonatology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Shashiraj  Eswarappa",
+        "Specialty": "Consultant- Internal Med…",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr Sheeja  M",
+        "Specialty": "Consultant",
+        "Department": "Pediatric & Adolescent Endocrinology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Ms. Sheeja Kaithayil Bahuleyan",
+        "Specialty": "Sensory Integration Ther…",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sheeja Beegum Habeeb",
+        "Specialty": "Gynaecologist",
+        "Department": "Fertility & Gynaecology",
+        "Location": "KIMSHEALTH Hospital Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Sheeja Consultant Madhavan",
+        "Specialty": "Consultant",
+        "Department": "Pediatric & Adolescent Endocrinology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shekhar S",
+        "Specialty": "Maxillofacial Surgeon",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shereen Abdelhady Nouh Mahmoud Hashim",
+        "Specialty": "Specialist",
+        "Department": "Radiology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Sheriff M. Sahadulla",
+        "Specialty": "Consultant",
+        "Department": "Internal Medicine",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Sherin  Nazeer",
+        "Specialty": "Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sherly  John",
+        "Specialty": "Consultant",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Shibu  George",
+        "Specialty": "Specialist",
+        "Department": "Dentistry",
+        "Location": "KIMSHEALTH Medical Center Dubai"
+    },
+    {
+        "Doctor Name": "Dr. Shihab  Nakkolakkal",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Shijinamol  B",
+        "Specialty": "Medical Officer",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Shiju K S",
+        "Specialty": "Pediatric Surgeon",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Shina  Jamaludheenkunju",
+        "Specialty": "Consultant",
+        "Department": "Anesthesiology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Shinihas  Vp",
+        "Specialty": "Specialist",
+        "Department": "Neuro Surgery",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Shiraz Ahmad Rather",
+        "Specialty": "Consultant",
+        "Department": "Hepatobiliary, Pancreatic & Liver Transplant Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shiraz Ahmad Rather",
+        "Specialty": "Head Consultant & Head o…",
+        "Department": "Gastrointestinal Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Shoba Justus Victoria",
+        "Specialty": "Associate",
+        "Department": "OBG/Gynecology",
+        "Location": "KIMSHEALTH Medical Center Barwa"
+    },
+    {
+        "Doctor Name": "Dr. Sholapur Zaheer Ahmed",
+        "Specialty": "Specialist",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Sibasis  Bisoi",
+        "Specialty": "Specialist",
+        "Department": "General Surgery",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Simi M Ismail",
+        "Specialty": "Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Sithara  M S",
+        "Specialty": "Radio Diagnosis",
+        "Department": "Radiology",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Siti  Saleha",
+        "Specialty": "Consultant",
+        "Department": "Obstetrics and Gynecology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Sivadas  Arun",
+        "Specialty": "Periodontist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Smitha  Tharakan",
+        "Specialty": "Dental Surgeon",
+        "Department": "Dental",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Smitha  Sam",
+        "Specialty": "Specialist",
+        "Department": "Endodontist",
+        "Location": "KIMSHEALTH Medical Center Muharraq"
+    },
+    {
+        "Doctor Name": "Dr Smitha Sarah Manoj",
+        "Specialty": "Specialist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Smruti  Dehedkar",
+        "Specialty": "Specialist -Dental Surge…",
+        "Department": "Dental",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Sneha Ann Abraham",
+        "Specialty": "Consultant",
+        "Department": "Fertility Clinic",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sneha Ann Abraham",
+        "Specialty": "Infertility Specialist",
+        "Department": "Fertility Clinic",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Ms. Sneha A Manuel",
+        "Specialty": "Psychologist/ Remedial E…",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Sobha Sara Mathew",
+        "Specialty": "Hon. Consultant",
+        "Department": "Neurosurgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sobhana Devi R.",
+        "Specialty": "Sr. Consultant",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Sonymol  A",
+        "Specialty": "Registrar",
+        "Department": "Radiodiagnosis & Imaging service",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Sooraj  Thottathi",
+        "Specialty": "Specialist- General Surg…",
+        "Department": "General Surgery",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr Sooraj",
+        "Specialty": "Specialist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Sooraj  S",
+        "Specialty": "Senior Maxillofacial Sur…",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sowmya  Srinivas",
+        "Specialty": "Specialist",
+        "Department": "Pediatric",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Sreedevi  S",
+        "Specialty": "Gynecologist",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Sreejith M D",
+        "Specialty": "Associate Consultant",
+        "Department": "Neurosurgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sreejith  K R",
+        "Specialty": "Senior Pediatric Dentist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sreekala  Padmanabhan",
+        "Specialty": "Senior Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Sreekumar  Sivasankaran",
+        "Specialty": "Specialist",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Sridhar  Suresh",
+        "Specialty": "Specialist",
+        "Department": "General Surgery",
+        "Location": "AL RASHIDIYAH PVT POLYCLINIC"
+    },
+    {
+        "Doctor Name": "Dr. Srinivas  Bapu",
+        "Specialty": "Specialist",
+        "Department": "Ear, Nose and Throat",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Srinivasababu  Subramanian",
+        "Specialty": "Specialist",
+        "Department": "Pediatrics",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Srinivasababu  Subramanian",
+        "Specialty": "Specialist",
+        "Department": "Pediatrics",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Stephen  Angamuthu",
+        "Specialty": "Consultant",
+        "Department": "General Surgery",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Stephen  Angamuthu",
+        "Specialty": "Consultant",
+        "Department": "General Surgery",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Subhalal  M S",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Gastrointestinal Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Subin.  K",
+        "Specialty": "Consultant",
+        "Department": "Dermatology & Cosmetology",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Sudhir  Pillai",
+        "Specialty": "Specialist ENT",
+        "Department": "ENT",
+        "Location": "AL RASHIDIYAH PVT POLYCLINIC"
+    },
+    {
+        "Doctor Name": "Dr. Sudin  S R",
+        "Specialty": "Consultant",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sudin S R",
+        "Specialty": "Consultant",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Sufina N Sulfi",
+        "Specialty": "Psychologist / Remedial …",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Suhail  Abdulgafoor",
+        "Specialty": "Specialist",
+        "Department": "Orthopedics",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Suhail  Abdulgafoor",
+        "Specialty": "Specialist",
+        "Department": "Orthopedics",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Sujith Varghese Abraham",
+        "Specialty": "Senior Registrar",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Sujith Mathew John",
+        "Specialty": "Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Sujith  Chandran",
+        "Specialty": "Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Sukanya  M K",
+        "Specialty": "Consultant Neonatologist",
+        "Department": "Neonatology",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Sulaiman Al Maamari",
+        "Specialty": "Consultant",
+        "Department": "General Surgery",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Sumaira Aziz",
+        "Specialty": "Specialist",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Suman O S",
+        "Specialty": "General Surgeon",
+        "Department": "General & Laparoscopic Surgery",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Sumathi  Thiruvavinan",
+        "Specialty": "Specialist",
+        "Department": "General Dentistry",
+        "Location": "AL RASHIDIYAH PVT POLYCLINIC"
+    },
+    {
+        "Doctor Name": "Dr. Sumit  Larokar",
+        "Specialty": "Specialist",
+        "Department": "Pediatric Neonatology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Sundus  Aziz",
+        "Specialty": "Specialist",
+        "Department": "Radiology",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Sunil  Rao",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Suprakashan  Sukumaran",
+        "Specialty": "Specialist",
+        "Department": "Dermatology & Cosmetology",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Ms. Supriya G R",
+        "Specialty": "Remedial Educator",
+        "Department": "Holistic Child Development Center",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Surej Kumar L K",
+        "Specialty": "Senior Maxillofacial Sur…",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Suresh Chandran  C J",
+        "Specialty": "Coordinator & Senior Con…",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Suryanath",
+        "Specialty": "Cardiologist",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Susha  John",
+        "Specialty": "Consultant",
+        "Department": "Psychiatry & Behavioral Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Sushant  B",
+        "Specialty": "Hon.Consultant",
+        "Department": "Neurosurgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Susheela B Nair",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Ophthalmology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Suvy  Manuel",
+        "Specialty": "Oral & Maxillofacial Sur…",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Suzan  Abdulhak",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Suzanne  Abbas",
+        "Specialty": "Consultant",
+        "Department": "Radiology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Swapna Sasidharan",
+        "Specialty": "Consultant Anesthesia",
+        "Department": "Cardiothoracic Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Syam K Ramesh",
+        "Specialty": "Hon. Senior Consultant",
+        "Department": "Urology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Syamala Devi  P K",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Syamlal  S",
+        "Specialty": "Senior Consultant",
+        "Department": "Neurology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Syed  Moinullah",
+        "Specialty": "Specialist",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Syed Sajjad Husain",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr Syed  Shah",
+        "Specialty": "Specialist",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Dubai"
+    },
+    {
+        "Doctor Name": "Dr. Syed Nawaz Afzal",
+        "Specialty": "Interventional Cardiolog…",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Tanya  Aysha",
+        "Specialty": "Anaesthesiologist",
+        "Department": "Anesthesiology",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Tasleem Quddus Khan",
+        "Specialty": "Specialist",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Medical Center Al Khuwair"
+    },
+    {
+        "Doctor Name": "Dr. Thanzil  Hassan",
+        "Specialty": "ER Physician",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Thasleema  Nazer",
+        "Specialty": "Medical Officer",
+        "Department": "Emergency Medicine Department",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Thasneem Taj E",
+        "Specialty": "Gastroenterologist",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Thomas  Varghese",
+        "Specialty": "Consultant Orthopaedic S…",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Thoufiq  Ali",
+        "Specialty": "Specialist",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Thushanth  Thomas",
+        "Specialty": "Chief Coordinator & Cons…",
+        "Department": "Endocrinology & Diabetes",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Thushara K R",
+        "Specialty": "Jr. Con Hand & Microvasc…",
+        "Department": "Plastic, Reconstructive, Microvascular Surgery",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Tilal Gaffar Taha Osman",
+        "Specialty": "General Practitioner",
+        "Department": "General Practitioner",
+        "Location": "KIMSHEALTH Medical Complex Duqm"
+    },
+    {
+        "Doctor Name": "Dr. Tomichan M C",
+        "Specialty": "Senior Consultant",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Tony  Augustine",
+        "Specialty": "Specialist",
+        "Department": "Gynaec Oncosurgeon",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Urli  Avellanosa",
+        "Specialty": "Specialist",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Ummar  M",
+        "Specialty": "Sr. Consultant- Maxillof…",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. V K Anand",
+        "Specialty": "consultant",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Venkatesh  Mushini",
+        "Specialty": "Specialist",
+        "Department": "Medical Oncology Hemato Oncology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr Vaisakh  Shajikumar",
+        "Specialty": "Consultant",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Dubai"
+    },
+    {
+        "Doctor Name": "Dr. Valsamma  Chacko",
+        "Specialty": "Hon. Sr. Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Varghese  Yeldho",
+        "Specialty": "Associate consultant",
+        "Department": "Gastrointestinal Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Varghese  Yeldho",
+        "Specialty": "Association consultant –…",
+        "Department": "Hepatobiliary, Pancreatic & Liver Transplant Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Varun  Swaminathan",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Vidad  Galzie",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Vidhyavathi  Vairamohan",
+        "Specialty": "Specialist  in Laborator…",
+        "Department": "Laboratory Services",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr. Vidyalekshmy  R",
+        "Specialty": "Senior Consultant & Coor…",
+        "Department": "High Risk Pregnancy & Fetal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vijaya Lakshmi Vedantam",
+        "Specialty": "General Practitioner",
+        "Department": "Emergency",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Vijayakumar",
+        "Specialty": "Visiting Consultant",
+        "Department": "Plastic, Reconstructive, Microvascular Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vijayakumar  B",
+        "Specialty": "Senior Consultant",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vijayalekshmi  N",
+        "Specialty": "Prof. and Hon. Senior Co…",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vijayan K N",
+        "Specialty": "Coordinator & Professor …",
+        "Department": "General & Minimally Invasive Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vijayanath  R",
+        "Specialty": "",
+        "Department": "ENT & Laryngology",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dt. Vijilatha",
+        "Specialty": "Sr. Dietician",
+        "Department": "Clinical Nutrition",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vinay K Kumar",
+        "Specialty": "Specialist",
+        "Department": "Radiology",
+        "Location": "KIMSHEALTH Hospital Umm Al Hassam"
+    },
+    {
+        "Doctor Name": "Dr. Vinayak  Padmakumar",
+        "Specialty": "Pediatric Dentist",
+        "Department": "Dental, Clinical, Oral & Maxillofacial Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vinayak  M",
+        "Specialty": "Associate Consultant",
+        "Department": "Nephrology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vineetha G Gopal",
+        "Specialty": "Consultant",
+        "Department": "Pain Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vinitha Mary Joy",
+        "Specialty": "Clinical Microbiologist",
+        "Department": "Microbiology",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Vinod  Krishnan",
+        "Specialty": "Paediatric Orthopaedics …",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vinod  Krishnan",
+        "Specialty": "Consultant",
+        "Department": "Orthopedics & Trauma",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Vinod Kumar Kesavan",
+        "Specialty": "Senior Consultant",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vinod  Felix",
+        "Specialty": "Consultant",
+        "Department": "ENT",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vinod  Chandran",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Vinoo  Balakrishnan",
+        "Specialty": "Senior Consultant",
+        "Department": "Obstetrics & Gynecology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr Vinoth Kumar D",
+        "Specialty": "Interventional Cardiolog…",
+        "Department": "Neuro Surgery",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Vipin  Kalathil",
+        "Specialty": "Paediati",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Alshifa"
+    },
+    {
+        "Doctor Name": "Dr. Vipin Balakrishnan Nair",
+        "Specialty": "Associate Consultant",
+        "Department": "Cardiothoracic Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vishesh Jain",
+        "Specialty": "Specialist",
+        "Department": "Radiology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Vishesh Jain",
+        "Specialty": "Specialist",
+        "Department": "Pulmonology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Vishnu B S",
+        "Specialty": "Registrar and Academic c…",
+        "Department": "Family Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Vishnu R Krishnan",
+        "Specialty": "Specialist",
+        "Department": "General & Laparoscopic Surgery",
+        "Location": "KIMSHEALTH Kollam"
+    },
+    {
+        "Doctor Name": "Dr. Vivek  Muthukumarasamy",
+        "Specialty": "Specialist",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Vysakh V Kumar",
+        "Specialty": "Pulmonologist",
+        "Department": "Respiratory Medicine",
+        "Location": "KIMSHEALTH Kottayam"
+    },
+    {
+        "Doctor Name": "Dr. Wael Nabil",
+        "Specialty": "Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Waleed  Sultan",
+        "Specialty": "Specialist",
+        "Department": "Cardiology",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Waleed  Sultan",
+        "Specialty": "Specialist",
+        "Department": "Cardiology",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Walid  Fayad",
+        "Specialty": "Specialist",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Walid  Fayad",
+        "Specialty": "Specialist",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Walid  Fayad",
+        "Specialty": "Specialist",
+        "Department": "Gastroenterology",
+        "Location": "KIMSHEALTH Medical Center Al Khuwair"
+    },
+    {
+        "Doctor Name": "Dr Warda  Hasan",
+        "Specialty": "Consultant",
+        "Department": "Family Medicine",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Warda  Hasan",
+        "Specialty": "Consultant",
+        "Department": "Family Medicine",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Wiam  Hussein",
+        "Specialty": "Consultant",
+        "Department": "Endocrinology and Diabetes",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Wiam  Hussein",
+        "Specialty": "Consultant",
+        "Department": "Endocrinology and Diabetes",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Wilson A P",
+        "Specialty": "Consultant",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Yathish Kumar Gm",
+        "Specialty": "Consultant inOrthopaedics",
+        "Department": "Orthopaedics",
+        "Location": "KIMSHEALTH Al-Shifa"
+    },
+    {
+        "Doctor Name": "Dr. Yodhraj  Sarmal",
+        "Specialty": "Specialist Radiologist",
+        "Department": "Radiology",
+        "Location": "KIMSHEALTH Medical Center Qatar (Wakra)"
+    },
+    {
+        "Doctor Name": "Dr. Yogesh  Agarwal",
+        "Specialty": "Specialist Orthopedic Su…",
+        "Department": "Orthopedics",
+        "Location": "AL RASHIDIYAH PVT POLYCLINIC"
+    },
+    {
+        "Doctor Name": "Dr. Youssef Ayad Hanna",
+        "Specialty": "Senior Specialist",
+        "Department": "Internal Medicine",
+        "Location": "KIMSHEALTH Hospital Oman"
+    },
+    {
+        "Doctor Name": "Dr. Youssef  Alhadad",
+        "Specialty": "Consultant",
+        "Department": "Critical Care",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Zaina  Rahmath",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Zainab  Almohsen",
+        "Specialty": "Consultant",
+        "Department": "Family Medicine",
+        "Location": "Royal Bahrain Hospital"
+    },
+    {
+        "Doctor Name": "Dr. Zainab  Almohsen",
+        "Specialty": "Consultant",
+        "Department": "Family Medicine",
+        "Location": "RBH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Zaki Ahmed Fazal Ahmed",
+        "Specialty": "Specialist",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr. Zakia Mohammed Ali",
+        "Specialty": "Specialist",
+        "Department": "Pediatrics",
+        "Location": "KIMSHEALTH Medical Center Jarir"
+    },
+    {
+        "Doctor Name": "Dr. Zaynah  Zainuddin",
+        "Specialty": "Associate Consultant",
+        "Department": "Cardiothoracic Surgery",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Zaynah  Zainuddin",
+        "Specialty": "Associate Consultant",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Zephrine Jacob Vazhappilly",
+        "Specialty": "General Practitioner",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center"
+    },
+    {
+        "Doctor Name": "Dr Ziaullah  Khan",
+        "Specialty": "Specialist",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Dubai"
+    },
+    {
+        "Doctor Name": "Dr. Zinab  K",
+        "Specialty": "GP",
+        "Department": "General Medicine",
+        "Location": "KIMSHEALTH Medical Center Barwa"
+    },
+    {
+        "Doctor Name": "Dr. Zuhara  P M",
+        "Specialty": "Director - Emergency Med…",
+        "Department": "Family Medicine",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Prof. Dr. Zulfikar Ahamed",
+        "Specialty": "Senior Consultant",
+        "Department": "Pediatric Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Prof. Dr. Zulfikar Ahamed",
+        "Specialty": "Senior Consultant Paedia…",
+        "Department": "Cardiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr. Zunimol  P K M",
+        "Specialty": "Senior Consultant",
+        "Department": "Imaging & Interventional Radiology",
+        "Location": "KIMSHEALTH Trivandrum"
+    },
+    {
+        "Doctor Name": "Dr.  Prasad Nair",
+        "Specialty": "Senior Consultant",
+        "Department": "Nephrology",
+        "Location": "KIMSHEALTH Trivandrum"
+    }
+]

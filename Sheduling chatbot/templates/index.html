@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doctor Consultation Chatbot</title>
+</head>
+<body>
+    <div id="chat-container">
+        <!-- Chat messages will be displayed here -->
+    </div>
+    <div id="user-input">
+        <input type="text" id="user-message" placeholder="Type your message...">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+    <script>
+        function appendMessage(message) {
+            var chatContainer = document.getElementById('chat-container');
+            var messageDiv = document.createElement('div');
+            messageDiv.innerHTML = message;
+            chatContainer.appendChild(messageDiv);
+        }
+
+        function sendMessage() {
+            var userMessage = document.getElementById('user-message').value;
+            appendMessage('User: ' + userMessage);
+
+            // Send user message to Flask backend
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', '/api/chat', true);
+            xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    var botResponse = JSON.parse(xhr.responseText).bot_response;
+                    appendMessage('Bot: ' + botResponse);
+
+                    // Process bot response and update UI accordingly
+                    processBotResponse(botResponse);
+                }
+            };
+            xhr.send('user_message=' + userMessage);
+
+            // Clear input field
+            document.getElementById('user-message').value = '';
+        }
+
+        function processBotResponse(botResponse) {
+            // Implement logic to handle bot response and update UI
+            // For simplicity, assume the user selects options directly
+            appendMessage('User: ' + 'Cardiology');  // Selecting department
+            appendMessage('Bot: ' + 'You selected Cardiology. Available dates: 2024-02-10, 2024-02-15');
+
+            // Continue the flow based on the bot responses
+            // ...
+
+            // For the last step (appointment confirmation), assume direct confirmation
+            appendMessage('User: ' + 'Confirm');
+            appendMessage('Bot: ' + 'Appointment confirmed. Details: {"department": "Cardiology", "date": "2024-02-10", "doctor": "Dr. Smith", "time": "10:00 AM"}');
+        }
+    </script>
+</body>
+</html>

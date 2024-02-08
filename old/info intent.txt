@@ -1,0 +1,8 @@
+appointment_booking
+medical_inquiry
+test_results_inquiry
+hospital_facilities
+health_advice
+billing_and_payments
+hospital_location
+other
