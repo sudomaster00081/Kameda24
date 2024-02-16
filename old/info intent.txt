@@ -6,3 +6,11 @@ health_advice
 billing_and_payments
 hospital_location
 other
+name
+goodbye
+greeting
+
+Removed 
+symptom
+condition
+date

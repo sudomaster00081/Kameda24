@@ -1,4 +1,51 @@
 text,label
+"Hello", greeting
+"Hi there", greeting
+"Good morning", greeting
+"Good afternoon", greeting
+"Good evening", greeting
+"Hey", greeting
+"Hi, how are you?", greeting
+"Hello, I need some assistance", greeting
+"Hi, is anyone there?", greeting
+"Greetings, can you help me?", greeting
+"Hello, I have a question", greeting
+"Hi, I'm a patient seeking information", greeting
+"Hey, I'm new here", greeting
+"Hello, I'm not sure where to start", greeting
+"Hi, I hope you can assist me", greeting
+"Good day", greeting
+"Hi, I'm feeling a bit lost", greeting
+"Hello, can you guide me?", greeting
+"Hi, I'm looking for information", greeting
+"Hey, I need some help understanding things", greeting
+"Hello, I'm a patient with a query", greeting
+"Hi, I'd like to get some advice", greeting
+"Hello, I hope this is the right place to ask", greeting
+"Hi, I'm reaching out for support", greeting
+"Hey, can someone assist me?", greeting
+"Hello, I have a health-related question", greeting
+"Hi, I'm not sure who to talk to", greeting
+"Good morning, I'm seeking guidance", greeting
+"Hello, I'm a patient in need of information", greeting
+"Hi, I'm looking for assistance with something", greeting
+"Hey, I hope you can help me out", greeting
+"Hello, is there someone available?", greeting
+"Hi, I have a quick question", greeting
+"Good afternoon, can you point me in the right direction?", greeting
+"Hello, I'm here for some help", greeting
+"Hi, I'm a patient with a concern", greeting
+"Hey, I need some information, please", greeting
+"Hello, I'm reaching out for guidance", greeting
+"Hi, I hope you're doing well", greeting
+"Hello, I'm a patient seeking advice", greeting
+"Hi, can someone assist me with a query?", greeting
+"Hey, I'm looking for assistance, thank you", greeting
+"Hello, I have a question about my health", greeting
+"Hi, I'm reaching out for support and information", greeting
+"Good evening, can you help me with something?", greeting
+"Hello, I'm a patient with a health inquiry", greeting
+"Hi, I'm new here and need some guidance", greeting
 "What do you want me to address you?",name
 "who are you?",name
 "What are you?",name
