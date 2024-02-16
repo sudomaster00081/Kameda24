@@ -1,0 +1,5 @@
+Using the LLM-based Intent Classifier in Your Bot#
+To use the LLM-based intent classifier in your bot, you need to add the LLMIntentClassifier to your NLU pipeline in the config.yml file
+
+"severe headache",symptom
+"he was unconscious",condition
