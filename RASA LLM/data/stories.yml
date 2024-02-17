@@ -4,32 +4,42 @@ stories:
 
 - story: tell weather
   steps:
-  - intent: weather
+  # - intent: weather
+  - user: "How is the weather"
   - action: utter_weather
 
 - story: happy path
   steps:
-  - intent: greet
+  # - intent: greet
+  - user: "Hello there"
   - action: utter_greet
-  - intent: mood_great
+  # - intent: mood_great
+  - user: "Im feeling good"
   - action: utter_happy
 
 - story: sad path 1
   steps:
-  - intent: greet
+  # - intent: greet
+  - user: "Hello there"  
   - action: utter_greet
-  - intent: mood_unhappy
+  # - intent: mood_unhappy
+  - user: "Im not feeling good"
+  - action: utter_cheer_up
   - action: utter_cheer_up
   - action: utter_did_that_help
-  - intent: affirm
+  # - intent: affirm
+  - user: "yes"
   - action: utter_happy
 
 - story: sad path 2
   steps:
-  - intent: greet
+  # - intent: greet
+  - user: "Hello there" 
   - action: utter_greet
-  - intent: mood_unhappy
+  # - intent: mood_unhappy
+  - user: "Im not feeling good"
   - action: utter_cheer_up
   - action: utter_did_that_help
-  - intent: deny
+  # - intent: deny
+  - user: "no"
   - action: utter_goodbye
