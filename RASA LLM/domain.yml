@@ -9,10 +9,30 @@ intents:
   - mood_unhappy
   - bot_challenge
   # - weather
+  - repeat_phone
+  - phone
+
+
+entities:
+  - number
+
+slots:
+  phone:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: number
+
 
 responses:
+
+  utter_ask_phone:
+  - text: "can i get your phone number please"
+
+
   utter_weather:
-  - text : "weather is good today..."
+  - text: "weather is good today..."
 
   utter_greet:
   - text: "Hey! How are you?"
@@ -36,3 +56,6 @@ responses:
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
+
+actions:
+- action_say_phone

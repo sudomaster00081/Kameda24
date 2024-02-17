@@ -8,38 +8,49 @@ stories:
   - user: "How is the weather"
   - action: utter_weather
 
+# - story: happy path
+#   steps:
+#   # - intent: greet
+#   - user: "Hello there"
+#   - action: utter_greet
+#   # - intent: mood_great
+#   - user: "Im feeling good"
+#   - action: utter_happy
+
 - story: happy path
   steps:
-  # - intent: greet
-  - user: "Hello there"
-  - action: utter_greet
-  # - intent: mood_great
-  - user: "Im feeling good"
-  - action: utter_happy
+  - intent: greet
+  - action: utter_ask_phone
+  - intent: phone
+    entities:
+    - number: 7896541230
+    - slot_was_set:
+      - phone: 9874561230
+    - action: action_say_phone
 
-- story: sad path 1
-  steps:
-  # - intent: greet
-  - user: "Hello there"  
-  - action: utter_greet
-  # - intent: mood_unhappy
-  - user: "Im not feeling good"
-  - action: utter_cheer_up
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  # - intent: affirm
-  - user: "yes"
-  - action: utter_happy
+# - story: sad path 1
+#   steps:
+#   # - intent: greet
+#   - user: "Hello there"  
+#   - action: utter_greet
+#   # - intent: mood_unhappy
+#   - user: "Im not feeling good"
+#   - action: utter_cheer_up
+#   - action: utter_cheer_up
+#   - action: utter_did_that_help
+#   # - intent: affirm
+#   - user: "yes"
+#   - action: utter_happy
 
-- story: sad path 2
-  steps:
-  # - intent: greet
-  - user: "Hello there" 
-  - action: utter_greet
-  # - intent: mood_unhappy
-  - user: "Im not feeling good"
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  # - intent: deny
-  - user: "no"
-  - action: utter_goodbye
+# - story: sad path 2
+#   steps:
+#   # - intent: greet
+#   - user: "Hello there" 
+#   - action: utter_greet
+#   # - intent: mood_unhappy
+#   - user: "Im not feeling good"
+#   - action: utter_cheer_up
+#   - action: utter_did_that_help
+#   # - intent: deny
+#   - user: "no"
+#   - action: utter_goodbye
