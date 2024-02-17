@@ -2,6 +2,11 @@ version: "3.1"
 
 stories:
 
+- story: tell weather
+  steps:
+  - intent: weather
+  - action: utter_weather
+
 - story: happy path
   steps:
   - intent: greet

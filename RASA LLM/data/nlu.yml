@@ -1,6 +1,15 @@
 version: "3.1"
 
 nlu:
+
+- intent: weather
+  examples: |
+    - whats the weather today
+    - how is the weather today
+    - weather
+    - can you tel me about the weather today
+
+
 - intent: greet
   examples: |
     - hey

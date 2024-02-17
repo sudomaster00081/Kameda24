@@ -8,8 +8,12 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - weather
 
 responses:
+  utter_weather:
+  - text : "weather is good today..."
+
   utter_greet:
   - text: "Hey! How are you?"
 
