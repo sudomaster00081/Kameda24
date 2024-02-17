@@ -2,11 +2,11 @@ version: "3.1"
 
 stories:
 
-- story: tell weather
-  steps:
-  # - intent: weather
-  - user: "How is the weather"
-  - action: utter_weather
+# - story: tell weather
+#   steps:
+#   # - intent: weather
+#   - user: "How is the weather"
+#   - action: utter_weather
 
 # - story: happy path
 #   steps:
@@ -24,9 +24,9 @@ stories:
   - intent: phone
     entities:
     - number: 7896541230
-    - slot_was_set:
-      - phone: 9874561230
-    - action: action_say_phone
+  - slot_was_set:
+    - phone: 9874561230
+  - action: action_say_phone
 
 # - story: sad path 1
 #   steps:

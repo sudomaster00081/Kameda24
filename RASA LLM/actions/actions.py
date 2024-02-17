@@ -33,7 +33,7 @@ class ActionSayPhone(Action):
 
     def name(self) -> Text:
         return "action_say_phone"
-
+    
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
