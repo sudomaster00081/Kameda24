@@ -25,6 +25,8 @@ entities:
   - symptoms
   - medicine
   - insurance
+  - name
+  - place
 
 slots:
   phone:
@@ -33,6 +35,20 @@ slots:
     mappings:
     - type: from_entity
       entity: number
+
+
+  name:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: name
+  place:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: place
 
 responses:
   # ... existing responses ...
@@ -80,3 +96,4 @@ actions:
   - action_medical_info
   - action_prescription
   - action_insurance_info
+  - action_say_name_and_place

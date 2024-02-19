@@ -83,3 +83,21 @@ class ActionInsuranceInfo(Action):
         # Implement logic to provide information about health insurance
         dispatcher.utter_message(text="For information about your health insurance, please provide your policy details.")
         return []
+
+class ActionSayNameAndPlace(Action):
+
+    def name(self) -> Text:
+        return "action_say_name_and_place"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        name = tracker.get_slot("name")
+        place = tracker.get_slot("place")
+
+        if name and place:
+            dispatcher.utter_message(text=f"Nice to meet you, {name}! Do you enjoy being in {place}?")
+        else:
+            dispatcher.utter_message(text="I didn't catch your name or place. Can you please provide them again?")
+        return []

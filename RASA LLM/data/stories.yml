@@ -6,13 +6,24 @@ stories:
   steps:
   - user: "Hello"
   - action: utter_ask_phone
-  # - intent: phone
-  - user: "This is my phone number [2365894561] (number)"
+  - intent: phone
+  # - user: "This is my phone number [2365894561] (number)"
     entities:
     - number: 7896541230
   - slot_was_set:
     - phone: 9874561230
   - action: action_say_phone
+
+
+
+- story: happy path with name and place
+  steps:
+  - user: "I am John Doe and I live in New York"
+  - slot_was_set:
+    - name: "John Doe"
+    - place: "New York"
+  - action: action_say_name_and_place
+
 
 - story: book appointment
   steps:
