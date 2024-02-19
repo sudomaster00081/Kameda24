@@ -8,13 +8,23 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
-  # - weather
+  - book_appointment
+  - medical_query
+  - prescription_request
+  - insurance_info
   - repeat_phone
+  - say_phone
   - phone
-
 
 entities:
   - number
+  - disease
+  - medication
+  - medical_procedure
+  - health_condition
+  - symptoms
+  - medicine
+  - insurance
 
 slots:
   phone:
@@ -24,11 +34,10 @@ slots:
     - type: from_entity
       entity: number
 
-
 responses:
-
+  # ... existing responses ...
   utter_ask_phone:
-  - text: "can i get your phone number please"
+    - text: "can i get your phone number please"
 
 
   utter_weather:
@@ -53,9 +62,21 @@ responses:
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
 
-session_config:
-  session_expiration_time: 60
-  carry_over_slots_to_new_session: true
+  utter_ask_appointment:
+  - text: "Sure, I can help you with that. When would you like to schedule an appointment?"
+
+  utter_medical_info:
+  - text: "I can provide information about medical conditions, medications, and procedures. What are you looking for?"
+
+  utter_prescription:
+  - text: "To prescribe medication, I need more details about your symptoms. Can you describe them?"
+
+  utter_insurance_info:
+  - text: "For information about your health insurance, please provide your policy details."
 
 actions:
-- action_say_phone
+  - action_say_phone
+  - action_book_appointment
+  - action_medical_info
+  - action_prescription
+  - action_insurance_info

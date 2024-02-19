@@ -8,53 +8,77 @@ nlu:
     - This is my phone number [2365894561] (number)
     - Here you go [9874562159] (number)
     - My phone number is [1234569870](number)
-
-- intent: repeat_phone
-  examples: |
-    - what is my phone number
-    - Tell me my phone number
-    - repeat my phone number
-    - can you repeat my phone number
-    - my number is ? 
+    - Call me at [7896541230] (number)
 
 
+# - intent: book_appointment
+#   examples: |
+#     - Can I schedule an appointment?
+#     - I want to book a medical check-up.
+#     - Schedule a visit to the hospital for me.
+#     - How can I see a doctor?
+#     - Any available slots for an appointment?
 
-- intent: weather
-  examples: |
-    - whats the weather today
-    - how is the weather today
-    - weather
-    - can you tel me about the weather today
+# - intent: medical_query
+#   examples: |
+#     - Tell me about cancer symptoms.
+#     - Explain the procedure for heart surgery.
+#     - Any advice for maintaining good health?
+#     - What are common cold symptoms?
+#     - Can you provide information about diabetes?
 
+# - intent: prescription_request
+#   examples: |
+#     - I need a prescription for pain relief.
+#     - Can you prescribe medication for my allergy?
+#     - What should I take for a headache?
+#     - Write me a prescription for antibiotics.
+#     - Any recommendations for over-the-counter medicine?
 
-- intent: greet
-  examples: |
-    - hey
-    - hello
-    - hi
-    - hello there
-    - good morning
-    - good evening
-    - moin
-    - hey there
-    - let's go
-    - hey dude
-    - goodmorning
-    - goodevening
-    - good afternoon
+# - intent: insurance_info
+#   examples: |
+#     - Tell me about my health insurance.
+#     - What does my insurance cover?
+#     - Explain my health insurance policy.
+#     - Any information about medical insurance?
+#     - Do I need to pay for medical tests with insurance?
 
-- intent: goodbye
-  examples: |
-    - cu
-    - good by
-    - cee you later
-    - good night
-    - bye
-    - goodbye
-    - have a nice day
-    - see you around
-    - bye bye
-    - see you later
+# - intent: greet
+#   examples: |
+#     - hey
+#     - hello
+#     - hi
+#     - hello there
+#     - good morning
+#     - good evening
+#     - moin
+#     - hey there
+#     - let's go
+#     - hey dude
+#     - goodmorning
+#     - goodevening
+#     - good afternoon
+
+# - intent: goodbye
+#   examples: |
+#     - cu
+#     - good by
+#     - cee you later
+#     - good night
+#     - bye
+#     - goodbye
+#     - have a nice day
+#     - see you around
+#     - bye bye
+#     - see you later
+
+# - intent: repeat_phone
+#   examples: |
+#     - what is my phone number
+#     - Tell me my phone number
+#     - repeat my phone number
+#     - can you repeat my phone number
+#     - my number is ? 
 
 - intent: affirm
   examples: |
@@ -75,43 +99,35 @@ nlu:
     - no way
     - not really
 
-- intent: mood_great
-  examples: |
-    - perfect
-    - great
-    - amazing
-    - feeling like a king
-    - wonderful
-    - I am feeling very good
-    - I am great
-    - I am amazing
-    - I am going to save the world
-    - super stoked
-    - extremely good
-    - so so perfect
-    - so good
-    - so perfect
+# - intent: mood_great
+#   examples: |
+#     - perfect
+#     - great
+#     - amazing
+#     - feeling like a king
+#     - wonderful
+#     - I am feeling very good
+#     - I am great
+#     - I am amazing
+#     - I am going to save the world
+#     - super stoked
+#     - extremely good
+#     - so so perfect
+#     - so good
+#     - so perfect
 
-- intent: mood_unhappy
-  examples: |
-    - my day was horrible
-    - I am sad
-    - I don't feel very well
-    - I am disappointed
-    - super sad
-    - I'm so sad
-    - sad
-    - very sad
-    - unhappy
-    - not good
-    - not very good
-    - extremly sad
-    - so saad
-    - so sad
-
-- intent: bot_challenge
-  examples: |
-    - are you a bot?
-    - are you a human?
-    - am I talking to a bot?
-    - am I talking to a human?
+# - intent: mood_unhappy
+#   examples: |
+#     - my day was horrible
+#     - I am sad
+#     - I don't feel very well
+#     - I am disappointed
+#     - super sad
+#     - I'm so sad
+#     - sad
+#     - very sad
+#     - unhappy
+#     - not good
+#     - not very good
+#     - extremely sad
+#     - so sad
