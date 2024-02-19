@@ -11,23 +11,23 @@ nlu:
     - Call me at [7896541230] (number)
 
 
-# - intent: name_and_place
-#   examples: |
-#     - I am [John Doe](name) and I live in [New York](place)
-#     - [Alice](name) is my name, and I reside in [London](place)
-#     - My name is [Bob](name), and I'm from [Paris](place)
+- intent: name_and_place
+  examples: |
+    - I am [John Doe](name) and I live in [New York](place)
+    - [Alice](name) is my name, and I reside in [London](place)
+    - My name is [Bob](name), and I'm from [Paris](place)
 
-# - intent: name
-#   examples: |
-#     - My name is [John Doe](name)
-#     - Call me [Alice](name)
-#     - I'm [Bob](name), nice to meet you
+- intent: name
+  examples: |
+    - My name is [John Doe](name)
+    - Call me [Alice](name)
+    - I'm [Bob](name), nice to meet you
 
-# - intent: place
-#   examples: |
-#     - I live in [New York](place)
-#     - [Paris](place) is my hometown
-#     - The place I like the most is [London](place)
+- intent: place
+  examples: |
+    - I live in [New York](place)
+    - [Paris](place) is my hometown
+    - The place I like the most is [London](place)
 
 
 # - intent: book_appointment

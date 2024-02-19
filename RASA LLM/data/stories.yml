@@ -18,10 +18,33 @@ stories:
 
 - story: happy path with name and place
   steps:
-  - user: "I am John Doe and I live in New York"
+  # - user: "I am John Doe and I live in New York"
+  - intent: name_and_place
+    entities:
+    - name: jane doe
+    - place: newyork
   - slot_was_set:
-    - name: "John Doe"
-    - place: "New York"
+    - name: John Doe
+    - place: newyork
+  - action: action_say_name_and_place
+
+
+- story: happy path with name
+  steps:
+  - intent: name
+    entities:
+    - name: jane doe
+  - slot_was_set:
+    - name: John Doe
+  - action: action_say_name_and_place
+
+- story: happy path with place
+  steps:
+  - intent: place
+    entities:
+    - place: newyork
+  - slot_was_set:
+    - place: london
   - action: action_say_name_and_place
 
 

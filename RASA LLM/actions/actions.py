@@ -98,6 +98,10 @@ class ActionSayNameAndPlace(Action):
 
         if name and place:
             dispatcher.utter_message(text=f"Nice to meet you, {name}! Do you enjoy being in {place}?")
+        elif name and not place :
+             dispatcher.utter_message(text=f"Nice to meet you, {name}! Can you please provide place again?")
+        elif not name and place :
+             dispatcher.utter_message(text=f"Do you enjoy being in {place}?! Can you please provide your name again?")
         else:
             dispatcher.utter_message(text="I didn't catch your name or place. Can you please provide them again?")
         return []

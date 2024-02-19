@@ -15,6 +15,9 @@ intents:
   - repeat_phone
   - say_phone
   - phone
+  - name_and_place
+  - name
+  - place
 
 entities:
   - number
