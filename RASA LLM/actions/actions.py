@@ -96,12 +96,14 @@ class ActionSayNameAndPlace(Action):
         name = tracker.get_slot("name")
         place = tracker.get_slot("place")
 
-        if name and place:
-            dispatcher.utter_message(text=f"Nice to meet you, {name}! Do you enjoy being in {place}?")
-        elif name and not place :
-             dispatcher.utter_message(text=f"Nice to meet you, {name}! Can you please provide place again?")
-        elif not name and place :
-             dispatcher.utter_message(text=f"Do you enjoy being in {place}?! Can you please provide your name again?")
-        else:
-            dispatcher.utter_message(text="I didn't catch your name or place. Can you please provide them again?")
+        response_dict = {
+            (True, True): f"Hello, {name}! It's fascinating that you reside in {place}. How can I assist you further?",
+            (True, False): f"Hello, {name}! I'd love to learn more about where you're currently located. Could you share your place with me?",
+            (False, True): f"It seems like you're in {place}! What's your name, if you don't mind me asking?",
+            (False, False): "It looks like I didn't catch both your name and place. Could you please provide them again?"
+        }
+
+        message = response_dict.get((bool(name), bool(place)), "Unexpected scenario!")
+
+        dispatcher.utter_message(text=message)
         return []

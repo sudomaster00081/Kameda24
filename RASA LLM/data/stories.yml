@@ -16,7 +16,7 @@ stories:
 
 
 
-- story: happy path with name and place
+- story: path with name and place
   steps:
   # - user: "I am John Doe and I live in New York"
   - intent: name_and_place
@@ -29,7 +29,7 @@ stories:
   - action: action_say_name_and_place
 
 
-- story: happy path with name
+- story: path with name
   steps:
   - intent: name
     entities:
@@ -38,7 +38,7 @@ stories:
     - name: John Doe
   - action: action_say_name_and_place
 
-- story: happy path with place
+- story: path with place
   steps:
   - intent: place
     entities:
