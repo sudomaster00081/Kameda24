@@ -6,7 +6,8 @@ stories:
   steps:
   - user: "Hello"
   - action: utter_ask_phone
-  - intent: phone
+  # - intent: phone
+  - user: "This is my phone number [2365894561] (number)"
     entities:
     - number: 7896541230
   - slot_was_set:
