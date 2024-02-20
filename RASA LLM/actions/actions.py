@@ -1,6 +1,8 @@
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 from typing import Any, Text, Dict, List
+from rasa_sdk import Tracker
+from rasa_sdk.forms import FormAction
 
 class ActionSayPhone(Action):
 
@@ -106,4 +108,40 @@ class ActionSayNameAndPlace(Action):
         message = response_dict.get((bool(name), bool(place)), "Unexpected scenario!")
 
         dispatcher.utter_message(text=message)
+        return []
+
+
+class AppointmentForm(FormAction):
+    def name(self) -> Text:
+        return "appointment_form"
+
+    @staticmethod
+    def required_slots(tracker: Tracker) -> List[Text]:
+        return ["name", "place", "appointment_date"]
+
+    def slot_mappings(self) -> Dict[Text, Any]:
+        return {
+            "name": self.from_entity(entity="name"),
+            "place": self.from_entity(entity="place"),
+            "appointment_date": self.from_entity(entity="datetime")
+        }
+
+    def submit(
+        self,
+        dispatcher: CollectingDispatcher,
+        tracker: Tracker,
+        domain: Dict[Text, Any],
+    ) -> List[Dict[Text, Any]]:
+
+        name = tracker.get_slot("name")
+        place = tracker.get_slot("place")
+        appointment_date = tracker.get_slot("appointment_date")
+
+        # Perform any actions or validations here based on the collected information
+        # For example, you can save the appointment details to a database
+
+        dispatcher.utter_message(
+            text=f"Great! Your appointment is scheduled. Name: {name}, Place: {place}, Date: {appointment_date}"
+        )
+
         return []

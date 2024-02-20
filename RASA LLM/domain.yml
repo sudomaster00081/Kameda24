@@ -19,6 +19,20 @@ intents:
   - name
   - place
 
+
+forms:
+  appointment_form:
+    name:
+      - type: from_entity
+        entity: name
+    place:
+      - type: from_entity
+        entity: place
+    appointment_date:
+      - type: from_entity
+        entity: datetime
+
+
 entities:
   - number
   - disease
@@ -58,6 +72,8 @@ responses:
   utter_ask_phone:
     - text: "can i get your phone number please"
 
+  utter_appointment_confirmation:
+    - text: "Great! Your appointment with {name} at {place} on {appointment_date} is scheduled."
 
   utter_weather:
   - text: "weather is good today..."
