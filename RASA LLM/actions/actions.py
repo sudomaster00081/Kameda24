@@ -1,8 +1,6 @@
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 from typing import Any, Text, Dict, List
-from rasa_sdk import Tracker
-from rasa_sdk.forms import FormAction
 
 class ActionSayPhone(Action):
 
@@ -109,39 +107,76 @@ class ActionSayNameAndPlace(Action):
 
         dispatcher.utter_message(text=message)
         return []
+# from rasa_sdk.forms import FormAction
+# from rasa_sdk import Tracker
+# from rasa_sdk.executor import CollectingDispatcher
+# from typing import Dict, Any, List, Text
+
+# class AppointmentForm(FormAction):
+#     def name(self) -> Text:
+#         return "appointment_form"
+
+#     @staticmethod
+#     def required_slots(tracker: Tracker) -> List[Text]:
+#         return ["name", "place", "appointment_date"]
+
+#     def slot_mappings(self) -> Dict[Text, Any]:
+#         return {
+#             "name": [self.from_text()],
+#             "place": [self.from_text()],
+#             "appointment_date": [self.from_entity(entity="date")]
+#         }
+
+#     def submit(
+#         self,
+#         dispatcher: CollectingDispatcher,
+#         tracker: Tracker,
+#         domain: Dict[Text, Any],
+#     ) -> List[Dict[Text, Any]]:
+#         # Implement logic to handle the appointment booking with the collected information
+#         dispatcher.utter_message(text="Great! Your appointment has been scheduled.")
+#         return []
 
 
-class AppointmentForm(FormAction):
+
+from rasa_sdk import Tracker, FormValidationAction, Action
+from rasa_sdk.events import EventType
+from rasa_sdk.executor import CollectingDispatcher
+from rasa_sdk.types import DomainDict
+
+ALLOWED_PIZZA_SIZES = ["small", "medium", "large", "extra-large", "extra large", "s", "m", "l", "xl"]
+ALLOWED_PIZZA_TYPES = ["mozzarella", "fungi", "veggie", "pepperoni", "hawaii"]
+
+class ValidateSimplePizzaForm(FormValidationAction):
     def name(self) -> Text:
-        return "appointment_form"
+        return "validate_simple_pizza_form"
 
-    @staticmethod
-    def required_slots(tracker: Tracker) -> List[Text]:
-        return ["name", "place", "appointment_date"]
-
-    def slot_mappings(self) -> Dict[Text, Any]:
-        return {
-            "name": self.from_entity(entity="name"),
-            "place": self.from_entity(entity="place"),
-            "appointment_date": self.from_entity(entity="datetime")
-        }
-
-    def submit(
+    def validate_pizza_size(
         self,
+        slot_value: Any,
         dispatcher: CollectingDispatcher,
         tracker: Tracker,
-        domain: Dict[Text, Any],
-    ) -> List[Dict[Text, Any]]:
+        domain: DomainDict,
+    ) -> Dict[Text, Any]:
+        """Validate `pizza_size` value."""
 
-        name = tracker.get_slot("name")
-        place = tracker.get_slot("place")
-        appointment_date = tracker.get_slot("appointment_date")
+        if slot_value.lower() not in ALLOWED_PIZZA_SIZES:
+            dispatcher.utter_message(text=f"We only accept pizza sizes: s/m/l/xl.")
+            return {"pizza_size": None}
+        dispatcher.utter_message(text=f"OK! You want to have a {slot_value} pizza.")
+        return {"pizza_size": slot_value}
 
-        # Perform any actions or validations here based on the collected information
-        # For example, you can save the appointment details to a database
+    def validate_pizza_type(
+        self,
+        slot_value: Any,
+        dispatcher: CollectingDispatcher,
+        tracker: Tracker,
+        domain: DomainDict,
+    ) -> Dict[Text, Any]:
+        """Validate `pizza_type` value."""
 
-        dispatcher.utter_message(
-            text=f"Great! Your appointment is scheduled. Name: {name}, Place: {place}, Date: {appointment_date}"
-        )
-
-        return []
+        if slot_value not in ALLOWED_PIZZA_TYPES:
+            dispatcher.utter_message(text=f"I don't recognize that pizza. We serve {'/'.join(ALLOWED_PIZZA_TYPES)}.")
+            return {"pizza_type": None}
+        dispatcher.utter_message(text=f"OK! You want to have a {slot_value} pizza.")
+        return {"pizza_type": slot_value}

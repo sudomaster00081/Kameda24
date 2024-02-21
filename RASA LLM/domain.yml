@@ -18,32 +18,20 @@ intents:
   - name_and_place
   - name
   - place
-
-
-forms:
-  appointment_form:
-    name:
-      - type: from_entity
-        entity: name
-    place:
-      - type: from_entity
-        entity: place
-    appointment_date:
-      - type: from_entity
-        entity: datetime
-
+  - choose_appointment_date
+  - request_pizza_form
+  - buy_pizza
+  - inform
 
 entities:
   - number
-  - disease
-  - medication
-  - medical_procedure
-  - health_condition
-  - symptoms
-  - medicine
-  - insurance
   - name
   - place
+  - datetime
+  - pizza_size
+  - pizza_type
+
+
 
 slots:
   phone:
@@ -52,8 +40,6 @@ slots:
     mappings:
     - type: from_entity
       entity: number
-
-
   name:
     type: text
     influence_conversation: true
@@ -66,6 +52,43 @@ slots:
     mappings:
     - type: from_entity
       entity: place
+  # datetime:
+  #   type: text
+  #   influence_conversation: true
+  #   mappings:
+  #   - type: from_entity
+  #     entity: datetime
+  pizza_size:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: pizza_size
+  pizza_type:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: pizza_type
+
+forms:
+  simple_pizza_form:
+    required_slots:
+      - pizza_size
+      - pizza_type
+
+
+
+
+# forms:
+#   appointment_form:
+#     required_slots:
+#       - name
+#       - place
+#       - datetime
+
+
+
 
 responses:
   # ... existing responses ...
@@ -109,6 +132,18 @@ responses:
   utter_insurance_info:
   - text: "For information about your health insurance, please provide your policy details."
 
+
+  utter_submit:
+  - text: I will now order a pizza for you!
+  utter_pizza_slots:
+  - text: I will order a {pizza_size} {pizza_type} pizza.
+  utter_ask_continue:
+  - text: Are you sure you want to stop the form?
+  utter_ask_pizza_size:
+  - text: What size would you like your pizza to be?
+  utter_ask_pizza_type:
+  - text: What kind of pizza would you like to buy?
+
 actions:
   - action_say_phone
   - action_book_appointment
@@ -116,3 +151,9 @@ actions:
   - action_prescription
   - action_insurance_info
   - action_say_name_and_place
+  - utter_ask_continue
+  - utter_goodbye
+  - utter_greet
+  - utter_pizza_slots
+  - utter_submit
+  - validate_simple_pizza_form

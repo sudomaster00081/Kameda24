@@ -87,15 +87,16 @@ stories:
   - action: action_say_phone
 
 
-- story: book_appointment_with_date
-  steps:
-  - intent: book_appointment
-  - action: appointment_form
-  - active_loop: appointment_form
-  - slot_was_set:
-    - name: John Doe
-    - place: New York
-    - appointment_date: 2024-02-21T10:00:00
-  - action: appointment_form
-  - active_loop: null
-  - action: utter_appointment_confirmation
+# - story: path with name, place, and appointment date
+#   steps:
+#     - intent: greet
+#     - action: appointment_form
+#     - active_loop: appointment_form
+#     - slot_was_set:
+#         - requested_slot: appointment_date
+#     - intent: choose_appointment_date
+#       entities:
+#         - date: "2024-03-01"
+#     - active_loop: null
+#     - action: action_book_appointment
+
