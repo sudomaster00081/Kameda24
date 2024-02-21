@@ -41,3 +41,20 @@ rules:
   # Return to form after handling the `bot_challenge` intent
   - action: simple_pizza_form
   - active_loop: simple_pizza_form
+
+- rule: Activate form
+  steps:
+  - intent: ask_me_anything
+  - action: shirt_size_form
+  - active_loop: shirt_size_form
+
+- rule: Submit form
+  condition:
+  - active_loop: shirt_size_form
+  steps:
+  - action: shirt_size_form
+  - active_loop: null
+  - slot_was_set:
+    - requested_slot: null
+  - action: utter_remember
+

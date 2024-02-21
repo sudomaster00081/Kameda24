@@ -1,4 +1,8 @@
 version: "3.1"
+# session_config:
+#   session_expiration_time: 60
+#   carry_over_slots_to_new_session: true
+
 
 intents:
   - greet
@@ -22,6 +26,9 @@ intents:
   - request_pizza_form
   - buy_pizza
   - inform
+  - repeat_shirt_size
+  - ask_me_anything
+  - give_shirt_size
 
 entities:
   - number
@@ -30,6 +37,7 @@ entities:
   - datetime
   - pizza_size
   - pizza_type
+  - shirt_size
 
 
 
@@ -70,12 +78,23 @@ slots:
     mappings:
     - type: from_entity
       entity: pizza_type
+  shirt_size:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: shirt_size
+      conditions:
+      - active_loop: shirt_size_form
 
 forms:
   simple_pizza_form:
     required_slots:
       - pizza_size
       - pizza_type
+  shirt_size_form:
+    required_slots:
+    - shirt_size
 
 
 
@@ -143,6 +162,10 @@ responses:
   - text: What size would you like your pizza to be?
   utter_ask_pizza_type:
   - text: What kind of pizza would you like to buy?
+  utter_ask_shirt_size:
+  - text: What is your shirt size?
+  utter_remember:
+  - text: Thanks. I'll remember that.
 
 actions:
   - action_say_phone
@@ -157,3 +180,6 @@ actions:
   - utter_pizza_slots
   - utter_submit
   - validate_simple_pizza_form
+  - action_say_shirt_size
+  - utter_ask_shirt_size
+  - utter_remember

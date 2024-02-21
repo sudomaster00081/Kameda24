@@ -89,7 +89,7 @@ stories:
 
 # - story: path with name, place, and appointment date
 #   steps:
-#     - intent: greet
+#     - user: "Hello"
 #     - action: appointment_form
 #     - active_loop: appointment_form
 #     - slot_was_set:
@@ -100,3 +100,69 @@ stories:
 #     - active_loop: null
 #     - action: action_book_appointment
 
+- story: interactive story 1
+  steps:
+  - intent: ask_me_anything
+  - action: shirt_size_form
+  - active_loop: shirt_size_form
+  - slot_was_set:
+    - requested_slot: shirt_size
+  - slot_was_set:
+    - shirt_size: medium
+  - slot_was_set:
+    - requested_slot: null
+  - active_loop: null
+  - action: utter_remember
+  - intent: repeat_shirt_size
+  - action: utter_happy
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: mood_unhappy
+  - action: utter_happy
+  - user: "good bye"
+  - action: utter_goodbye
+
+- story: interactive story 2
+  steps:
+  - user: "Hello"
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_happy
+  - intent: repeat_shirt_size
+  - action: action_say_shirt_size
+  - intent: ask_me_anything
+  - action: shirt_size_form
+  - active_loop: shirt_size_form
+  - slot_was_set:
+    - requested_slot: shirt_size
+  - slot_was_set:
+    - shirt_size: large
+  - slot_was_set:
+    - requested_slot: null
+  - active_loop: null
+  - action: utter_remember
+  - intent: repeat_shirt_size
+  - action: action_say_shirt_size
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_happy
+
+- story: interactive story 3
+  steps:
+  - user: "Hello"
+  - action: utter_greet
+  - intent: mood_unhappy
+    entities:
+    - shirt_size: medium
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_happy
+  - intent: repeat_shirt_size
+  - action: action_say_shirt_size
