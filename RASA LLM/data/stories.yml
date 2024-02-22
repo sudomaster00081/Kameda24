@@ -2,10 +2,25 @@ version: "3.1"
 
 stories:
 
+- story: normal path0
+  steps:
+  - user: "Hello"
+  - action: utter_assistance
+  - user: "I want to schedule an appointment."
+  - action: utter_book_appointment
+  - intent: inform_booking
+    entities:
+    - name: "jack"
+    - place: "london"
+  - slot_was_set:
+    - name: "jack"
+    - place: "london"
+  - action: utter_inform_booking
+
 - story: normal path
   steps:
   - user: "Hello"
-  - action: utter_ask_phone
+  - action: utter_assistance
   - intent: phone
   # - user: "This is my phone number [2365894561] (number)"
     entities:
@@ -17,7 +32,7 @@ stories:
 - story: normal path2
   steps:
   - user: "Hello"
-  - action: utter_ask_phone
+  - action: utter_assistance
   - intent: deny
   - action: utter_ask_phone
   - intent: phone
@@ -30,36 +45,36 @@ stories:
 
 
 
-- story: path with name and place
-  steps:
-  # - user: "I am John Doe and I live in New York"
-  - intent: name_and_place
-    entities:
-    - name: jane doe
-    - place: newyork
-  - slot_was_set:
-    - name: John Doe
-    - place: newyork
-  - action: action_say_name_and_place
+# - story: path with name and place
+#   steps:
+#   # - user: "I am John Doe and I live in New York"
+#   - intent: inform_booking
+#     entities:
+#     - name: jane doe
+#     - place: newyork
+#   - slot_was_set:
+#     - name: John Doe
+#     - place: newyork
+#   - action: action_say_inform_booking
 
 
-- story: path with name
-  steps:
-  - intent: name
-    entities:
-    - name: jane doe
-  - slot_was_set:
-    - name: John Doe
-  - action: action_say_name_and_place
+# - story: path with name
+#   steps:
+#   - intent: name
+#     entities:
+#     - name: jane doe
+#   - slot_was_set:
+#     - name: John Doe
+#   - action: action_say_inform_booking
 
-- story: path with place
-  steps:
-  - intent: place
-    entities:
-    - place: newyork
-  - slot_was_set:
-    - place: london
-  - action: action_say_name_and_place
+# - story: path with place
+#   steps:
+#   - intent: place
+#     entities:
+#     - place: newyork
+#   - slot_was_set:
+#     - place: london
+#   - action: action_say_inform_booking
 
 
 # - story: Book appointment

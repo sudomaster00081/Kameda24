@@ -17,7 +17,7 @@ class ActionSayPhone(Action):
         else:
             dispatcher.utter_message(text=f"Your phone number is {phone}")
         return []
-
+    
 class UtterGoodbye(Action):
     def name(self) -> Text:
         return "utter_goodbye"
@@ -126,7 +126,7 @@ class ActionBookAppointment(Action):
         timeslot = tracker.get_slot("appointment_timeslot")
         day = tracker.get_slot("appointment_day")
         number = tracker.get_slot("number")
-
+        
         # Implement logic to handle appointment booking using the extracted values
         appointment_details = f"Name: {name}, Place: {place}"
         dispatcher.utter_message(text=f"Sure, I can help you with that. Please provide me with further details. {appointment_details} 😊")

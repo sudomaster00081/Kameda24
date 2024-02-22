@@ -5,9 +5,6 @@ version: "3.1"
 intents:
   - phone
   - choose_appointment_date
-  - name_and_place
-  - name
-  - place
   - inform_booking
   - ask_me_anything
   - affirm
@@ -74,6 +71,9 @@ slots:
 
 responses:
 
+  utter_assistance:
+    - text: "How Can i Help you Today"
+
   utter_ask_phone:
     - text: "can i get your phone number please"
 
@@ -123,8 +123,10 @@ responses:
   - text: "What timeslot do you prefer? We have slots in the {'/'.join(ALLOWED_TIMESLOTS)}."
   utter_ask_continue:
   - text: Are you sure you want to stop the form?
-
-
+  utter_inform_booking:
+   - text: I will book for {name} of {place} Now.
+  utter_book_appointment:
+    - text: Please provide me with further details.{name},{place}
 
 actions:
   - action_say_phone
