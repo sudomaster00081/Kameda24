@@ -29,17 +29,121 @@ class UtterGoodbye(Action):
 
 
 
-class ActionBookAppointment(Action):
+# class ActionBookAppointment(Action):
 
+#     def name(self) -> Text:
+#         return "action_book_appointment"
+    
+#     def run(self, dispatcher: CollectingDispatcher,
+#             tracker: Tracker,
+#             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+#         # Implement logic to handle appointment booking
+#         dispatcher.utter_message(text="Sure, I can help you with that. Please provide me with further Details 😊")
+#         return []
+
+from typing import Text, List, Dict, Any
+from rasa_sdk import Tracker, FormValidationAction, Action
+from rasa_sdk.events import EventType
+from rasa_sdk.executor import CollectingDispatcher
+from rasa_sdk.types import DomainDict
+
+class ValidateAppointmentForm(FormValidationAction):
+    def name(self) -> Text:
+        return "validate_appointment_form"
+
+    def validate_name(
+        self,
+        slot_value: Any,
+        dispatcher: CollectingDispatcher,
+        tracker: Tracker,
+        domain: DomainDict,
+    ) -> Dict[Text, Any]:
+        """Validate `name` value."""
+
+        # You can add any validation logic here
+        return {"name": slot_value}
+
+    def validate_place(
+        self,
+        slot_value: Any,
+        dispatcher: CollectingDispatcher,
+        tracker: Tracker,
+        domain: DomainDict,
+    ) -> Dict[Text, Any]:
+        """Validate `place` value."""
+
+        # You can add any validation logic here
+        return {"place": slot_value}
+
+    def validate_age(
+        self,
+        slot_value: Any,
+        dispatcher: CollectingDispatcher,
+        tracker: Tracker,
+        domain: DomainDict,
+    ) -> Dict[Text, Any]:
+        """Validate `age` value."""
+
+        # You can add any validation logic here
+        return {"age": slot_value}
+
+    def validate_appointment_timeslot(
+        self,
+        slot_value: Any,
+        dispatcher: CollectingDispatcher,
+        tracker: Tracker,
+        domain: DomainDict,
+    ) -> Dict[Text, Any]:
+        """Validate `appointment_timeslot` value."""
+
+        # You can add any validation logic here
+        return {"appointment_timeslot": slot_value}
+
+    def validate_appointment_day(
+        self,
+        slot_value: Any,
+        dispatcher: CollectingDispatcher,
+        tracker: Tracker,
+        domain: DomainDict,
+    ) -> Dict[Text, Any]:
+        """Validate `appointment_day` value."""
+
+        # You can add any validation logic here
+        return {"appointment_day": slot_value}
+
+    def validate_number(
+        self,
+        slot_value: Any,
+        dispatcher: CollectingDispatcher,
+        tracker: Tracker,
+        domain: DomainDict,
+    ) -> Dict[Text, Any]:
+        """Validate `number` value."""
+
+        # You can add any validation logic here
+        return {"number": slot_value}
+
+class ActionBookAppointment(Action):
     def name(self) -> Text:
         return "action_book_appointment"
-    
+
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+        
+        # Extract validated slot values
+        name = tracker.get_slot("name")
+        place = tracker.get_slot("place")
+        age = tracker.get_slot("age")
+        timeslot = tracker.get_slot("appointment_timeslot")
+        day = tracker.get_slot("appointment_day")
+        number = tracker.get_slot("number")
 
-        # Implement logic to handle appointment booking
-        dispatcher.utter_message(text="Sure, I can help you with that. When would you like to schedule an appointment?")
+        # Implement logic to handle appointment booking using the extracted values
+        appointment_details = f"Name: {name}, Place: {place}"
+        dispatcher.utter_message(text=f"Sure, I can help you with that. Please provide me with further details. {appointment_details} 😊")
+
         return []
 
 
@@ -182,25 +286,25 @@ class ValidateSimplePizzaForm(FormValidationAction):
         return {"pizza_type": slot_value}
     
     
-from typing import Any, Text, Dict, List
+# from typing import Any, Text, Dict, List
 
-from rasa_sdk.events import SlotSet
-from rasa_sdk import Action, Tracker
-from rasa_sdk.executor import CollectingDispatcher
+# from rasa_sdk.events import SlotSet
+# from rasa_sdk import Action, Tracker
+# from rasa_sdk.executor import CollectingDispatcher
 
 
-class ActionSayShirtSize(Action):
+# class ActionSayShirtSize(Action):
 
-    def name(self) -> Text:
-        return "action_say_shirt_size"
+#     def name(self) -> Text:
+#         return "action_say_shirt_size"
 
-    def run(self, dispatcher: CollectingDispatcher,
-            tracker: Tracker,
-            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+#     def run(self, dispatcher: CollectingDispatcher,
+#             tracker: Tracker,
+#             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
 
-        shirt_size = tracker.get_slot("shirt_size")
-        if not shirt_size:
-            dispatcher.utter_message(text="I don't know your shirt size.")
-        else:
-            dispatcher.utter_message(text=f"Your shirt size is {shirt_size}!")
-        return []
+#         shirt_size = tracker.get_slot("shirt_size")
+#         if not shirt_size:
+#             dispatcher.utter_message(text="I don't know your shirt size.")
+#         else:
+#             dispatcher.utter_message(text=f"Your shirt size is {shirt_size}!")
+#         return []

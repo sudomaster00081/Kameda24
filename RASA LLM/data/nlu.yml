@@ -60,35 +60,49 @@ nlu:
 
 
 
-- intent: buy_pizza
-  examples: |
-    - i'd like to buy a pizza
-    - i want a pizza
-    - can i buy a pizza
-    - I'm interested in a savory round flattened bread of Italian origin
-    - i want to buy a pizza
-- intent: inform
-  examples: |
-    - i'd like a [large](pizza_size) pizza
-    - i want to order a [xl](pizza_size) [hawai](pizza_type) pizza
-    - [medium](pizza_size) pizza
-    - [xl](pizza_size)
-    - [small](pizza_size)
-    - [s](pizza_size)
-    - [pepperoni](pizza_type)
-    - give me a [mozerella](pizza_type) pizza
-    - [hawaii](pizza_type) pizza
-    - [smol](pizza_size)
-    - [hawaii](pizza_type)
-    - i want a [large](pizza_size) pizza
-    - [mozzarella](pizza_type)
-    - [hawai](pizza_type)
-    - [veggie](pizza_type)
-    - [fungi](pizza_type)
-    - i want a [large](pizza_size) pizza
-    - [vegggie](pizza_type)
-    - [veggie](pizza_type)
+# - intent: buy_pizza
+#   examples: |
+#     - i'd like to buy a pizza
+#     - i want a pizza
+#     - can i buy a pizza
+#     - I'm interested in a savory round flattened bread of Italian origin
+#     - i want to buy a pizza
 
+
+# - intent: inform
+#   examples: |
+#     - i'd like a [large](pizza_size) pizza
+#     - i want to order a [xl](pizza_size) [hawai](pizza_type) pizza
+#     - [medium](pizza_size) pizza
+#     - [xl](pizza_size)
+#     - [small](pizza_size)
+#     - [s](pizza_size)
+#     - [pepperoni](pizza_type)
+#     - give me a [mozerella](pizza_type) pizza
+#     - [hawaii](pizza_type) pizza
+#     - [smol](pizza_size)
+#     - [hawaii](pizza_type)
+#     - i want a [large](pizza_size) pizza
+#     - [mozzarella](pizza_type)
+#     - [hawai](pizza_type)
+#     - [veggie](pizza_type)
+#     - [fungi](pizza_type)
+#     - i want a [large](pizza_size) pizza
+#     - [vegggie](pizza_type)
+#     - [veggie](pizza_type)
+
+- intent: inform_booking
+  examples: |
+    - My name is [John Doe](name), and I want a [general checkup](appointment_type).
+    - [Alice](name) here. I need a [specialist consultation](appointment_type) in the [afternoon](appointment_timeslot).
+    - [Bob](name), [City Hospital](place), [30](age), [Thursday](appointment_day), [evening](appointment_timeslot), [9876543210](number).
+    - I'm [Emily](name). I'd like to book a [vaccination](appointment_type) appointment on [Friday](appointment_day).
+    - [David](name), [45](age), [Saturday](appointment_day), [afternoon](appointment_timeslot), [specialist consultation](appointment_type), [1234567890](number).
+    - [Eva](name), [urgent](appointment_type), [place](place), [25](age), [Wednesday](appointment_day), [evening](appointment_timeslot), [8765432109](number).
+    - [Frank](name), [Monday](appointment_day), [morning](appointment_timeslot), [general checkup](appointment_type), [555-1234](number).
+    - [Grace](name), [place](place), [date](appointment_day), [time](appointment_timeslot).
+    - [Henry](name), [place](place), [age](age), [Thursday](appointment_day), [morning](appointment_timeslot), [123-456-7890](number).
+    - I'm [Ivy](name). I want a [general checkup](appointment_type) on [Tuesday](appointment_day) in the [afternoon](appointment_timeslot).
 
 - intent: ask_me_anything
   examples: |
@@ -96,29 +110,31 @@ nlu:
     - would you like to ask me something
     - feel free to ask me about things
     - want to ask me something?
-- intent: repeat_shirt_size
-  examples: |
-    - what is my shirt size
-    - tell me my shirt size
-    - do you know my shirt size
-    - repeat my shirt size
-    - repeat shirt size
-    - please repeat my shirt size
-    - repeat repeat repeat size
-- intent: give_shirt_size
-  examples: |
-    - i want a [large](shirt_size) shirt
-    - [medium](shirt_size) size
-    - give me a [small](shirt_size) tshirt
-    - [small](shirt_size)
-    - [medium](shirt_size)
-    - [large](shirt_size)
-    - i'd prefer [medium](shirt_size) size
-    - gimme gimme gimme [small](shirt_size) tshirt
-    - give shirt size
-    - i want a [large](shirt_size) shirt please
-    - i want to give you my shirt
-    - [large](shirt_size)
+
+# - intent: repeat_shirt_size
+#   examples: |
+#     - what is my shirt size
+#     - tell me my shirt size
+#     - do you know my shirt size
+#     - repeat my shirt size
+#     - repeat shirt size
+#     - please repeat my shirt size
+#     - repeat repeat repeat size
+
+# - intent: give_shirt_size
+#   examples: |
+#     - i want a [large](shirt_size) shirt
+#     - [medium](shirt_size) size
+#     - give me a [small](shirt_size) tshirt
+#     - [small](shirt_size)
+#     - [medium](shirt_size)
+#     - [large](shirt_size)
+#     - i'd prefer [medium](shirt_size) size
+#     - gimme gimme gimme [small](shirt_size) tshirt
+#     - give shirt size
+#     - i want a [large](shirt_size) shirt please
+#     - i want to give you my shirt
+#     - [large](shirt_size)
 
 # - intent: book_appointment
 #   examples: |

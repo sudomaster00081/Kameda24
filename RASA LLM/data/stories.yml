@@ -48,12 +48,10 @@ stories:
   - action: action_say_name_and_place
 
 
-- story: book appointment
-  steps:
-  - user: "I want to schedule an appointment."
-  - action: action_book_appointment
-  # - intent: book_appointment
-  # - action: action_book_appointment
+
+
+
+
 
 - story: inquire medical info
   steps:
@@ -64,7 +62,7 @@ stories:
 
 - story: request prescription
   steps:
-  - user: "I need a prescription for headache relief."
+  - user: "I need a prescription"
   - action: utter_prescription
   # - intent: prescription_request
   # - action: action_prescription
@@ -86,6 +84,55 @@ stories:
   - user: "repeat my phone number"
   - action: action_say_phone
 
+## Happy path for booking an appointment
+- story: Book appointment
+  steps:
+    - user: "I want to schedule an appointment."
+    - action: action_book_appointment
+    - action: utter_ask_appointment_type
+    - intent: inform_booking
+      entities:
+        - appointment_type: "general checkup"
+    - action: validate_appointment_form
+    - active_loop: validate_appointment_form
+    - slot_was_set:
+      - appointment_type: "general checkup"
+    - intent: inform_booking
+      entities:
+        - name: "John Doe"
+        - place: "City"
+        - age: "30"
+        - appointment_day: "Monday"
+        - appointment_timeslot: "morning"
+        - number: "1234567890"
+    - action: validate_appointment_form
+    - active_loop: null
+    - action: action_book_appointment
+
+## Alternative path for changing appointment type
+- story: Change appointment type
+  steps:
+    - user: "I want to schedule an appointment."
+    - action: action_book_appointment
+    - action: utter_ask_appointment_type
+    - intent: inform_booking
+      entities:
+        - appointment_type: "specialist consultation"
+    - action: validate_appointment_form
+    - active_loop: validate_appointment_form
+    - slot_was_set:
+      - appointment_type: "specialist consultation"
+    - intent: inform_booking
+      entities:
+        - name: "Alice"
+        - place: "Hospital"
+        - age: "25"
+        - appointment_day: "Wednesday"
+        - appointment_timeslot: "afternoon"
+        - number: "9876543210"
+    - action: validate_appointment_form
+    - active_loop: null
+    - action: action_book_appointment
 
 # - story: path with name, place, and appointment date
 #   steps:
@@ -100,69 +147,81 @@ stories:
 #     - active_loop: null
 #     - action: action_book_appointment
 
-- story: interactive story 1
-  steps:
-  - intent: ask_me_anything
-  - action: shirt_size_form
-  - active_loop: shirt_size_form
-  - slot_was_set:
-    - requested_slot: shirt_size
-  - slot_was_set:
-    - shirt_size: medium
-  - slot_was_set:
-    - requested_slot: null
-  - active_loop: null
-  - action: utter_remember
-  - intent: repeat_shirt_size
-  - action: utter_happy
-  - intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - intent: mood_unhappy
-  - action: utter_happy
-  - user: "good bye"
-  - action: utter_goodbye
+# - story: interactive story 1
+#   steps:
+#   - intent: ask_me_anything
+#   - action: shirt_size_form
+#   - active_loop: shirt_size_form
+#   - slot_was_set:
+#     - requested_slot: shirt_size
+#   - slot_was_set:
+#     - shirt_size: medium
+#   - slot_was_set:
+#     - requested_slot: null
+#   - active_loop: null
+#   - action: utter_remember
+#   - intent: repeat_shirt_size
+#   - action: utter_happy
+#   - intent: mood_unhappy
+#   - action: utter_cheer_up
+#   - action: utter_did_that_help
+#   - intent: mood_unhappy
+#   - action: utter_happy
+#   - user: "good bye"
+#   - action: utter_goodbye
 
-- story: interactive story 2
-  steps:
-  - user: "Hello"
-  - action: utter_greet
-  - intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - intent: affirm
-  - action: utter_happy
-  - intent: repeat_shirt_size
-  - action: action_say_shirt_size
-  - intent: ask_me_anything
-  - action: shirt_size_form
-  - active_loop: shirt_size_form
-  - slot_was_set:
-    - requested_slot: shirt_size
-  - slot_was_set:
-    - shirt_size: large
-  - slot_was_set:
-    - requested_slot: null
-  - active_loop: null
-  - action: utter_remember
-  - intent: repeat_shirt_size
-  - action: action_say_shirt_size
-  - intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - intent: affirm
-  - action: utter_happy
+# - story: interactive story 2
+#   steps:
+#   - user: "Hey"
+#   - action: utter_greet
+#   - intent: mood_unhappy
+#   - action: utter_cheer_up
+#   - action: utter_did_that_help
+#   - intent: affirm
+#   - action: utter_happy
+#   - intent: repeat_shirt_size
+#   - action: action_say_shirt_size
+#   - intent: ask_me_anything
+#   - action: shirt_size_form
+#   - active_loop: shirt_size_form
+#   - slot_was_set:
+#     - requested_slot: shirt_size
+#   - slot_was_set:
+#     - shirt_size: large
+#   - slot_was_set:
+#     - requested_slot: null
+#   - active_loop: null
+#   - action: utter_remember
+#   - intent: repeat_shirt_size
+#   - action: action_say_shirt_size
+#   - intent: mood_unhappy
+#   - action: utter_cheer_up
+#   - action: utter_did_that_help
+#   - intent: affirm
+#   - action: utter_happy
 
-- story: interactive story 3
-  steps:
-  - user: "Hello"
-  - action: utter_greet
-  - intent: mood_unhappy
-    entities:
-    - shirt_size: medium
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - intent: affirm
-  - action: utter_happy
-  - intent: repeat_shirt_size
-  - action: action_say_shirt_size
+# - story: interactive story 3
+#   steps:
+#   - user: "Hey"
+#   - action: utter_greet
+#   - intent: mood_unhappy
+#     entities:
+#     - shirt_size: medium
+#   - action: utter_cheer_up
+#   - action: utter_did_that_help
+#   - intent: affirm
+#   - action: utter_happy
+#   - intent: repeat_shirt_size
+#   - action: action_say_shirt_size
+
+
+# - story: book appointment
+#   steps:
+#   - user: "I want to schedule an appointment."
+#   - action: action_book_appointment
+# - story: book appointment
+#   steps:
+#   - user: "I want to schedule an appointment."
+#   - action: action_book_appointment
+#   # - intent: book_appointment
+#   # - action: action_book_appointment
