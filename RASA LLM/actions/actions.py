@@ -29,19 +29,6 @@ class UtterGoodbye(Action):
 
 
 
-# class ActionBookAppointment(Action):
-
-#     def name(self) -> Text:
-#         return "action_book_appointment"
-    
-#     def run(self, dispatcher: CollectingDispatcher,
-#             tracker: Tracker,
-#             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-
-#         # Implement logic to handle appointment booking
-#         dispatcher.utter_message(text="Sure, I can help you with that. Please provide me with further Details 😊")
-#         return []
-
 from typing import Text, List, Dict, Any
 from rasa_sdk import Tracker, FormValidationAction, Action
 from rasa_sdk.events import EventType
@@ -211,35 +198,6 @@ class ActionSayNameAndPlace(Action):
 
         dispatcher.utter_message(text=message)
         return []
-# from rasa_sdk.forms import FormAction
-# from rasa_sdk import Tracker
-# from rasa_sdk.executor import CollectingDispatcher
-# from typing import Dict, Any, List, Text
-
-# class AppointmentForm(FormAction):
-#     def name(self) -> Text:
-#         return "appointment_form"
-
-#     @staticmethod
-#     def required_slots(tracker: Tracker) -> List[Text]:
-#         return ["name", "place", "appointment_date"]
-
-#     def slot_mappings(self) -> Dict[Text, Any]:
-#         return {
-#             "name": [self.from_text()],
-#             "place": [self.from_text()],
-#             "appointment_date": [self.from_entity(entity="date")]
-#         }
-
-#     def submit(
-#         self,
-#         dispatcher: CollectingDispatcher,
-#         tracker: Tracker,
-#         domain: Dict[Text, Any],
-#     ) -> List[Dict[Text, Any]]:
-#         # Implement logic to handle the appointment booking with the collected information
-#         dispatcher.utter_message(text="Great! Your appointment has been scheduled.")
-#         return []
 
 
 
@@ -286,25 +244,3 @@ class ValidateSimplePizzaForm(FormValidationAction):
         return {"pizza_type": slot_value}
     
     
-# from typing import Any, Text, Dict, List
-
-# from rasa_sdk.events import SlotSet
-# from rasa_sdk import Action, Tracker
-# from rasa_sdk.executor import CollectingDispatcher
-
-
-# class ActionSayShirtSize(Action):
-
-#     def name(self) -> Text:
-#         return "action_say_shirt_size"
-
-#     def run(self, dispatcher: CollectingDispatcher,
-#             tracker: Tracker,
-#             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-
-#         shirt_size = tracker.get_slot("shirt_size")
-#         if not shirt_size:
-#             dispatcher.utter_message(text="I don't know your shirt size.")
-#         else:
-#             dispatcher.utter_message(text=f"Your shirt size is {shirt_size}!")
-#         return []

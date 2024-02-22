@@ -1,37 +1,18 @@
 version: "3.1"
-# session_config:
-#   session_expiration_time: 60
-#   carry_over_slots_to_new_session: true
+
 
 
 intents:
-  - greet
-  - goodbye
-  - affirm
-  - deny
-  - mood_great
-  - mood_unhappy
-  - bot_challenge
-  - book_appointment
-  - medical_query
-  - prescription_request
-  - insurance_info
-  - repeat_phone
-  - say_phone
   - phone
+  - choose_appointment_date
   - name_and_place
   - name
   - place
-  - choose_appointment_date
   - inform_booking
-  - request_appointment_form
-  - make_appointment
-  # - repeat_shirt_size
-  # - ask_me_anything
-  # - give_shirt_size
-  # - request_pizza_form
-  # - buy_pizza
-  # - inform
+  - ask_me_anything
+  - affirm
+  - deny
+  
 
 entities:
   - number
@@ -42,9 +23,7 @@ entities:
   - appointment_type
   - appointment_day
   - appointment_timeslot
-  # - pizza_size
-  # - pizza_type
-  # - shirt_size
+
 
 slots:
   phone:
@@ -89,57 +68,12 @@ slots:
     mappings:
     - type: from_entity
       entity: age
-  # datetime:
-  #   type: text
-  #   influence_conversation: true
-  #   mappings:
-  #   - type: from_entity
-  #     entity: datetime
-  # pizza_size:
-  #   type: text
-  #   influence_conversation: true
-  #   mappings:
-  #   - type: from_entity
-  #     entity: pizza_size
-  # pizza_type:
-  #   type: text
-  #   influence_conversation: true
-  #   mappings:
-  #   - type: from_entity
-  #     entity: pizza_type
-  # shirt_size:
-  #   type: text
-  #   influence_conversation: true
-  #   mappings:
-  #   - type: from_entity
-  #     entity: shirt_size
-  #     conditions:
-  #     - active_loop: shirt_size_form
-
-# forms:
-#   simple_pizza_form:
-#     required_slots:
-#       - pizza_size
-#       - pizza_type
-  # shirt_size_form:
-  #   required_slots:
-  #   - shirt_size
-
-
-
-
-# forms:
-#   appointment_form:
-#     required_slots:
-#       - name
-#       - place
-#       - datetime
 
 
 
 
 responses:
-  # ... existing responses ...
+
   utter_ask_phone:
     - text: "can i get your phone number please"
 
@@ -187,19 +121,9 @@ responses:
   - text: "On which day would you like to schedule the appointment? Please choose from {'/'.join(ALLOWED_DAYS)}."
   utter_ask_appointment_timeslot:
   - text: "What timeslot do you prefer? We have slots in the {'/'.join(ALLOWED_TIMESLOTS)}."
-
-  # utter_submit:
-  # - text: I will now order a pizza for you!
-  # utter_pizza_slots:
-  # - text: I will order a {pizza_size} {pizza_type} pizza.
   utter_ask_continue:
   - text: Are you sure you want to stop the form?
-  # utter_ask_pizza_size:
-  # - text: What size would you like your pizza to be?
-  # utter_ask_pizza_type:
-  # - text: What kind of pizza would you like to buy?
-  # utter_ask_shirt_size:
-  # - text: What is your shirt size?
+
 
 
 actions:
@@ -215,8 +139,3 @@ actions:
   - utter_remember
   - validate_appointment_form
 
-  # - utter_pizza_slots
-  # - utter_submit
-  # - validate_simple_pizza_form
-  # - action_say_shirt_size
-  # - utter_ask_shirt_size
