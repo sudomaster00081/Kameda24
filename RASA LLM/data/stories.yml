@@ -35,17 +35,17 @@ stories:
     - place: "london"
   - action: utter_inform_booking
 
-- story: normal path
-  steps:
-  - user: "Hello"
-  - action: utter_assistance
-  - intent: phone
-  # - user: "This is my phone number [2365894561] (number)"
-    entities:
-    - number: 7896541230
-  - slot_was_set:
-    - phone: 9874561230
-  - action: action_say_phone
+# - story: normal path
+#   steps:
+#   - user: "Hello"
+#   - action: utter_assistance
+#   - intent: phone
+#   # - user: "This is my phone number [2365894561] (number)"
+#     entities:
+#     - number: 7896541230
+#   - slot_was_set:
+#     - phone: 9874561230
+#   - action: action_say_phone
 
 # - story: normal path2
 #   steps:
