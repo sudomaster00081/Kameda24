@@ -2,6 +2,21 @@ from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 from typing import Any, Text, Dict, List
 
+from typing import Text, List, Dict, Any
+from rasa_sdk import Tracker, FormValidationAction, Action
+from rasa_sdk.events import EventType
+from rasa_sdk.executor import CollectingDispatcher
+from rasa_sdk.types import DomainDict
+
+from typing import Dict, Text, Any, List, Union
+from rasa_sdk import Action, Tracker
+from rasa_sdk.executor import CollectingDispatcher
+# from rasa_sdk.forms import FormAction
+
+from typing import Any, Text, Dict, List
+from rasa_sdk import Action, Tracker
+from rasa_sdk.executor import CollectingDispatcher
+
 class ActionSayPhone(Action):
 
     def name(self) -> Text:
@@ -29,18 +44,9 @@ class UtterGoodbye(Action):
 
 
 
-from typing import Text, List, Dict, Any
-from rasa_sdk import Tracker, FormValidationAction, Action
-from rasa_sdk.events import EventType
-from rasa_sdk.executor import CollectingDispatcher
-from rasa_sdk.types import DomainDict
 
-from typing import Dict, Text, Any, List, Union
-from rasa_sdk import Action, Tracker
-from rasa_sdk.executor import CollectingDispatcher
-from rasa_sdk.forms import FormAction
 
-class ValidateAppointmentForm(FormAction):
+class ValidateAppointmentForm(FormValidationAction):
     def name(self) -> Text:
         return "validate_appointment_form"
 
@@ -83,9 +89,7 @@ class ValidateAppointmentForm(FormAction):
             return {"name": value}
 
 
-from typing import Any, Text, Dict, List
-from rasa_sdk import Action, Tracker
-from rasa_sdk.executor import CollectingDispatcher
+
 
 class ActionBookAppointment(Action):
     def name(self) -> Text:

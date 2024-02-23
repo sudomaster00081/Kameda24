@@ -5,58 +5,23 @@ nlu:
 
 
     
-- intent: choose_appointment_date
-  examples: |
-    - I want to schedule an appointment on [2024-03-01](date)
-    - Can I get an appointment for [next Monday](date)?
-    - How about scheduling on [March 15th](date)?
-
+# - intent: choose_appointment_date
+#   examples: |
+#     - I want to schedule an appointment on [2024-03-01](date)
+#     - Can I get an appointment for [next Monday](date)?
+#     - How about scheduling on [March 15th](date)?
 
 - intent: inform_booking
   examples: |
-    - My name is [John Doe](name), and I want a [general checkup](appointment_type).
-    - [Alice](name) here. I need a [specialist consultation](appointment_type) in the [afternoon](appointment_timeslot).
-    - [Bob](name), [City Hospital](place), [30](age), [Thursday](appointment_day), [evening](appointment_timeslot), [9876543210](number).
-    - I'm [Emily](name). I'd like to book a [vaccination](appointment_type) appointment on [Friday](appointment_day).
-    - [David](name), [45](age), [Saturday](appointment_day), [afternoon](appointment_timeslot), [specialist consultation](appointment_type), [1234567890](number).
-    - [Eva](name), [urgent](appointment_type), [place](place), [25](age), [Wednesday](appointment_day), [evening](appointment_timeslot), [8765432109](number).
-    - [Frank](name), [Monday](appointment_day), [morning](appointment_timeslot), [general checkup](appointment_type), [555-1234](number).
-    - [Grace](name), [place](place), [date](appointment_day), [time](appointment_timeslot).
-    - [Henry](name), [place](place), [age](age), [Thursday](appointment_day), [morning](appointment_timeslot), [123-456-7890](number).
-    - I'm [Ivy](name). I want a [general checkup](appointment_type) on [Tuesday](appointment_day) in the [afternoon](appointment_timeslot).
-    - I am [John Doe](name) and I live in [New York](place)
-    - [Alice](name) is my name, and I reside in [London](place)
-    - My name is [Bob](name), and I'm from [Paris](place)
-    - I go by the name [Emily](name), and my hometown is [Los Angeles](place)
-    - This is [Michael](name), and I come from [Chicago](place)
-    - Let me introduce myself, I'm [Sophia](name), and I currently live in [Berlin](place)
-    - Hi, [David](name) here, and I'm originally from [Tokyo](place)
-    - [Isabella](name) is who I am, and I call [Sydney](place) my home
-    - The name's [Alexander](name), and my place is [Moscow](place)
-    - [Ella](name) residing in [Toronto](place), nice to meet you!
-    - [William](name) reporting in, and my location is [Barcelona](place)
-    - My name is [Jack](name)
-    - Call me [Alice](name)
-    - I'm [Bob](name), nice to meet you
-    - My name's [Emily](name).
-    - You can call me [Alex](name).
-    - I go by the name [Sophia](name).
-    - [Josh](name) is the name I use.
-    - I'm [Eva](name), nice to meet you.
-    - I live in [New York](place)
-    - [Paris](place) is my hometown
-    - The place I like the most is [London](place)
-    - I reside in [Los Angeles](place)
-    - [Tokyo](place) is where I currently live
-    - The city of [Sydney](place) is my favorite place
-    - My hometown is [Berlin](place)
-    - [Barcelona](place) is a city I frequently visit
-    - I love spending time in [Dubai](place)
-    - [7559854598] (number)
-    - This is my phone number [2365894561] (number)
-    - Here you go [9874562159] (number)
-    - My phone number is [1234569870](number)
-    - Call me at [7896541230] (number)
+    - I want to book an appointment with [Jack](name) in [London](place).
+    - Schedule an appointment for [Jack](name) in [London](place).
+    - Can you help me book a meeting with [Jack](name) in [London](place)?
+    - Book an appointment for me with [Jack](name) in [London](place).
+    - I am [Jack](name) and I live in [London](place).
+    - I am from [London](place).
+    - [Jack](name) is my name.
+    - [London](place) is my place.
+
 
 
 

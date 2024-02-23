@@ -5,14 +5,17 @@ stories:
 - story: normal_pathform
   steps:
   - user: "Hello"
-    - action: utter_assistance
+  - action: utter_assistance
   - user: "I want to schedule an appointment."
-    - action: validate_appointment_form
+  - action: utter_book_appointment
+  - intent: inform_booking
+  - action: validate_appointment_form
   - active_loop: validate_appointment_form
   - slot_was_set:
       - name: "jack"
       - place: "london"
-  - action: action_book_appointment
+  - action: utter_inform_booking
+
 
 
 

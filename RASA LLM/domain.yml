@@ -3,7 +3,7 @@ version: "3.1"
 
 
 intents:
-  - choose_appointment_date
+  # - choose_appointment_date
   - inform_booking
   - ask_me_anything
   - affirm
