@@ -2,13 +2,8 @@ version: "3.1"
 
 nlu:
 
-- intent: phone 
-  examples: |
-    - [7559854598] (number)
-    - This is my phone number [2365894561] (number)
-    - Here you go [9874562159] (number)
-    - My phone number is [1234569870](number)
-    - Call me at [7896541230] (number)
+
+
     
 - intent: choose_appointment_date
   examples: |
@@ -59,7 +54,11 @@ nlu:
     - My hometown is [Berlin](place)
     - [Barcelona](place) is a city I frequently visit
     - I love spending time in [Dubai](place)
-
+    - [7559854598] (number)
+    - This is my phone number [2365894561] (number)
+    - Here you go [9874562159] (number)
+    - My phone number is [1234569870](number)
+    - Call me at [7896541230] (number)
 
 
 

@@ -3,7 +3,6 @@ version: "3.1"
 
 
 intents:
-  - phone
   - choose_appointment_date
   - inform_booking
   - ask_me_anything
@@ -66,7 +65,11 @@ slots:
     - type: from_entity
       entity: age
 
-
+forms:
+  appointment_form:
+    required_slots:
+        - name
+        - place
 
 
 responses:
@@ -123,6 +126,10 @@ responses:
   - text: "What timeslot do you prefer? We have slots in the {'/'.join(ALLOWED_TIMESLOTS)}."
   utter_ask_continue:
   - text: Are you sure you want to stop the form?
+  utter_ask_name:
+  - text: Can you Say your name please
+  utter_ask_place:
+  - text: Can you provide your location please
   utter_inform_booking:
    - text: I will book for {name} of {place} Now.
   utter_book_appointment:

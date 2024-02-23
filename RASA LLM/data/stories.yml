@@ -2,7 +2,23 @@ version: "3.1"
 
 stories:
 
-- story: normal path0
+# - story: normal path0
+#   steps:
+#   - user: "Hello"
+#   - action: utter_assistance
+#   - user: "I want to schedule an appointment."
+#   - action: utter_book_appointment
+#   - intent: inform_booking
+#     entities:
+#     - name: "jack"
+#     - place: "london"
+#   - slot_was_set:
+#     - name: "jack"
+#     - place: "london"
+#   - action: utter_inform_booking
+
+
+- story: normal pathform
   steps:
   - user: "Hello"
   - action: utter_assistance
@@ -12,6 +28,8 @@ stories:
     entities:
     - name: "jack"
     - place: "london"
+  - action: validate_appointment_form  
+  - active_loop: validate_appointment_form
   - slot_was_set:
     - name: "jack"
     - place: "london"
@@ -29,19 +47,19 @@ stories:
     - phone: 9874561230
   - action: action_say_phone
 
-- story: normal path2
-  steps:
-  - user: "Hello"
-  - action: utter_assistance
-  - intent: deny
-  - action: utter_ask_phone
-  - intent: phone
-  # - user: "This is my phone number [2365894561] (number)"
-    entities:
-    - number: 7896541230
-  - slot_was_set:
-    - phone: 9874561230
-  - action: action_say_phone
+# - story: normal path2
+#   steps:
+#   - user: "Hello"
+#   - action: utter_assistance
+#   - intent: deny
+#   - action: utter_ask_phone
+#   - intent: phone
+#   # - user: "This is my phone number [2365894561] (number)"
+#     entities:
+#     - number: 7896541230
+#   - slot_was_set:
+#     - phone: 9874561230
+#   - action: action_say_phone
 
 
 
