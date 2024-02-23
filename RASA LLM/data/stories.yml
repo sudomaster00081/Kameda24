@@ -2,7 +2,21 @@ version: "3.1"
 
 stories:
 
-# - story: normal path0
+- story: normal_pathform
+  steps:
+  - user: "Hello"
+    - action: utter_assistance
+  - user: "I want to schedule an appointment."
+    - action: validate_appointment_form
+  - active_loop: validate_appointment_form
+  - slot_was_set:
+      - name: "jack"
+      - place: "london"
+  - action: action_book_appointment
+
+
+
+# - story: normal pathform
 #   steps:
 #   - user: "Hello"
 #   - action: utter_assistance
@@ -12,28 +26,12 @@ stories:
 #     entities:
 #     - name: "jack"
 #     - place: "london"
+#   - action: validate_appointment_form  
+#   - active_loop: validate_appointment_form
 #   - slot_was_set:
 #     - name: "jack"
 #     - place: "london"
 #   - action: utter_inform_booking
-
-
-- story: normal pathform
-  steps:
-  - user: "Hello"
-  - action: utter_assistance
-  - user: "I want to schedule an appointment."
-  - action: utter_book_appointment
-  - intent: inform_booking
-    entities:
-    - name: "jack"
-    - place: "london"
-  - action: validate_appointment_form  
-  - active_loop: validate_appointment_form
-  - slot_was_set:
-    - name: "jack"
-    - place: "london"
-  - action: utter_inform_booking
 
 # - story: normal path
 #   steps:

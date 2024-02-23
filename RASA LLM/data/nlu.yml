@@ -27,7 +27,6 @@ nlu:
     - I am [John Doe](name) and I live in [New York](place)
     - [Alice](name) is my name, and I reside in [London](place)
     - My name is [Bob](name), and I'm from [Paris](place)
-    - intent: name_and_place
     - I go by the name [Emily](name), and my hometown is [Los Angeles](place)
     - This is [Michael](name), and I come from [Chicago](place)
     - Let me introduce myself, I'm [Sophia](name), and I currently live in [Berlin](place)
@@ -36,18 +35,17 @@ nlu:
     - The name's [Alexander](name), and my place is [Moscow](place)
     - [Ella](name) residing in [Toronto](place), nice to meet you!
     - [William](name) reporting in, and my location is [Barcelona](place)
-    - My name is [John Doe](name)
+    - My name is [Jack](name)
     - Call me [Alice](name)
     - I'm [Bob](name), nice to meet you
     - My name's [Emily](name).
     - You can call me [Alex](name).
     - I go by the name [Sophia](name).
-    - [Chris](name) is the name I use.
+    - [Josh](name) is the name I use.
     - I'm [Eva](name), nice to meet you.
-    - - I live in [New York](place)
+    - I live in [New York](place)
     - [Paris](place) is my hometown
     - The place I like the most is [London](place)
-    - intent: place
     - I reside in [Los Angeles](place)
     - [Tokyo](place) is where I currently live
     - The city of [Sydney](place) is my favorite place
