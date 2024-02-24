@@ -2,13 +2,34 @@ version: "3.1"
 
 stories:
 
+# - story: normal_pathform
+#   steps:
+#   - user: "Hello"
+#   - action: utter_assistance
+#   - user: "I want to schedule an appointment."
+#   - action: utter_book_appointment
+#   - intent: inform_booking
+#   - action: appointment_form
+#   - active_loop: appointment_form
+#   - slot_was_set:
+#     - requested_slot: name
+#   - slot_was_set:
+#     - name: "john"
+#   - slot_was_set:
+#     - requested_slot: place
+#   - slot_was_set:
+#     - place: "london"
+#   - slot_was_set:
+#     - requested_slot: null
+#   - active_loop: null
+#   - action: utter_inform_booking
+
+
 - story: normal_pathform
   steps:
   - user: "Hello"
   - action: utter_assistance
   - user: "I want to schedule an appointment."
-  - action: utter_book_appointment
-  - intent: inform_booking
   - action: appointment_form
   - active_loop: appointment_form
   - slot_was_set:

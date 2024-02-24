@@ -133,7 +133,7 @@ responses:
   utter_inform_booking:
    - text: I will book for {name} of {place} Now.
   utter_book_appointment:
-    - text: Please provide me with further details.{name},{place}
+    - text: Please provide me with further details. What is Your name?{name},{place}
 
 actions:
   - action_say_phone
