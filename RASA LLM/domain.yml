@@ -150,4 +150,5 @@ actions:
   - utter_greet
   - utter_remember
   - validate_appointment_form
+  - action_say_data
 

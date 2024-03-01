@@ -136,6 +136,29 @@ class ActionBookAppointment(Action):
         return []
 
 
+
+class ActionSayData(Action):
+    def name(self) -> Text:
+        return "action_say_data"
+
+    def run(
+        self,
+        dispatcher: CollectingDispatcher,
+        tracker: Tracker,
+        domain: Dict[Text, Any],
+    ) -> List[Dict[Text, Any]]:
+        name = tracker.get_slot("name")
+        place = tracker.get_slot("place")
+
+        # Perform the booking logic here
+        # You can use the collected information (name, place) to book the appointment
+
+        # For demonstration purposes, let's just confirm the booking in the response
+        dispatcher.utter_message(f"Appointment booked for {name} in {place} (using rules).")
+
+        return []
+
+
 class ActionMedicalInfo(Action):
 
     def name(self) -> Text:

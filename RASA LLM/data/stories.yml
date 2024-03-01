@@ -35,20 +35,20 @@ stories:
   # - intent: inform_booking
   - action: appointment_form
   - active_loop: appointment_form
-  - slot_was_set:
-    - requested_slot: name
-  - slot_was_set:
-    - name: "john"
-  - slot_was_set:
-    - requested_slot: place
-  - slot_was_set:
-    - place: "london"
-  - slot_was_set:
-    - requested_slot: null
-  - active_loop: null
-  - action: utter_inform_booking
-  - intent : affirm
-  - action : utter_confirmed
+  # - slot_was_set:
+  #   - requested_slot: name
+  # - slot_was_set:
+  #   - name: "john"
+  # - slot_was_set:
+  #   - requested_slot: place
+  # - slot_was_set:
+  #   - place: "london"
+  # - slot_was_set:
+  #   - requested_slot: null
+  # - active_loop: null
+  # - action: utter_inform_booking
+  # - intent : affirm
+  # - action : utter_confirmed
 
 
 # - story: normal_pathform
