@@ -2,6 +2,10 @@ version: "3.1"
 
 stories:
 
+
+
+
+
 # - story: normal_pathform
 #   steps:
 #   - user: "Hello"
@@ -23,141 +27,69 @@ stories:
 #     - requested_slot: null
 #   - active_loop: null
 #   - action: utter_inform_booking
+#   - intent : affirm
+#   - action : utter_confirmed
 
 
-
-- story: normal_pathform
+- story: normal_pathformmr
   steps:
   - user: "Hello"
   - action: utter_assistance
   - user: "I want to schedule an appointment."
-  # - action: utter_book_appointment
-  # - intent: inform_booking
+  - action: utter_book_appointment
+  - intent: affirm
+  - action: utter_book_appointmentmr
+  - intent: inform_booking
+  - action: appointment_formmr
+  - active_loop: appointment_formmr
+  - slot_was_set:
+    - requested_slot: number
+  - slot_was_set:
+    - name: 5215468466
+  - slot_was_set:
+    - requested_slot: number
+  - slot_was_set:
+    - name: "john"
+  - slot_was_set:
+    - requested_slot: place
+  - slot_was_set:
+    - place: "london"
+  - slot_was_set:
+    - requested_slot: null
+  - active_loop: null
+  - action: utter_inform_bookingmr
+  - intent : affirm
+  - action : utter_confirmedmr
+
+
+
+- story: normal_pathformnmr
+  steps:
+  - user: "Hello"
+  - action: utter_assistance
+  - user: "I want to schedule an appointment."
+  - action: utter_book_appointment
+  - intent: deny
+  - action: utter_book_appointmentnmr
+  - intent: inform_booking
   - action: appointment_form
   - active_loop: appointment_form
-  # - slot_was_set:
-  #   - requested_slot: name
-  # - slot_was_set:
-  #   - name: "john"
-  # - slot_was_set:
-  #   - requested_slot: place
-  # - slot_was_set:
-  #   - place: "london"
-  # - slot_was_set:
-  #   - requested_slot: null
-  # - active_loop: null
-  # - action: utter_inform_booking
-  # - intent : affirm
-  # - action : utter_confirmed
+  - slot_was_set:
+    - requested_slot: name
+  - slot_was_set:
+    - name: "john"
+  - slot_was_set:
+    - requested_slot: place
+  - slot_was_set:
+    - place: "london"
+  - slot_was_set:
+    - requested_slot: null
+  - active_loop: null
+  - action: utter_inform_booking
+  - intent : affirm
+  - action : utter_confirmed
 
 
-# - story: normal_pathform
-#   steps:
-#   - user: "Hello"
-#   - action: utter_assistance
-#   - user: "I want to schedule an appointment."
-#   - action: appointment_form
-#   - active_loop: appointment_form
-#   - slot_was_set:
-#     - requested_slot: name
-#   - intent: inform_booking
-#     entities:
-#     - name: jack
-#   - slot_was_set:
-#     - name: john
-#   - action: appointment_form
-#   - active_loop: appointment_form
-#   - slot_was_set:
-#     - requested_slot: place
-#   - intent: inform_booking
-#     entities:
-#     - place: london
-#   - slot_was_set:
-#     - place: london
-#   - action: appointment_form
-#   - slot_was_set:
-#     - requested_slot: null
-#   - active_loop: null
-#   - action: utter_inform_booking
-
-
-
-
-# - story: normal pathform
-#   steps:
-#   - user: "Hello"
-#   - action: utter_assistance
-#   - user: "I want to schedule an appointment."
-#   - action: utter_book_appointment
-#   - intent: inform_booking
-#     entities:
-#     - name: "jack"
-#     - place: "london"
-#   - action: validate_appointment_form  
-#   - active_loop: validate_appointment_form
-#   - slot_was_set:
-#     - name: "jack"
-#     - place: "london"
-#   - action: utter_inform_booking
-
-# - story: normal path
-#   steps:
-#   - user: "Hello"
-#   - action: utter_assistance
-#   - intent: phone
-#   # - user: "This is my phone number [2365894561] (number)"
-#     entities:
-#     - number: 7896541230
-#   - slot_was_set:
-#     - phone: 9874561230
-#   - action: action_say_phone
-
-# - story: normal path2
-#   steps:
-#   - user: "Hello"
-#   - action: utter_assistance
-#   - intent: deny
-#   - action: utter_ask_phone
-#   - intent: phone
-#   # - user: "This is my phone number [2365894561] (number)"
-#     entities:
-#     - number: 7896541230
-#   - slot_was_set:
-#     - phone: 9874561230
-#   - action: action_say_phone
-
-
-
-# - story: path with name and place
-#   steps:
-#   # - user: "I am John Doe and I live in New York"
-#   - intent: inform_booking
-#     entities:
-#     - name: jane doe
-#     - place: newyork
-#   - slot_was_set:
-#     - name: John Doe
-#     - place: newyork
-#   - action: action_say_inform_booking
-
-
-# - story: path with name
-#   steps:
-#   - intent: name
-#     entities:
-#     - name: jane doe
-#   - slot_was_set:
-#     - name: John Doe
-#   - action: action_say_inform_booking
-
-# - story: path with place
-#   steps:
-#   - intent: place
-#     entities:
-#     - place: newyork
-#   - slot_was_set:
-#     - place: london
-#   - action: action_say_inform_booking
 
 
 # - story: Book appointment

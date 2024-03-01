@@ -14,13 +14,13 @@ rules:
 
 
 
-- rule: submit form
-  condition:
-  - active_loop: appointment_form
-  steps:
-  - action: appointment_form
-  - active_loop: null
-  - slot_was_set:
-    - requested_slot: null
-  - action: action_say_data
+# - rule: submit form
+#   condition:
+#   - active_loop: appointment_form
+#   steps:
+#   - action: appointment_form
+#   - active_loop: null
+#   - slot_was_set:
+#     - requested_slot: null
+#   - action: action_say_data
 

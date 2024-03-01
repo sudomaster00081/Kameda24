@@ -22,6 +22,9 @@ nlu:
     - [Jack](name) is my name.
     - [London](place) is my place.
     - my name is [Ajay](name) i am from [Calicut](place)
+    - My MR number is [1234567890](number).
+    - [9876543210](number).
+    - The number is [5551234](number).
 
 
 

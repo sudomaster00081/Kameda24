@@ -28,6 +28,15 @@ slots:
     mappings:
     - type: from_entity
       entity: number
+
+  number:
+    type: text
+    influence_conversation: true
+    mappings:
+    - type: from_entity
+      entity: number
+
+    
   name:
     type: text
     influence_conversation: true
@@ -70,7 +79,13 @@ forms:
     required_slots:
         - name
         - place
-
+  
+  appointment_formmr:
+    required_slots:
+        - number
+        - name
+        - place
+        
 
 responses:
 
@@ -130,12 +145,26 @@ responses:
   - text: Can you Say your name please
   utter_ask_place:
   - text: Can you provide your location please
+  utter_ask_number:
+  - text: Can you provide your MRnumber please
   utter_inform_booking:
    - text: I will book for {name} of {place} Now.
+  utter_inform_bookingmr:
+   - text: I will book for {name} of {place} with mr {number} Now.
   utter_book_appointment:
-    - text: Please provide me with further details. What is Your name?{name},{place}
+    - text: Please provide me with further details. Do you have mr number?
+
+  utter_book_appointmentmr:
+    - text: Please provide me with mr number
+
+  utter_book_appointmentnmr:
+    - text: What is Your name?{name},{place}
+
+
   utter_confirmed :
     - text: Booking Confirmed for {name}, from {place}
+  utter_confirmedmr :
+    - text: Booking Confirmed for {name}, from {place} with mr {number}.
 
 
 actions:
