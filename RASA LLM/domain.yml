@@ -134,6 +134,9 @@ responses:
    - text: I will book for {name} of {place} Now.
   utter_book_appointment:
     - text: Please provide me with further details. What is Your name?{name},{place}
+  utter_confirmed :
+    - text: Booking Confirmed for {name}, from {place}
+
 
 actions:
   - action_say_phone

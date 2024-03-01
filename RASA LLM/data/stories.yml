@@ -47,6 +47,8 @@ stories:
     - requested_slot: null
   - active_loop: null
   - action: utter_inform_booking
+  - intent : affirm
+  - action : utter_confirmed
 
 
 # - story: normal_pathform
