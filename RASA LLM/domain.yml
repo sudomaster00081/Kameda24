@@ -22,12 +22,12 @@ entities:
 
 
 slots:
-  phone:
-    type: text
-    influence_conversation: true
-    mappings:
-    - type: from_entity
-      entity: number
+  # phone:
+  #   type: text
+  #   influence_conversation: true
+  #   mappings:
+  #   - type: from_entity
+  #     entity: number
 
   number:
     type: text

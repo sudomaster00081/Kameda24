@@ -13,14 +13,14 @@ nlu:
 
 - intent: inform_booking
   examples: |
-    - I want to book an appointment with [Jack](name) in [London](place).
+    - I want to book an appointment with [john](name) in [trivandrum](place).
     - Schedule an appointment for [Jack](name) in [London](place).
-    - Can you help me book a meeting with [Jack](name) in [London](place)?
-    - Book an appointment for me with [Jack](name) in [London](place).
-    - I am [Jack](name) and I live in [London](place).
+    - Can you help me book a meeting with [jill](name) in [London](place)?
+    - Book an appointment for me with [alex](name) in [kerala](place).
+    - I am [alice](name) and I live in [London](place).
     - I am from [London](place).
-    - [Jack](name) is my name.
-    - [London](place) is my place.
+    - [abhi](name) is my name.
+    - [india](place) is my place.
     - my name is [Ajay](name) i am from [Calicut](place)
     - My MR number is [1234567890](number).
     - [9876543210](number).
@@ -45,6 +45,7 @@ nlu:
     - of course
     - that sounds good
     - correct
+    - sure
 
 - intent: deny
   examples: |
@@ -55,4 +56,5 @@ nlu:
     - don't like that
     - no way
     - not really
+    - dont
 

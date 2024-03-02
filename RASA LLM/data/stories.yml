@@ -38,6 +38,7 @@ stories:
   - user: "I want to schedule an appointment."
   - action: utter_book_appointment
   - intent: affirm
+  # - user: "yes"
   - action: utter_book_appointmentmr
   - intent: inform_booking
   - action: appointment_formmr
@@ -45,7 +46,7 @@ stories:
   - slot_was_set:
     - requested_slot: number
   - slot_was_set:
-    - name: 5215468466
+    - number: 5215468466
   - slot_was_set:
     - requested_slot: number
   - slot_was_set:
@@ -58,7 +59,7 @@ stories:
     - requested_slot: null
   - active_loop: null
   - action: utter_inform_bookingmr
-  - intent : affirm
+  - intent : "yes"
   - action : utter_confirmedmr
 
 
@@ -69,6 +70,7 @@ stories:
   - action: utter_assistance
   - user: "I want to schedule an appointment."
   - action: utter_book_appointment
+  # - user: "no"
   - intent: deny
   - action: utter_book_appointmentnmr
   - intent: inform_booking
@@ -86,7 +88,7 @@ stories:
     - requested_slot: null
   - active_loop: null
   - action: utter_inform_booking
-  - intent : affirm
+  - intent : "yes"
   - action : utter_confirmed
 
 
@@ -145,10 +147,10 @@ stories:
   - user: "good bye"
   - action: utter_goodbye
 
-- story: repeat phone
-  steps:
-  - user: "repeat my phone number"
-  - action: action_say_phone
+# - story: repeat phone
+#   steps:
+#   - user: "repeat my phone number"
+#   - action: action_say_phone
 
 # ## Happy path for booking an appointment
 # - story: Book appointment
