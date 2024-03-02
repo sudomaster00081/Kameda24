@@ -39,8 +39,8 @@ stories:
   - action: utter_book_appointment
   - intent: affirm
   # - user: "yes"
-  - action: utter_book_appointmentmr
-  - intent: inform_booking
+  # - action: utter_book_appointmentmr
+  # - intent: inform_booking
   - action: appointment_formmr
   - active_loop: appointment_formmr
   - slot_was_set:
@@ -72,8 +72,8 @@ stories:
   - action: utter_book_appointment
   # - user: "no"
   - intent: deny
-  - action: utter_book_appointmentnmr
-  - intent: inform_booking
+  # - action: utter_book_appointmentnmr
+  # - intent: inform_booking
   - action: appointment_form
   - active_loop: appointment_form
   - slot_was_set:
