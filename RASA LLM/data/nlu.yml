@@ -4,12 +4,7 @@ nlu:
 
 
 
-    
-# - intent: choose_appointment_date
-#   examples: |
-#     - I want to schedule an appointment on [2024-03-01](date)
-#     - Can I get an appointment for [next Monday](date)?
-#     - How about scheduling on [March 15th](date)?
+
 
 - intent: inform_booking
   examples: |

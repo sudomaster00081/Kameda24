@@ -91,29 +91,36 @@ responses:
 
   utter_assistance:
     - text: "How Can i Help you Today"
+  utter_ask_name:
+  - text: Can you Say your name please
+  utter_ask_place:
+  - text: Can you provide your location please
+  utter_ask_number:
+  - text: Can you provide your MRnumber please
+  utter_inform_booking:
+   - text: I will book for {name} of {place} Now.
+  utter_inform_bookingmr:
+   - text: I will book for {name} of {place} with mr {number} Now.
+  utter_book_appointment:
+    - text: Please provide me with further details. Do you have mr number?
+  utter_book_appointmentmr:
+    - text: Please provide me with mr number
+  utter_book_appointmentnmr:
+    - text: What is Your name?{name},{place}
+
+
+  utter_confirmed :
+    - text: Booking Confirmed for {name}, from {place}
+  utter_confirmedmr :
+    - text: Booking Confirmed for {name}, from {place} with mr {number}.
+
+
 
   utter_ask_phone:
     - text: "can i get your phone number please"
 
   utter_appointment_confirmation:
     - text: "Great! Your appointment with {name} at {place} on {appointment_date} is scheduled."
-
-  utter_weather:
-  - text: "weather is good today..."
-
-  utter_greet:
-  - text: "Hey! How are you?"
-
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
-
-  utter_did_that_help:
-  - text: "Did that help you?"
-
-  utter_happy:
-  - text: "Great, carry on!"
-
   utter_goodbye:
   - text: "Bye"
 
@@ -141,31 +148,6 @@ responses:
   - text: "What timeslot do you prefer? We have slots in the {'/'.join(ALLOWED_TIMESLOTS)}."
   utter_ask_continue:
   - text: Are you sure you want to stop the form?
-  utter_ask_name:
-  - text: Can you Say your name please
-  utter_ask_place:
-  - text: Can you provide your location please
-  utter_ask_number:
-  - text: Can you provide your MRnumber please
-  utter_inform_booking:
-   - text: I will book for {name} of {place} Now.
-  utter_inform_bookingmr:
-   - text: I will book for {name} of {place} with mr {number} Now.
-  utter_book_appointment:
-    - text: Please provide me with further details. Do you have mr number?
-
-  utter_book_appointmentmr:
-    - text: Please provide me with mr number
-
-  utter_book_appointmentnmr:
-    - text: What is Your name?{name},{place}
-
-
-  utter_confirmed :
-    - text: Booking Confirmed for {name}, from {place}
-  utter_confirmedmr :
-    - text: Booking Confirmed for {name}, from {place} with mr {number}.
-
 
 actions:
   - action_say_phone
