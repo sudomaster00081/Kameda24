@@ -35,6 +35,10 @@ stories:
   - user: "show me places to eat"
   - action: action_show_restaurants
 
+- story: restaurant details
+  steps:
+  - intent: restaurant
+  - action: action_show_restaurants
 
 
 - story: normal_pathformmr
