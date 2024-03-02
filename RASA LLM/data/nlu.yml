@@ -3,7 +3,14 @@ version: "3.1"
 nlu:
 
 
-
+- intent: distance
+  examples: |
+    - which of them have wifi and is closest
+    - which of them doesn't have wifi and is closest
+    - which of them have best rating and is closest
+    - for the above show the nearest
+    - which of them have wifi and is closest
+    - shortest distance
 
 
 - intent: inform_booking

@@ -2,6 +2,29 @@ version: "3.1"
 
 rules:
 
+- rule: show restaurants
+  steps:
+  - intent: restaurants
+  - action: action_show_restaurants
+
+- rule: show detail
+  steps:
+  - intent: detail
+  - action: action_restaurants_detail
+
+- rule: show distance
+  steps:
+  - intent: distance
+  - action: action_distance
+
+
+
+
+
+
+
+
+
 - rule: Say goodbye anytime the user says goodbye
   steps:
   - user: "goodbye"

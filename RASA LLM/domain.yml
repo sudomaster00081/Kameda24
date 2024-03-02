@@ -8,7 +8,9 @@ intents:
   - ask_me_anything
   - affirm
   - deny
-  
+  - restaurants
+  - detail
+  - distance
 
 entities:
   - number
@@ -21,6 +23,7 @@ entities:
   - appointment_timeslot
 
 
+
 slots:
   # phone:
   #   type: text
@@ -28,6 +31,16 @@ slots:
   #   mappings:
   #   - type: from_entity
   #     entity: number
+
+
+  results:
+    type: text
+    mappings:
+    - type: custom
+      action: action_show_restaurants
+
+
+
 
   number:
     type: text
@@ -162,4 +175,6 @@ actions:
   - utter_remember
   - validate_appointment_form
   - action_say_data
-
+  - action_show_restaurants
+  - action_restaurants_detail
+  - action_distance
