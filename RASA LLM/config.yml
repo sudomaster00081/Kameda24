@@ -11,6 +11,7 @@ assistant_id: 20240217-101808-extremal-thumbnail
 language: en
 
 pipeline:
+  # - name: rasa_plus
   - name: WhitespaceTokenizer
   - name: RegexFeaturizer
   - name: LexicalSyntacticFeaturizer

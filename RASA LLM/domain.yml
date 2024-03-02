@@ -171,7 +171,7 @@ actions:
   - action_say_name_and_place
   - utter_ask_continue
   - utter_goodbye
-  - utter_greet
+  # - utter_greet
   - utter_remember
   - validate_appointment_form
   - action_say_data

@@ -30,6 +30,12 @@ stories:
 #   - intent : affirm
 #   - action : utter_confirmed
 
+- story: restaurant details
+  steps:
+  - intent: restaurants
+  - action: action_show_restaurants
+
+
 
 - story: normal_pathformmr
   steps:
@@ -59,7 +65,7 @@ stories:
     - requested_slot: null
   - active_loop: null
   - action: utter_inform_bookingmr
-  - intent : "yes"
+  - user : "yes"
   - action : utter_confirmedmr
 
 
@@ -88,32 +94,32 @@ stories:
     - requested_slot: null
   - active_loop: null
   - action: utter_inform_booking
-  - intent : "yes"
+  - user : "yes"
   - action : utter_confirmed
 
 
 
 
 
-- story: inquire medical info
-  steps:
-  - user: "tell me about diabetes symptoms."
-  - action: utter_medical_info
-  # - intent: medical_query
-  # - action: action_medical_info
+# - story: inquire medical info
+#   steps:
+#   - user: "tell me about diabetes symptoms."
+#   - action: utter_medical_info
+#   # - intent: medical_query
+#   # - action: action_medical_info
 
-- story: request prescription
-  steps:
-  - user: "I need a prescription"
-  - action: utter_prescription
-  # - intent: prescription_request
-  # - action: action_prescription
+# - story: request prescription
+#   steps:
+#   - user: "I need a prescription"
+#   - action: utter_prescription
+#   # - intent: prescription_request
+#   # - action: action_prescription
 
-- story: inquire insurance info
-  steps:
-  - user: "can you provide information about my health insurance?"
-  - action: action_insurance_info
-  # - intent: insurance_info
+# - story: inquire insurance info
+#   steps:
+#   - user: "can you provide information about my health insurance?"
+#   - action: action_insurance_info
+#   # - intent: insurance_info
   # - action: action_insurance_info
 
 - story: goodbye
