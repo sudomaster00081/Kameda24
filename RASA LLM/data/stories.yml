@@ -32,7 +32,7 @@ stories:
 
 - story: restaurant details
   steps:
-  - intent: restaurants
+  - user: "show me places to eat"
   - action: action_show_restaurants
 
 
@@ -74,7 +74,7 @@ stories:
   steps:
   - user: "Hello"
   - action: utter_assistance
-  - user: "I want to schedule an appointment."
+  - user: "I want tho schedule an appointment."
   - action: utter_book_appointment
   # - user: "no"
   - intent: deny
