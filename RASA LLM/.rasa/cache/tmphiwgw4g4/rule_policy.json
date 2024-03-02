@@ -1,0 +1,26 @@
+{
+  "lookup": {
+    "rules": {
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"text\": \"goodbye\"}}]": "utter_goodbye",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"text\": \"goodbye\"}}, {\"prev_action\": {\"action_name\": \"utter_goodbye\"}, \"user\": {\"text\": \"goodbye\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"text\": \"are you a bot\"}}]": "utter_iamabot",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"text\": \"are you a bot\"}}, {\"prev_action\": {\"action_name\": \"utter_iamabot\"}, \"user\": {\"text\": \"are you a bot\"}}]": "action_listen"
+    },
+    "rule_only_slots": [],
+    "rule_only_loops": [],
+    "rules_for_loop_unhappy_path": {},
+    "rules_not_in_stories": [
+      "handling active loops and forms - appointment_formmr - action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"text\": \"goodbye\"}}, {\"prev_action\": {\"action_name\": \"utter_goodbye\"}, \"user\": {\"text\": \"goodbye\"}}]",
+      "handling active loops and forms - appointment_form - action_listen",
+      "predicting default action with intent back",
+      "predicting default action with intent restart",
+      "predicting default action with intent session_start",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"text\": \"goodbye\"}}]",
+      "handling active loops and forms - appointment_form",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"text\": \"are you a bot\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"text\": \"are you a bot\"}}, {\"prev_action\": {\"action_name\": \"utter_iamabot\"}, \"user\": {\"text\": \"are you a bot\"}}]",
+      "handling active loops and forms - appointment_formmr"
+    ]
+  }
+}
